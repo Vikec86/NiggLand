@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2024-12-23 21:44:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:23:20 +0000"
@@ -295,9 +301,10 @@
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "requirement_2": "2024-12-23 17:47:59 +0000"
+      "requirement_2": "2024-12-23 17:47:59 +0000",
+      "requirement_1": "2024-12-23 21:44:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
@@ -482,6 +489,12 @@
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-12-23 17:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 21:42:26 +0000"
     },
     "done": true
   },
@@ -2543,6 +2556,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-23 21:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-23 17:57:41 +0000"
@@ -2786,6 +2805,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 21:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 17:24:18 +0000"
@@ -2991,6 +3016,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2024-12-23 21:41:42 +0000"
     },
     "done": true
   },
@@ -4027,6 +4058,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/long_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 21:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 17:14:23 +0000"
@@ -4524,6 +4561,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-23 18:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-23 21:44:14 +0000"
     },
     "done": true
   },

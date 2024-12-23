@@ -3557,3 +3557,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 21:38:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [23Dec2024 21:39:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
 [23Dec2024 21:39:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 65 entities]
+[23Dec2024 21:41:10.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[23Dec2024 21:41:42.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has reached the goal [Troll Hunter]
+[23Dec2024 21:43:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 21:43:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 21:43:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Vampire
+[23Dec2024 21:44:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Heads Up]
