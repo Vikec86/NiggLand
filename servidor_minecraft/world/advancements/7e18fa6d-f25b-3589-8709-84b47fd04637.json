@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-23 20:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:46:17 +0000"
@@ -316,6 +322,12 @@
       "requirement_2": "2024-12-23 17:35:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-23 20:59:36 +0000"
+    },
+    "done": true
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
@@ -1394,6 +1406,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-23 20:59:25 +0000"
     },
     "done": true
   },
@@ -3467,6 +3485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-23 20:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-23 18:27:15 +0000"
@@ -4506,6 +4530,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-23 20:59:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2024-12-23 17:01:06 +0000"
@@ -4551,6 +4581,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-23 20:59:36 +0000"
     },
     "done": true
   },
@@ -4769,6 +4805,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-23 20:59:36 +0000"
     },
     "done": true
   },
@@ -5440,6 +5482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-23 20:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 18:29:49 +0000"
@@ -5575,6 +5623,12 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2024-12-23 19:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-23 20:59:36 +0000"
     },
     "done": true
   },

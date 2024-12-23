@@ -3472,3 +3472,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 20:59:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
 [23Dec2024 20:59:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
 [23Dec2024 21:00:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 21:02:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> staff of clearing
+[23Dec2024 21:03:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[23Dec2024 21:06:57.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/control/ISecurable$AccessMode
+[23Dec2024 21:06:57.121] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/control/IRedstoneControllable$ControlMode
+[23Dec2024 21:06:57.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/lib/api/StorageGroup
+[23Dec2024 21:06:57.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cofh/core/util/filter/FilterHolderType
