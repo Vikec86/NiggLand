@@ -3586,3 +3586,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 22:17:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Villager Spawn Egg] to Sanguchito666]
 [23Dec2024 22:17:42.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/121101, l='ServerLevel[world]', x=-106.52, y=64.00, z=-1026.48] died, message: 'Librarian was slain by Sanguchito666'
 [23Dec2024 22:21:11.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Villager Spawn Egg] to VIK_N_DA_HOOD]
+[23Dec2024 22:22:09.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 15 entities]
+[23Dec2024 22:26:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
