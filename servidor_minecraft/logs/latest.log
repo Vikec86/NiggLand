@@ -3415,3 +3415,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 20:14:47.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [A Seedy Place]
 [23Dec2024 20:16:47.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> tomate y sandia
 [23Dec2024 20:17:12.132] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vojislavka}[style={}] has been infected
+[23Dec2024 20:20:24.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 20:23:02.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 20:23:40.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Direwolf
+[23Dec2024 20:23:48.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 20:27:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> Zzzzzz
+[23Dec2024 20:27:53.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-1108} BlockPos{x=-97, y=63, z=-1110}
