@@ -3112,3 +3112,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 19:03:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 13000]
 [23Dec2024 19:04:58.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
 [23Dec2024 19:04:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 19:07:45.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD didn't want to live in the same world as Skeleton
+[23Dec2024 19:07:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 19:07:55.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:08:44.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[23Dec2024 19:11:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 13000]
+[23Dec2024 19:11:56.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:12:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:15:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Meature
