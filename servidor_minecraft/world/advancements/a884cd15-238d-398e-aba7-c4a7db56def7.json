@@ -1,25 +1,37 @@
 {
-  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_hogchop": "2024-12-23 17:00:41 +0000"
+      "has_furnace": "2024-12-23 17:14:29 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
-      "seeds": "2024-12-23 17:00:41 +0000"
+      "has_wheat": "2024-12-23 17:15:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
+      "has_book": "2024-12-23 17:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-23 17:14:39 +0000"
     },
     "done": true
   },
   "infernalexp:recipes/redstone/smooth_glowstone_button": {
     "criteria": {
       "has_smooth_glowstone": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:15:12 +0000"
     },
     "done": true
   },
@@ -41,9 +53,15 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "WDA": "2024-12-23 17:00:41 +0000"
+      "has_book": "2024-12-23 17:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-23 17:15:48 +0000"
     },
     "done": true
   },
@@ -59,15 +77,21 @@
     },
     "done": true
   },
+  "infernalexp:recipes/combat/glowsilk_bow": {
+    "criteria": {
+      "has_glowsilk": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:01:37 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/combat/glowsilk_bow": {
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
-      "has_glowsilk": "2024-12-23 17:00:41 +0000"
+      "has_any_ingredient": "2024-12-23 17:14:29 +0000"
     },
     "done": true
   },
@@ -79,9 +103,312 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-23 17:15:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-23 17:19:01 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/smooth_dullstone_button": {
+    "criteria": {
+      "has_smooth_dullstone": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-12-23 17:16:27 +0000",
+      "minecraft:frozen_river": "2024-12-23 17:14:10 +0000",
+      "minecraft:snowy_plains": "2024-12-23 17:15:03 +0000",
+      "minecraft:stony_shore": "2024-12-23 17:15:06 +0000",
+      "minecraft:grove": "2024-12-23 17:16:15 +0000",
+      "minecraft:frozen_ocean": "2024-12-23 17:17:37 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cured_jerky": {
+    "criteria": {
+      "has_soul_salt_clump": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 17:14:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-23 17:14:23 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/blindsight_tounge_stew": {
+    "criteria": {
+      "has_tongue": "2024-12-23 17:00:41 +0000",
+      "has_crimson_fungus": "2024-12-23 17:00:41 +0000",
+      "has_warped_fungus": "2024-12-23 17:00:41 +0000",
+      "has_bowl": "2024-12-23 17:00:41 +0000",
+      "has_luminous_fungus": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:14:17 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/basalt_button": {
+    "criteria": {
+      "has_basalt": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-23 17:14:39 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-23 17:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-23 17:14:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-23 17:19:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:14:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/combat/blindsight_tongue_whip": {
+    "criteria": {
+      "has_molten_gold_cluster": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-23 17:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/soul_slate_button": {
+    "criteria": {
+      "has_soul_slate": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/smooth_dimstone_button": {
+    "criteria": {
+      "has_smooth_dimstone": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+    "criteria": {
+      "has_hogchop": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-23 17:14:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-23 17:14:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-23 17:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-23 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-23 17:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-23 17:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-23 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 17:14:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-23 17:14:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-23 17:14:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-23 17:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 17:14:36 +0000"
     },
     "done": true
   },
@@ -97,9 +424,33 @@
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/smooth_dullstone_button": {
+  "mca:recipes/misc/family_tree": {
     "criteria": {
-      "has_smooth_dullstone": "2024-12-23 17:00:41 +0000"
+      "has_item": "2024-12-23 17:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-23 17:20:31 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2024-12-23 17:14:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:14:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-23 17:14:29 +0000"
     },
     "done": true
   },
@@ -121,27 +472,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
-    },
-    "done": true
-  },
-  "infernalexp:recipes/food/cured_jerky": {
-    "criteria": {
-      "has_soul_salt_clump": "2024-12-23 17:00:41 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2024-12-23 17:00:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
     },
     "done": true
   },
@@ -151,43 +484,21 @@
     },
     "done": true
   },
-  "infernalexp:recipes/food/blindsight_tounge_stew": {
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
-      "has_tongue": "2024-12-23 17:00:41 +0000",
-      "has_crimson_fungus": "2024-12-23 17:00:41 +0000",
-      "has_warped_fungus": "2024-12-23 17:00:41 +0000",
-      "has_bowl": "2024-12-23 17:00:41 +0000",
-      "has_luminous_fungus": "2024-12-23 17:00:41 +0000"
+      "has_any_ingredient": "2024-12-23 17:15:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
+      "has_any_ingredient": "2024-12-23 17:14:17 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/basalt_button": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_basalt": "2024-12-23 17:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
-    },
-    "done": true
-  },
-  "corail_recycler:tutorial/root": {
-    "criteria": {
-      "auto": "2024-12-23 17:00:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
+      "has_snowball": "2024-12-23 17:14:18 +0000"
     },
     "done": true
   },
@@ -197,15 +508,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:15:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:01:37 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/dead_boat": {
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
+      "has_potato": "2024-12-23 17:14:17 +0000"
     },
     "done": true
   },
@@ -215,27 +538,21 @@
     },
     "done": true
   },
-  "infernalexp:recipes/combat/blindsight_tongue_whip": {
-    "criteria": {
-      "has_molten_gold_cluster": "2024-12-23 17:00:41 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
     "criteria": {
       "has_soul_slate": "2024-12-23 17:00:41 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
     "criteria": {
-      "killed_by_something": "2024-12-23 17:02:38 +0000"
+      "has_any_ingredient": "2024-12-23 17:14:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
+      "has_potato": "2024-12-23 17:14:17 +0000"
     },
     "done": true
   },
@@ -245,21 +562,15 @@
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/soul_slate_button": {
+  "dungeons_arise:find_typhon": {
     "criteria": {
-      "has_soul_slate": "2024-12-23 17:00:41 +0000"
+      "location0": "2024-12-23 17:15:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "in_water": "2024-12-23 17:01:37 +0000"
-    },
-    "done": true
-  },
-  "infernalexp:recipes/redstone/smooth_dimstone_button": {
-    "criteria": {
-      "has_smooth_dimstone": "2024-12-23 17:00:41 +0000"
+      "has_wheat": "2024-12-23 17:15:12 +0000"
     },
     "done": true
   },

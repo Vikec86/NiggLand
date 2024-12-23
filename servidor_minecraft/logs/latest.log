@@ -2196,3 +2196,156 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 17:13:05.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
 [23Dec2024 17:13:14.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [23Dec2024 17:13:16.051] [Worker-Main-7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[23Dec2024 17:13:50.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c6b8c9f
+[23Dec2024 17:13:50.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:37187] logged in with entity id 6057 at (-32.30406693351516, 84.0, 27.56616396708541)
+[23Dec2024 17:13:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[23Dec2024 17:13:50.347] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 17:13:50.348] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 17:13:50.349] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 17:13:50.349] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[23Dec2024 17:14:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 17:14:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Minecraft Comes Alive]
+[23Dec2024 17:14:24.353] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/utils/StatueDialog$Case
+[23Dec2024 17:14:24.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/contents/recipe/bargain/BargainResult$FailedReason
+[23Dec2024 17:14:29.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Crops of the Wild]
+[23Dec2024 17:14:38.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Crops of the Wild]
+[23Dec2024 17:15:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Jaws]
+[23Dec2024 17:15:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Acquire Hardware]
+[23Dec2024 17:15:56.184] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[23Dec2024 17:17:07.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69014323
+[23Dec2024 17:17:07.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L00m4[/127.20.139.105:39393] logged in with entity id 7165 at (-31.174573445787196, 83.0, 28.8129066151314)
+[23Dec2024 17:17:08.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 joined the game
+[23Dec2024 17:17:08.090] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 17:17:08.090] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 17:17:08.091] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 17:17:08.091] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[23Dec2024 17:17:21.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported L00m4 to Sanguchito666]
+[23Dec2024 17:17:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Slabcrab
+[23Dec2024 17:17:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Zombie
+[23Dec2024 17:18:30.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported L00m4 to Sanguchito666]
+[23Dec2024 17:18:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Minecraft Comes Alive]
+[23Dec2024 17:19:08.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Amateur Archaeologist]
+[23Dec2024 17:19:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Crops of the Wild]
+[23Dec2024 17:19:50.501] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60a06f5c
+[23Dec2024 17:19:50.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VIK_N_DA_HOOD[/127.77.97.38:40523] logged in with entity id 8573 at (50.7920639690689, 109.0, 22.300147960459437)
+[23Dec2024 17:19:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD joined the game
+[23Dec2024 17:19:50.570] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 17:19:50.570] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 17:19:50.571] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 17:19:50.571] [Server thread/INFO] [Jade/]: Syncing config to VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637)
+[23Dec2024 17:20:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[23Dec2024 17:20:09.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Minecraft Comes Alive]
+[23Dec2024 17:20:17.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[23Dec2024 17:20:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Made Dayab0m a server operator]
+[23Dec2024 17:20:29.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fabian'/9067, l='ServerLevel[world]', x=676.48, y=58.22, z=-2287.28] died, message: 'Fabian drowned'
+[23Dec2024 17:20:29.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fabian'/9067, l='ServerLevel[world]', x=676.48, y=58.22, z=-2287.28] died: Fabian drowned
+[23Dec2024 17:20:36.637] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 1
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		3: ASM: class com.simibubi.create.content.contraptions.minecart.MinecartCouplingItem handleInteractionWithMinecart(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: NORMAL
+		5: ASM: class net.mcreator.laendlitransport.procedures.TruckUpgrade2ScriptProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		6: ASM: class net.mcreator.laendlitransport.procedures.TruckUpgrade1ScriptProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: class net.mcreator.laendlitransport.procedures.TruckRepairScriptProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class net.mcreator.laendlitransport.procedures.TruckCargoUpgradeTeamProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class net.mcreator.laendlitransport.procedures.TruckCargoUpgradeTeam2Procedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@63051dd0 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		12: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		13: ASM: class com.infamous.dungeons_gear.loot.TradeEvents onSalvageItem(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		14: ASM: class com.simibubi.create.content.contraptions.mounted.MinecartContraptionItem wrenchCanBeUsedToPickUpMinecartContraptions(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		15: ASM: com.inventorypets.events.ItemEntityEvents@3cc7b2d4 onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		16: ASM: class tictim.paraglider.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		17: ASM: com.sk89q.worldedit.forge.ForgeWorldEdit@4d446d2a onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.23/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.23/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:125)
+	at TRANSFORMER/carryon@2.1.2.23/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:854)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_36157_(Player.java:992)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1550)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1561)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1546)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[23Dec2024 17:20:36.640] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@2eb714e0, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.19.2-2.1.2.23.jar%23178!/:2.1.2.23]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:125) ~[carryon-forge-1.19.2-2.1.2.23.jar%23178!/:2.1.2.23]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.19.2-2.1.2.23.jar%23178!/:2.1.2.23]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:854) ~[forge-1.19.2-43.4.2-universal.jar%23248!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:992) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1550) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1561) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1546) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 17:20:40.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Kicked by an operator
+[23Dec2024 17:20:40.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
+[23Dec2024 17:20:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dayab0m: Kicked Sanguchito666: Kicked by an operator]
+[23Dec2024 17:20:40.255] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 17:20:46.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14608eac
+[23Dec2024 17:20:46.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:39131] logged in with entity id 9504 at (739.6999999880791, 66.9375, -2326.862654803947)
+[23Dec2024 17:20:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[23Dec2024 17:20:46.464] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 17:20:46.465] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 17:20:46.466] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 17:20:46.466] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[23Dec2024 17:21:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gamerule keepInventory is now set to: true]
+[23Dec2024 17:21:10.111] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Dec2024 17:21:34.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Getting an Upgrade]
+[23Dec2024 17:21:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Jaws]
+[23Dec2024 17:21:46.681] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cfm:network,toolleveling:main,framework:play,minecraft:treechop-channel,laendli_transport:laendli_transport,forge:tier_sorting,alexsmobs:main_channel,immersiveengineering:main,cgm:play,paraglider:master,creativecore:main,dungeons_gear:network,infernalexp:main,create:main,enemyexpansion:enemyexpansion,carryon:carryonpackets,citadel:main_channel,opf:main,curios:main,corail_recycler:recycler_channel,framework:handshake,usefulbackpacks:curios,spartanshields:network,mca:main,uteamcore:network,artifacts:main,ironchest:network,geckolib3:main,dungeons_libraries:network,engineersdecor:default_ch,twilightforest:channel] rejected vanilla connections
+[23Dec2024 17:21:46.682] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Dec2024 17:22:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[23Dec2024 17:22:16.354] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cfm:network,toolleveling:main,framework:play,minecraft:treechop-channel,laendli_transport:laendli_transport,forge:tier_sorting,alexsmobs:main_channel,immersiveengineering:main,cgm:play,paraglider:master,creativecore:main,dungeons_gear:network,infernalexp:main,create:main,enemyexpansion:enemyexpansion,carryon:carryonpackets,citadel:main_channel,opf:main,curios:main,corail_recycler:recycler_channel,framework:handshake,usefulbackpacks:curios,spartanshields:network,mca:main,uteamcore:network,artifacts:main,ironchest:network,geckolib3:main,dungeons_libraries:network,engineersdecor:default_ch,twilightforest:channel] rejected vanilla connections
+[23Dec2024 17:22:16.354] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Dec2024 17:22:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported Dayab0m to Sanguchito666]
+[23Dec2024 17:22:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was shot by Skeleton
+[23Dec2024 17:22:45.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Monster Hunter]
+[23Dec2024 17:22:48.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to L00m4]
+[23Dec2024 17:22:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was shot by Skeleton
+[23Dec2024 17:22:56.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was shot by Skeleton
+[23Dec2024 17:23:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Dayab0m to Sanguchito666]
