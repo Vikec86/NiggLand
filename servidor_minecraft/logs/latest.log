@@ -3334,3 +3334,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 19:43:36.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [23Dec2024 19:46:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [We Need to Go Deeper]
 [23Dec2024 19:46:08.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[23Dec2024 19:46:37.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [The Path to Better Gear]
+[23Dec2024 19:47:00.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[23Dec2024 19:47:24.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD was slain by Hoglin
+[23Dec2024 19:47:24.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 19:47:31.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:47:40.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was shot by Skeleton
+[23Dec2024 19:48:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 19:48:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has reached the goal [Dinner's Served!]
+[23Dec2024 19:48:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:49:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:49:33.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 19:49:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 19:49:38.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:50:10.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [We Need to Go Deeper]
+[23Dec2024 19:50:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Hot Stuff]
+[23Dec2024 19:50:43.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [The Andesite Age]
+[23Dec2024 19:51:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 64 [Creative Motor] to VIK_N_DA_HOOD]
+[23Dec2024 19:53:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Hunt and Gather]
+[23Dec2024 19:55:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:55:15.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Direwolf
+[23Dec2024 19:56:50.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> aaa

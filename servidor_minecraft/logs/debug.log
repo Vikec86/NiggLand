@@ -24654,3 +24654,56 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 19:46:29.121] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_1
 [23Dec2024 19:46:29.386] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_3
 [23Dec2024 19:46:34.638] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_6
+[23Dec2024 19:46:37.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [The Path to Better Gear]
+[23Dec2024 19:46:37.692] [Worker-Main-37/DEBUG] [ModernFix/]: Structure infernalexp:glowstone_canyon/heaven_4 is being run through DFU (hash 97da15d793a90d294a4b9430576919c03ddbf606f1b5ae05a2097f99b2acd0f8), this will cause launch time delays
+[23Dec2024 19:46:37.853] [Worker-Main-37/DEBUG] [ModernFix/]: Structure infernalexp:glowstone_canyon/cross_altar_2 is being run through DFU (hash 07bea539c24203679980fe8455665a077540adce95f09283364cf6498f247995), this will cause launch time delays
+[23Dec2024 19:46:41.411] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/platform_altar
+[23Dec2024 19:46:48.806] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_pike_1
+[23Dec2024 19:46:52.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_12
+[23Dec2024 19:46:54.679] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:nether_horned_statue is being run through DFU (hash 1694e23e27bf7d8e57373f62218745748aadee86d10ce173948993593310ee5f), this will cause launch time delays
+[23Dec2024 19:47:00.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[23Dec2024 19:47:00.927] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[23Dec2024 19:47:01.079] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[23Dec2024 19:47:05.071] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[23Dec2024 19:47:06.359] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[23Dec2024 19:47:06.368] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[23Dec2024 19:47:06.370] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[23Dec2024 19:47:08.837] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_5
+[23Dec2024 19:47:09.142] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_1
+[23Dec2024 19:47:14.164] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/desolate_bastion_outpost_5
+[23Dec2024 19:47:17.374] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[23Dec2024 19:47:24.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD was slain by Hoglin
+[23Dec2024 19:47:24.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 19:47:27.941] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[23Dec2024 19:47:31.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:47:40.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was shot by Skeleton
+[23Dec2024 19:47:42.190] [Server thread/DEBUG] [twilightforest/]: Player Dayab0m (4e29b00a-cef2-312d-bc90-cff920255808) respawned and received items held in storage
+[23Dec2024 19:48:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 19:48:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has reached the goal [Dinner's Served!]
+[23Dec2024 19:48:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:49:17.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:49:17.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:49:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:49:33.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 19:49:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 19:49:34.933] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[23Dec2024 19:49:38.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:50:10.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [We Need to Go Deeper]
+[23Dec2024 19:50:16.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_4
+[23Dec2024 19:50:16.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/cross_altar_2
+[23Dec2024 19:50:17.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_6
+[23Dec2024 19:50:26.113] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/half_arch_ruin
+[23Dec2024 19:50:26.130] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_1
+[23Dec2024 19:50:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Hot Stuff]
+[23Dec2024 19:50:43.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [The Andesite Age]
+[23Dec2024 19:50:58.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[23Dec2024 19:51:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 64 [Creative Motor] to VIK_N_DA_HOOD]
+[23Dec2024 19:51:26.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:51:26.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:53:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Hunt and Gather]
+[23Dec2024 19:55:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:55:15.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Direwolf
+[23Dec2024 19:55:17.095] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[23Dec2024 19:56:26.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:56:26.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:56:50.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> aaa
