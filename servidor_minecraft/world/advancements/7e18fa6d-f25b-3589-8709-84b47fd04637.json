@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/stone_basic_shield": {
-    "criteria": {
-      "has_cobblestone": "2024-12-23 17:05:11 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/redstone/smooth_glowstone_button": {
     "criteria": {
       "has_smooth_glowstone": "2024-12-23 16:57:33 +0000"
@@ -42,6 +36,256 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 17:05:11 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cooked_hogchop_campfire": {
+    "criteria": {
+      "has_hogchop": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-23 17:22:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/blindsight_tounge_stew": {
+    "criteria": {
+      "has_tongue": "2024-12-23 16:57:33 +0000",
+      "has_crimson_fungus": "2024-12-23 16:57:33 +0000",
+      "has_warped_fungus": "2024-12-23 16:57:33 +0000",
+      "has_bowl": "2024-12-23 16:57:33 +0000",
+      "has_luminous_fungus": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 17:04:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-23 17:21:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/combat/blindsight_tongue_whip": {
+    "criteria": {
+      "has_molten_gold_cluster": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+    "criteria": {
+      "has_hogchop": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 17:05:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 17:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 17:05:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "grassland": "2024-12-23 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/smooth_glowstone_pressure_plate": {
+    "criteria": {
+      "has_smooth_glowstone": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-23 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2024-12-23 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/recycler": {
+    "criteria": {
+      "requirement_1": "2024-12-23 17:02:10 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:05:11 +0000"
     },
@@ -65,9 +309,9 @@
     },
     "done": true
   },
-  "infernalexp:recipes/food/cooked_hogchop_campfire": {
+  "infernalexp:recipes/combat/glowsilk_bow": {
     "criteria": {
-      "has_hogchop": "2024-12-23 16:57:33 +0000"
+      "has_glowsilk": "2024-12-23 16:57:33 +0000"
     },
     "done": true
   },
@@ -77,11 +321,12 @@
     },
     "done": true
   },
-  "infernalexp:recipes/combat/glowsilk_bow": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "has_glowsilk": "2024-12-23 16:57:33 +0000"
+      "cherry_blossom_grove": "2024-12-23 16:59:47 +0000",
+      "grassland": "2024-12-23 16:57:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -95,13 +340,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "cherry_blossom_grove": "2024-12-23 16:59:47 +0000",
-      "grassland": "2024-12-23 16:57:35 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-23 17:02:10 +0000"
@@ -114,9 +352,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
+      "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
   },
@@ -126,17 +364,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
+      "minecraft:frozen_river": "2024-12-23 17:20:09 +0000",
+      "minecraft:snowy_plains": "2024-12-23 17:20:55 +0000",
+      "minecraft:stony_shore": "2024-12-23 17:21:15 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -144,15 +378,15 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/curtain_rods": {
-    "criteria": {
-      "has_wood": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/food/cured_jerky": {
     "criteria": {
       "has_soul_salt_clump": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2024-12-23 17:01:06 +0000"
     },
     "done": true
   },
@@ -174,25 +408,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "infernalexp:recipes/food/blindsight_tounge_stew": {
-    "criteria": {
-      "has_tongue": "2024-12-23 16:57:33 +0000",
-      "has_crimson_fungus": "2024-12-23 16:57:33 +0000",
-      "has_warped_fungus": "2024-12-23 16:57:33 +0000",
-      "has_bowl": "2024-12-23 16:57:33 +0000",
-      "has_luminous_fungus": "2024-12-23 16:57:33 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/redstone/basalt_button": {
     "criteria": {
       "has_basalt": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
   },
@@ -226,27 +450,15 @@
     },
     "done": true
   },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_iron_ingot": "2024-12-23 17:04:37 +0000"
+      "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/decorations/crafting/torch": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-23 17:05:11 +0000"
+      "has_raw_iron": "2024-12-23 17:22:03 +0000"
     },
     "done": true
   },
@@ -256,21 +468,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 17:05:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
-    },
-    "done": true
-  },
-  "infernalexp:recipes/combat/blindsight_tongue_whip": {
-    "criteria": {
-      "has_molten_gold_cluster": "2024-12-23 16:57:33 +0000"
     },
     "done": true
   },
@@ -280,15 +486,15 @@
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/soul_slate_button": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_soul_slate": "2024-12-23 16:57:33 +0000"
+      "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/cherry_button": {
+  "infernalexp:recipes/redstone/soul_slate_button": {
     "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
+      "has_soul_slate": "2024-12-23 16:57:33 +0000"
     },
     "done": true
   },
@@ -304,39 +510,21 @@
     },
     "done": true
   },
-  "infernalexp:recipes/food/cooked_hogchop_smelting": {
-    "criteria": {
-      "has_hogchop": "2024-12-23 16:57:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-23 17:05:11 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-23 16:57:33 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
   },
@@ -352,21 +540,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-23 17:05:11 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/redstone/polished_basalt_pressure_plate": {
     "criteria": {
       "has_polished_basalt": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
   },
@@ -376,27 +558,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "mca:root": {
     "criteria": {
-      "has_cobblestone": "2024-12-23 17:05:11 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "grassland": "2024-12-23 16:57:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-23 17:02:10 +0000"
+      "village_snowy": "2024-12-23 17:20:09 +0000"
     },
     "done": true
   },
@@ -406,39 +570,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-23 16:57:33 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/smooth_glowstone_pressure_plate": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_smooth_glowstone": "2024-12-23 16:57:33 +0000"
+      "stone_pickaxe": "2024-12-23 17:21:34 +0000"
     },
     "done": true
   },
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_item": "2024-12-23 17:02:10 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/paraglider/paraglider": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-23 17:02:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:01:06 +0000"
     },
     "done": true
   },
@@ -454,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-23 17:02:13 +0000"
@@ -466,9 +624,9 @@
     },
     "done": true
   },
-  "inventorypets:root": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "auto": "2024-12-23 16:57:35 +0000"
+      "has_raw_iron": "2024-12-23 17:22:03 +0000"
     },
     "done": true
   },
@@ -477,12 +635,6 @@
       "has_soul_slate": "2024-12-23 16:57:33 +0000"
     },
     "done": true
-  },
-  "corail_recycler:recipes/recycler": {
-    "criteria": {
-      "requirement_1": "2024-12-23 17:02:10 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3120
 }
