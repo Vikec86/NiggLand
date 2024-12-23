@@ -3563,3 +3563,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 21:43:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
 [23Dec2024 21:43:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Vampire
 [23Dec2024 21:44:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Heads Up]
+[23Dec2024 21:56:37.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 18 entities]
+[23Dec2024 21:57:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 21:57:47.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 21:58:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 21:58:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
