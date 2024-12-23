@@ -3421,3 +3421,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 20:23:48.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
 [23Dec2024 20:27:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> Zzzzzz
 [23Dec2024 20:27:53.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-1108} BlockPos{x=-97, y=63, z=-1110}
+[23Dec2024 20:33:21.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m lost connection: Disconnected
+[23Dec2024 20:33:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m left the game
+[23Dec2024 20:39:34.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 20:39:34.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 20:39:34.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 20:39:34.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 20:39:34.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 20:39:34.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
