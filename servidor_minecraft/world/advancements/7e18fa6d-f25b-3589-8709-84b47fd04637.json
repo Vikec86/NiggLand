@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
@@ -385,8 +391,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2024-12-23 18:11:32 +0000",
+      "dryland": "2024-12-23 18:17:53 +0000",
       "cherry_blossom_grove": "2024-12-23 16:59:47 +0000",
+      "seasonal_orchard": "2024-12-23 18:14:20 +0000",
       "seasonal_forest": "2024-12-23 18:10:25 +0000",
+      "pumpkin_patch": "2024-12-23 18:10:38 +0000",
       "grassland": "2024-12-23 16:57:35 +0000"
     },
     "done": false
@@ -517,6 +527,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-23 18:12:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 17:37:34 +0000"
@@ -528,6 +544,12 @@
       "has_diamond": "2024-12-23 17:50:34 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-23 18:14:18 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
@@ -592,6 +614,12 @@
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2024-12-23 17:44:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
     },
     "done": true
   },
@@ -859,6 +887,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-23 17:35:57 +0000"
@@ -967,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-23 18:14:18 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/building_blocks/glass": {
     "criteria": {
       "has_silt": "2024-12-23 16:57:33 +0000"
@@ -1021,6 +1061,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 17:33:49 +0000",
@@ -1029,7 +1075,10 @@
       "minecraft:snowy_plains": "2024-12-23 17:20:55 +0000",
       "minecraft:stony_shore": "2024-12-23 17:21:15 +0000",
       "minecraft:grove": "2024-12-23 17:35:15 +0000",
-      "minecraft:frozen_ocean": "2024-12-23 18:02:06 +0000"
+      "minecraft:forest": "2024-12-23 18:19:19 +0000",
+      "minecraft:frozen_ocean": "2024-12-23 18:02:06 +0000",
+      "minecraft:meadow": "2024-12-23 18:15:12 +0000",
+      "minecraft:plains": "2024-12-23 18:18:08 +0000"
     },
     "done": false
   },
@@ -1421,6 +1470,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2024-12-23 17:35:57 +0000"
@@ -1481,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-23 17:35:40 +0000"
@@ -1502,6 +1563,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-23 18:05:43 +0000",
+      "potato": "2024-12-23 18:12:12 +0000",
+      "cookie": "2024-12-23 18:12:17 +0000",
       "cooked_salmon": "2024-12-23 17:55:41 +0000"
     },
     "done": false
@@ -1599,6 +1662,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 18:14:18 +0000"
     },
     "done": true
   },
@@ -1947,6 +2016,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:56:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-23 18:12:22 +0000"
     },
     "done": true
   },
