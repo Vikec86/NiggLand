@@ -2762,3 +2762,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 18:03:54.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
 [23Dec2024 18:04:08.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rita'/16490, l='ServerLevel[world]', x=729.21, y=58.48, z=-2281.75] died, message: 'Rita drowned'
 [23Dec2024 18:04:08.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rita'/16490, l='ServerLevel[world]', x=729.21, y=58.48, z=-2281.75] died: Rita drowned
+[23Dec2024 18:04:20.817] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[23Dec2024 18:04:20.818] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[23Dec2024 18:04:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> w
+[23Dec2024 18:04:43.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 18:05:00.495] [Worker-Main-7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[23Dec2024 18:05:38.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 moved too quickly! 0.7884467662204315,-0.060894927940417176,10.241132444838968
+[23Dec2024 18:05:38.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m moved too quickly! -7.814503197821722,-1.3044111143612511,6.262580159438812
+[23Dec2024 18:05:38.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[23Dec2024 18:05:44.966] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[23Dec2024 18:05:50.399] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[23Dec2024 18:06:53.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Dayab0m to Dayab0m]
+[23Dec2024 18:07:34.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 18:07:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Diamonds!]
+[23Dec2024 18:07:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 18:07:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was blown up by Faller
+[23Dec2024 18:08:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was blown up by Faller
+[23Dec2024 18:08:10.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Drunken Villager
+[23Dec2024 18:08:19.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Drunken Villager
+[23Dec2024 18:08:20.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/28226, l='ServerLevel[world]', x=54.67, y=69.00, z=-1624.78] died: Drunken Villager fell from a high place
+[23Dec2024 18:08:25.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 18:08:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Drunken Villager
+[23Dec2024 18:08:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Monster Hunter]
+[23Dec2024 18:08:38.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/28492, l='ServerLevel[world]', x=58.99, y=79.91, z=-1640.15] died: Drunken Villager was slain by Dayab0m
+[23Dec2024 18:08:43.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Drunken Villager
+[23Dec2024 18:08:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 18:10:05.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Dayab0m]
+[23Dec2024 18:10:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD was slain by Drunken Villager
+[23Dec2024 18:10:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Drunken Villager
+[23Dec2024 18:10:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Dayab0m]
+[23Dec2024 18:10:33.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 18:11:36.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Drunken Villager
+[23Dec2024 18:11:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 18:13:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[23Dec2024 18:13:58.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 18:14:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Monster Hunter]
