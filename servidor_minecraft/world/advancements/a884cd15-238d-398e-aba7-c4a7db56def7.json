@@ -73,6 +73,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cherry_blossom_grove": "2024-12-23 17:03:00 +0000",
       "grassland": "2024-12-23 17:00:42 +0000",
       "glowing_grotto": "2024-12-23 17:01:12 +0000"
     },
@@ -223,6 +224,12 @@
   "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
     "criteria": {
       "has_soul_slate": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-23 17:02:38 +0000"
     },
     "done": true
   },
