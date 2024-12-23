@@ -3355,3 +3355,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 19:55:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [23Dec2024 19:55:15.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Direwolf
 [23Dec2024 19:56:50.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> aaa
+[23Dec2024 19:57:41.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[23Dec2024 19:57:41.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[23Dec2024 19:58:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Bonk!]
+[23Dec2024 20:00:11.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 20:01:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:01:35.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:01:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:01:41.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:01:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:01:46.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:02:19.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:02:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:02:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:02:27.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:02:28.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD tried to swim in lava
+[23Dec2024 20:02:36.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Adventure Mode]
+[23Dec2024 20:02:37.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:02:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:02:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Hot Stuff]
+[23Dec2024 20:02:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:02:53.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:03:30.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> sigma void
+[23Dec2024 20:04:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to Sanguchito666]
+[23Dec2024 20:04:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[23Dec2024 20:04:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 20:04:57.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Šaban'/41721, l='ServerLevel[world]', x=-260.70, y=61.32, z=-1133.19] died, message: 'Šaban drowned'
+[23Dec2024 20:04:57.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Šaban'/41721, l='ServerLevel[world]', x=-260.70, y=61.32, z=-1133.19] died: Šaban drowned
+[23Dec2024 20:05:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]

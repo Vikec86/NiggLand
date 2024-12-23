@@ -696,6 +696,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-23 20:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-23 17:47:05 +0000"
@@ -810,6 +816,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-23 20:04:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-23 17:34:30 +0000"
@@ -819,6 +831,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-23 19:16:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-23 19:57:53 +0000"
     },
     "done": true
   },
@@ -930,6 +948,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:44:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-23 20:04:53 +0000"
     },
     "done": true
   },
@@ -1563,6 +1587,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-23 20:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-23 17:50:30 +0000"
@@ -2078,6 +2108,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_storage_silver": {
+    "criteria": {
+      "has_ingot_silver": "2024-12-23 20:04:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:15:29 +0000"
@@ -2141,6 +2177,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-23 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-23 20:04:07 +0000"
     },
     "done": true
   },
@@ -2333,6 +2375,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:38:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-23 19:57:53 +0000"
     },
     "done": true
   },
@@ -2640,6 +2688,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-23 20:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:14:44 +0000"
@@ -2655,6 +2709,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-23 19:59:55 +0000"
     },
     "done": true
   },
@@ -2769,6 +2829,12 @@
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-23 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-23 20:04:53 +0000"
     },
     "done": true
   },
@@ -3105,6 +3171,12 @@
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-23 20:04:07 +0000"
     },
     "done": true
   },
@@ -3582,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-23 20:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-23 17:14:40 +0000"
@@ -3974,6 +4052,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2024-12-23 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-23 19:59:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
@@ -4007,6 +4097,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-23 19:57:53 +0000"
     },
     "done": true
   },
@@ -4214,6 +4310,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_silver_to_ingot_silver": {
+    "criteria": {
+      "has_storage_silver": "2024-12-23 20:04:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-23 17:14:38 +0000"
@@ -4259,6 +4361,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-23 19:53:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/silver_tower_shield": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-23 20:04:07 +0000"
     },
     "done": true
   },
