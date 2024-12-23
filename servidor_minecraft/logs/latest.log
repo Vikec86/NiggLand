@@ -3577,3 +3577,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 22:06:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
 [23Dec2024 22:06:51.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [23Dec2024 22:09:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[23Dec2024 22:15:09.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=58, z=-1062} BlockPos{x=-126, y=59, z=-1062}
+[23Dec2024 22:16:06.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [What a Deal!]
+[23Dec2024 22:16:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 22:16:37.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/116095, l='ServerLevel[world]', x=-106.51, y=64.00, z=-1026.49] died, message: 'Librarian was slain by Sanguchito666'
+[23Dec2024 22:16:46.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Villager Spawn Egg] to Sanguchito666]
+[23Dec2024 22:16:54.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[23Dec2024 22:17:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Villager Spawn Egg] to Sanguchito666]
+[23Dec2024 22:17:42.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/121101, l='ServerLevel[world]', x=-106.52, y=64.00, z=-1026.48] died, message: 'Librarian was slain by Sanguchito666'
+[23Dec2024 22:21:11.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Villager Spawn Egg] to VIK_N_DA_HOOD]
