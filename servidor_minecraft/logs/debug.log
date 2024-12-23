@@ -24024,3 +24024,150 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 18:54:14.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
 [23Dec2024 18:54:15.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
 [23Dec2024 18:55:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Convergent Evolution...]
+[23Dec2024 18:55:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 18:55:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[23Dec2024 18:56:20.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:56:20.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:56:31.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 tried to swim in lava
+[23Dec2024 18:56:33.298] [Server thread/DEBUG] [twilightforest/]: Player L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b) respawned and received items held in storage
+[23Dec2024 18:56:56.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [A Seedy Place]
+[23Dec2024 18:56:57.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Zombie
+[23Dec2024 18:57:38.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[23Dec2024 18:57:38.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[23Dec2024 18:57:49.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:57:49.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:57:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:01:02.108] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (-397 | 18 | -912)
+[23Dec2024 19:01:02.109] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (-397 | 18 | -912)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-420 | 28 | -917)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-420 | 28 | -917)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation CLOCKWISE_180 at (-408 | 33 | -914)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation CLOCKWISE_180 at (-408 | 33 | -914)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-408 | 28 | -910)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (-408 | 28 | -910)
+[23Dec2024 19:01:11.080] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_180 at (-411 | 28 | -915)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_180 at (-411 | 28 | -915)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-404 | 28 | -915)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-404 | 28 | -915)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (-409 | 28 | -915)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation CLOCKWISE_180 at (-409 | 28 | -915)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-402 | 28 | -916)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-402 | 28 | -916)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-420 | 1 | -916)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-420 | 1 | -916)
+[23Dec2024 19:01:11.081] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-415 | 0 | -921)
+[23Dec2024 19:01:11.082] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-415 | 0 | -921)
+[23Dec2024 19:01:15.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[23Dec2024 19:01:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:01:20.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:01:20.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:01:22.867] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-438 | 37 | -934)
+[23Dec2024 19:01:22.867] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-438 | 37 | -934)
+[23Dec2024 19:01:22.868] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-429 | 37 | -934)
+[23Dec2024 19:01:22.883] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-429 | 37 | -934)
+[23Dec2024 19:01:22.883] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (-420 | 37 | -935)
+[23Dec2024 19:01:22.884] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (-420 | 37 | -935)
+[23Dec2024 19:01:22.884] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-425 | 28 | -934)
+[23Dec2024 19:01:22.884] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-425 | 28 | -934)
+[23Dec2024 19:01:22.884] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -922)
+[23Dec2024 19:01:22.885] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -922)
+[23Dec2024 19:01:22.885] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-442 | 28 | -939)
+[23Dec2024 19:01:22.885] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-442 | 28 | -939)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-436 | 28 | -917)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-436 | 28 | -917)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-420 | 28 | -935)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-420 | 28 | -935)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-420 | 28 | -917)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-420 | 28 | -917)
+[23Dec2024 19:01:22.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-424 | 19 | -939)
+[23Dec2024 19:01:22.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-424 | 19 | -939)
+[23Dec2024 19:01:22.903] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-437 | 1 | -931)
+[23Dec2024 19:01:22.903] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-437 | 1 | -931)
+[23Dec2024 19:01:22.903] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 1 | -921)
+[23Dec2024 19:01:22.903] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 1 | -921)
+[23Dec2024 19:01:22.903] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-426 | 1 | -915)
+[23Dec2024 19:01:22.904] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-426 | 1 | -915)
+[23Dec2024 19:01:22.904] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-437 | 1 | -926)
+[23Dec2024 19:01:22.904] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-437 | 1 | -926)
+[23Dec2024 19:01:22.904] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-425 | 1 | -916)
+[23Dec2024 19:01:22.905] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-425 | 1 | -916)
+[23Dec2024 19:01:22.905] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:22.908] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:22.908] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-420 | 1 | -916)
+[23Dec2024 19:01:22.909] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-420 | 1 | -916)
+[23Dec2024 19:01:22.930] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -912)
+[23Dec2024 19:01:22.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -912)
+[23Dec2024 19:01:22.931] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-440 | 28 | -910)
+[23Dec2024 19:01:22.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-440 | 28 | -910)
+[23Dec2024 19:01:22.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-420 | 28 | -917)
+[23Dec2024 19:01:22.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-420 | 28 | -917)
+[23Dec2024 19:01:22.932] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-426 | 1 | -915)
+[23Dec2024 19:01:22.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-426 | 1 | -915)
+[23Dec2024 19:01:22.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-425 | 1 | -916)
+[23Dec2024 19:01:22.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-425 | 1 | -916)
+[23Dec2024 19:01:22.933] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:22.934] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:22.934] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-420 | 1 | -916)
+[23Dec2024 19:01:22.934] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-420 | 1 | -916)
+[23Dec2024 19:01:33.201] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[23Dec2024 19:01:52.760] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-447 | 37 | -935)
+[23Dec2024 19:01:52.760] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-447 | 37 | -935)
+[23Dec2024 19:01:52.760] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-435 | 37 | -929)
+[23Dec2024 19:01:52.760] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-435 | 37 | -929)
+[23Dec2024 19:01:52.760] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-438 | 37 | -934)
+[23Dec2024 19:01:52.760] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-438 | 37 | -934)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-456 | 28 | -934)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-456 | 28 | -934)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -922)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -922)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-447 | 28 | -934)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-447 | 28 | -934)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-442 | 28 | -939)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-442 | 28 | -939)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-436 | 28 | -917)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-436 | 28 | -917)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-437 | 1 | -931)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-437 | 1 | -931)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 1 | -921)
+[23Dec2024 19:01:52.761] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 1 | -921)
+[23Dec2024 19:01:52.762] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-437 | 1 | -926)
+[23Dec2024 19:01:52.762] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-437 | 1 | -926)
+[23Dec2024 19:01:52.762] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:52.762] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:52.773] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -912)
+[23Dec2024 19:01:52.773] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-436 | 28 | -912)
+[23Dec2024 19:01:52.773] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-440 | 28 | -910)
+[23Dec2024 19:01:52.775] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-440 | 28 | -910)
+[23Dec2024 19:01:52.776] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:52.776] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-441 | 1 | -920)
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-412 | 27 | -540).
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(2) Nodes and 6(0) Rooms
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(4) Nodes and 6(0) Rooms
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[23Dec2024 19:01:54.114] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[23Dec2024 19:01:54.137] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[23Dec2024 19:01:56.062] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[23Dec2024 19:01:59.696] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-465 | 28 | -935)
+[23Dec2024 19:01:59.696] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-465 | 28 | -935)
+[23Dec2024 19:01:59.696] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-453 | 28 | -929)
+[23Dec2024 19:01:59.696] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-453 | 28 | -929)
+[23Dec2024 19:01:59.696] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-456 | 28 | -934)
+[23Dec2024 19:01:59.696] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-456 | 28 | -934)
+[23Dec2024 19:01:59.918] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-465 | 28 | -935)
+[23Dec2024 19:01:59.919] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-465 | 28 | -935)
+[23Dec2024 19:02:57.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:02:57.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:02:57.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:03:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dayab0m> amigos
+[23Dec2024 19:03:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dayab0m> pq estan callado
+[23Dec2024 19:03:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> ./nigga
+[23Dec2024 19:03:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 13000]
+[23Dec2024 19:04:58.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 19:04:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 19:04:59.999] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage

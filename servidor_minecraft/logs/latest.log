@@ -3096,3 +3096,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 18:51:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 13000]
 [23Dec2024 18:54:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> zZZZzZzZ
 [23Dec2024 18:55:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Convergent Evolution...]
+[23Dec2024 18:55:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 18:55:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[23Dec2024 18:56:31.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 tried to swim in lava
+[23Dec2024 18:56:56.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [A Seedy Place]
+[23Dec2024 18:56:57.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Zombie
+[23Dec2024 18:57:38.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[23Dec2024 18:57:38.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[23Dec2024 18:57:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:01:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:02:57.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:03:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dayab0m> amigos
+[23Dec2024 19:03:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dayab0m> pq estan callado
+[23Dec2024 19:03:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> ./nigga
+[23Dec2024 19:03:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 13000]
+[23Dec2024 19:04:58.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 19:04:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
