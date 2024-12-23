@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2024-12-23 18:29:14 +0000"
@@ -440,6 +446,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -805,6 +817,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 17:37:34 +0000"
@@ -926,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2024-12-23 17:44:43 +0000"
@@ -965,6 +989,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -1082,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2024-12-23 18:27:15 +0000"
@@ -1109,6 +1145,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-23 17:43:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -1268,6 +1310,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-23 18:37:33 +0000"
@@ -1276,9 +1324,10 @@
   },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
+      "requirement_2": "2024-12-23 18:41:26 +0000",
       "requirement_1": "2024-12-23 17:50:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
@@ -1562,6 +1611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-23 17:35:57 +0000"
@@ -1607,6 +1662,12 @@
   "infernalexp:recipes/building_blocks/glass": {
     "criteria": {
       "has_silt": "2024-12-23 16:57:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -1801,6 +1862,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 17:37:34 +0000"
@@ -1861,6 +1928,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-23 17:02:10 +0000"
@@ -1894,6 +1967,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-23 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -2062,6 +2141,12 @@
   "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -2245,9 +2330,10 @@
   },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
-      "requirement_2": "2024-12-23 17:35:57 +0000"
+      "requirement_2": "2024-12-23 17:35:57 +0000",
+      "requirement_1": "2024-12-23 18:41:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "collectorsreap:recipes/gummy/apple": {
     "criteria": {
@@ -2357,6 +2443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-23 18:29:14 +0000"
@@ -2390,6 +2482,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-23 18:05:43 +0000",
+      "apple": "2024-12-23 18:50:58 +0000",
       "potato": "2024-12-23 18:12:12 +0000",
       "cookie": "2024-12-23 18:12:17 +0000",
       "salmon": "2024-12-23 18:38:00 +0000",
@@ -2482,6 +2575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-23 17:39:23 +0000"
@@ -2521,6 +2620,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:46:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -2596,6 +2701,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:05:11 +0000"
@@ -2605,6 +2716,12 @@
   "cfm:recipes/cfm/dark_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -2755,6 +2872,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-23 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -2915,6 +3038,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
@@ -2948,6 +3077,12 @@
   "cfm:recipes/cfm/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-23 17:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -3017,6 +3152,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
     "criteria": {
       "has_paper": "2024-12-23 18:37:33 +0000"
@@ -3050,6 +3191,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-23 17:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_disk": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 18:44:16 +0000"
     },
     "done": true
   },
@@ -3176,6 +3329,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 17:44:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -3348,6 +3513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_coffee_table": {
     "criteria": {
       "has_log": "2024-12-23 18:27:15 +0000"
@@ -3357,6 +3528,12 @@
   "cgm:recipes/cgm/workbench": {
     "criteria": {
       "has_iron": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
@@ -3881,6 +4058,12 @@
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-23 17:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-23 18:42:26 +0000"
     },
     "done": true
   },
