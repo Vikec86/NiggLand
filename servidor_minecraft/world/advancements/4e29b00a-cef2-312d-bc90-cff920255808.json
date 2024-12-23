@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-23 19:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-23 19:04:19 +0000"
@@ -47,21 +53,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-12-23 19:24:13 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-23 19:24:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2024-12-23 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-23 18:37:46 +0000"
@@ -110,6 +128,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 18:37:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -299,15 +323,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
-    "criteria": {
-      "has_item": "2024-12-23 19:22:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2024-12-23 19:22:55 +0000"
     },
     "done": true
   },
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 17:34:30 +0000"
@@ -431,6 +461,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 19:29:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:25:26 +0000"
@@ -473,12 +509,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-23 19:07:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:49 +0000"
@@ -488,6 +518,18 @@
   "cfm:recipes/cfm/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-23 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -575,6 +617,12 @@
     },
     "done": false
   },
+  "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-23 17:34:30 +0000"
@@ -584,6 +632,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-23 18:14:34 +0000",
+      "spider_nest": "2024-12-23 19:31:37 +0000",
       "cherry_blossom_grove": "2024-12-23 17:09:06 +0000",
       "seasonal_orchard": "2024-12-23 18:14:40 +0000",
       "seasonal_forest": "2024-12-23 18:05:40 +0000",
@@ -688,6 +737,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
@@ -715,6 +770,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 19:44:38 +0000"
     },
     "done": true
   },
@@ -784,6 +845,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2024-12-23 19:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-23 19:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-23 18:07:41 +0000"
@@ -804,7 +877,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-23 19:43:08 +0000",
       "minecraft:vindicator": "2024-12-23 18:09:48 +0000",
+      "minecraft:cave_spider": "2024-12-23 19:45:43 +0000",
       "minecraft:zombie": "2024-12-23 18:08:38 +0000"
     },
     "done": false
@@ -830,6 +905,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:44:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-12-23 19:29:23 +0000"
     },
     "done": true
   },
@@ -905,6 +986,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
@@ -920,6 +1007,12 @@
   "cfm:recipes/cfm/spruce_park_bench": {
     "criteria": {
       "has_log": "2024-12-23 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -1019,9 +1112,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-23 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 19:44:38 +0000"
     },
     "done": true
   },
@@ -1085,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2024-12-23 17:58:39 +0000"
@@ -1100,6 +1211,12 @@
   "spartanshields:recipes/spartanshields/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2024-12-23 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -1157,6 +1274,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-23 18:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-23 19:16:51 +0000"
@@ -1166,12 +1289,6 @@
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_wood": "2024-12-23 19:22:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2024-12-23 18:18:49 +0000"
     },
     "done": true
   },
@@ -1217,15 +1334,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-12-23 19:19:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-23 18:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-23 19:19:36 +0000"
     },
     "done": true
   },
@@ -1238,6 +1355,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 18:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-23 19:42:58 +0000"
     },
     "done": true
   },
@@ -1343,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-23 19:45:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-23 17:34:30 +0000"
@@ -1358,6 +1487,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-23 19:43:08 +0000"
     },
     "done": true
   },
@@ -1403,15 +1538,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-23 19:16:51 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:16:51 +0000"
     },
     "done": true
   },
@@ -1457,9 +1592,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-23 19:42:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-23 17:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -1523,6 +1670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
@@ -1568,6 +1721,7 @@
       "minecraft:snowy_plains": "2024-12-23 17:07:50 +0000",
       "minecraft:stony_shore": "2024-12-23 17:07:58 +0000",
       "minecraft:snowy_taiga": "2024-12-23 18:02:29 +0000",
+      "minecraft:dripstone_caves": "2024-12-23 19:41:41 +0000",
       "minecraft:grove": "2024-12-23 17:18:44 +0000",
       "minecraft:forest": "2024-12-23 18:03:21 +0000",
       "minecraft:frozen_ocean": "2024-12-23 17:13:24 +0000",
@@ -1773,15 +1927,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-23 18:44:00 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 18:44:00 +0000"
     },
     "done": true
   },
@@ -1809,15 +1963,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2024-12-23 19:24:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-23 18:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-23 19:24:13 +0000"
     },
     "done": true
   },
@@ -1893,15 +2047,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-12-23 18:20:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-23 18:20:02 +0000"
     },
     "done": true
   },
@@ -1935,21 +2089,27 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-12-23 18:20:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2109,6 +2269,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 19:29:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver3": {
     "criteria": {
       "has_raw_silver": "2024-12-23 17:54:45 +0000"
@@ -2187,6 +2353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-23 19:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:14:44 +0000"
@@ -2196,6 +2368,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-23 17:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2254,6 +2432,12 @@
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2024-12-23 17:19:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2353,15 +2537,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-23 18:44:00 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/green_cooler": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 18:44:00 +0000"
     },
     "done": true
   },
@@ -2413,15 +2597,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-23 19:15:23 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-23 19:15:23 +0000"
     },
     "done": true
   },
@@ -2455,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2024-12-23 18:44:00 +0000"
@@ -2470,6 +2660,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-23 19:16:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 19:29:54 +0000"
     },
     "done": true
   },
@@ -2518,6 +2714,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2599,6 +2801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-23 19:45:43 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:38:21 +0000"
@@ -2614,6 +2822,12 @@
   "farmersdelight:recipes/farmersdelight/hamburger": {
     "criteria": {
       "has_beef_patty": "2024-12-23 19:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2644,6 +2858,12 @@
   "biomesoplenty:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-23 18:44:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2755,6 +2975,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:49 +0000"
@@ -2812,6 +3038,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-23 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -2959,15 +3191,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-23 18:37:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-23 18:37:36 +0000"
     },
     "done": true
   },
@@ -3043,6 +3275,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_cooler": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
@@ -3103,6 +3341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-23 19:42:23 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-23 17:18:52 +0000"
@@ -3112,6 +3356,12 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-23 19:45:43 +0000"
     },
     "done": true
   },
@@ -3160,6 +3410,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_scaffold": {
     "criteria": {
       "has_treated_sticks": "2024-12-23 17:19:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -3253,9 +3509,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-23 19:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-23 17:21:54 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-23 18:07:41 +0000"
     },
     "done": true
   },
@@ -3265,9 +3533,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "has_diamond": "2024-12-23 18:07:41 +0000"
+      "has_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -3310,6 +3578,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
     "criteria": {
       "has_metal_rod": "2024-12-23 17:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -3424,6 +3698,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2024-12-23 18:07:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -3549,15 +3829,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2024-12-23 18:37:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-23 18:37:36 +0000"
     },
     "done": true
   },
@@ -3570,6 +3850,12 @@
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -3606,6 +3892,18 @@
   "spartanshields:recipes/spartanshields/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-12-23 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 19:44:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-23 19:42:23 +0000"
     },
     "done": true
   },
@@ -3732,6 +4030,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-12-23 19:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-23 19:29:54 +0000"
     },
     "done": true
   },

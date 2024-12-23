@@ -3297,3 +3297,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 19:24:42.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has reached the goal [Your first recycle]
 [23Dec2024 19:25:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
 [23Dec2024 19:25:25.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:26:29.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m lost connection: You logged in from another location
+[23Dec2024 19:26:29.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m left the game
+[23Dec2024 19:26:29.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@599585b3
+[23Dec2024 19:26:29.531] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 19:26:29.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dayab0m[/127.239.23.117:38833] logged in with entity id 65098 at (-111.68429542591495, 70.0, -1196.407355414458)
+[23Dec2024 19:26:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m joined the game
+[23Dec2024 19:26:29.611] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 19:26:29.611] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 19:26:29.612] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 19:26:29.612] [Server thread/INFO] [Jade/]: Syncing config to Dayab0m (4e29b00a-cef2-312d-bc90-cff920255808)
+[23Dec2024 19:28:26.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 19:29:44.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 19:30:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:30:23.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Chest Slayer]
+[23Dec2024 19:30:23.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Amateur Archaeologist]
+[23Dec2024 19:31:16.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 19:31:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 19:31:51.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Chest Slayer]
+[23Dec2024 19:31:54.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Amateur Archaeologist]
+[23Dec2024 19:33:18.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to Sanguchito666]
+[23Dec2024 19:33:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:34:15.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was shot by Skeleton
+[23Dec2024 19:34:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has reached the goal [Your first recycle]
+[23Dec2024 19:35:44.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was shot by Skeleton
+[23Dec2024 19:35:55.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Sweet Dreams]
+[23Dec2024 19:35:58.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 19:35:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 19:37:41.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 19:38:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was blown up by Creeper
+[23Dec2024 19:38:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:40:58.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was shot by Skeleton
+[23Dec2024 19:41:49.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 19:42:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Amateur Archaeologist]
+[23Dec2024 19:42:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Not Today, Thank You]
+[23Dec2024 19:43:36.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 19:46:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [We Need to Go Deeper]
+[23Dec2024 19:46:08.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
