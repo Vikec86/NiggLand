@@ -2417,3 +2417,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 17:33:32.943] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [23Dec2024 17:33:32.943] [Server thread/INFO] [Jade/]: Syncing config to Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69)
 [23Dec2024 17:33:33.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran has made the advancement [Recycler]
+[23Dec2024 17:33:41.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[23Dec2024 17:33:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported 5 entities to Sanguchito666]
+[23Dec2024 17:33:50.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD was slain by Sanguchito666
+[23Dec2024 17:33:53.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Sanguchito666
+[23Dec2024 17:33:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[23Dec2024 17:34:00.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by L00m4
+[23Dec2024 17:34:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[23Dec2024 17:34:06.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 17:34:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> WWWW
+[23Dec2024 17:34:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 17:34:16.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set VIK_N_DA_HOOD's spawnpoint to 758, 66, -2372 [0.0] in minecraft:overworld]
+[23Dec2024 17:34:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran was slain by L00m4
+[23Dec2024 17:34:18.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the world spawn point to 758, 66, -2372 [0.0]]
+[23Dec2024 17:34:25.237] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47577071
+[23Dec2024 17:34:25.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m lost connection: You logged in from another location
+[23Dec2024 17:34:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m left the game
+[23Dec2024 17:34:25.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dayab0m[/127.239.23.117:40917] logged in with entity id 16593 at (777.3000000119209, 44.024424088213685, -2476.96386179627)
+[23Dec2024 17:34:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m joined the game
+[23Dec2024 17:34:25.572] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 17:34:25.577] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 17:34:25.577] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 17:34:25.578] [Server thread/INFO] [Jade/]: Syncing config to Dayab0m (4e29b00a-cef2-312d-bc90-cff920255808)
+[23Dec2024 17:34:30.703] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20d8cb6c
+[23Dec2024 17:34:50.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Suit Up]
+[23Dec2024 17:35:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 17:35:17.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 17:35:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[23Dec2024 17:35:49.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran has made the advancement [Minecraft Comes Alive]
+[23Dec2024 17:35:57.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Acquire Hardware]
+[23Dec2024 17:36:06.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m moved too quickly! -8.981408118961326,-0.2987031463477763,4.677262174653151
+[23Dec2024 17:36:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran was blown up by Creeper
+[23Dec2024 17:36:19.112] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[23Dec2024 17:36:19.116] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[23Dec2024 17:36:23.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD moved too quickly! 10.086190821980722,1.078703207144521,-0.12027436180551376
+[23Dec2024 17:36:54.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m moved too quickly! 9.215849035017527,0.3800236743955381,-4.371370150802704
+[23Dec2024 17:36:58.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran was slain by Slabcrab
+[23Dec2024 17:37:10.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Not Today, Thank You]
+[23Dec2024 17:37:50.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 17:37:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 17:38:15.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was shot by Stray
+[23Dec2024 17:38:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m has made the advancement [Stone Age]
+[23Dec2024 17:38:53.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m moved too quickly! 7.5028314967025835,0.2277792520400368,-6.740755850671121
+[23Dec2024 17:39:01.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m moved too quickly! 8.303706566975961,-0.2987031463477763,-5.78319103344802
+[23Dec2024 17:39:01.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 17:39:01.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Isn't It Iron Pick]
+[23Dec2024 17:39:03.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Isn't It Iron Pick]
+[23Dec2024 17:39:03.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dayab0m moved too quickly! 10.022986054071566,-0.2277792520400368,-2.732045554424076
+[23Dec2024 17:39:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Monster Hunter]
+[23Dec2024 17:39:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Slabcrab
+[23Dec2024 17:39:52.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Suit Up]
+[23Dec2024 17:40:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed 40 entities]
+[23Dec2024 17:40:51.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran has made the advancement [Getting an Upgrade]
+[23Dec2024 17:41:05.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> ./mca editor
+[23Dec2024 17:41:06.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=746, y=64, z=-2368}
+[23Dec2024 17:41:07.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=746, y=64, z=-2368}
+[23Dec2024 17:41:07.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=746, y=64, z=-2368}
+[23Dec2024 17:42:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran has made the advancement [Stone Age]
+[23Dec2024 17:43:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
