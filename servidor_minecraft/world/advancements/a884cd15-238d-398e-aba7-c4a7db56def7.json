@@ -954,6 +954,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2024-12-23 20:52:43 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
@@ -1772,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-23 20:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:24:51 +0000"
@@ -2063,6 +2075,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2024-12-23 20:52:48 +0000"
     },
     "done": true
   },
@@ -2626,6 +2644,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2024-12-23 20:52:43 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
@@ -3092,6 +3116,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2024-12-23 20:52:43 +0000"
     },
     "done": true
   },

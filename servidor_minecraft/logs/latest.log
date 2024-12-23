@@ -3453,3 +3453,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 20:39:59.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Dec2024 20:44:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Time to Tinker]
 [23Dec2024 20:47:24.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Not Today, Thank You]
+[23Dec2024 20:50:57.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was slain by Spider
+[23Dec2024 20:55:09.188] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6bcfe4d3
+[23Dec2024 20:55:09.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VIK_N_DA_HOOD[/127.77.97.38:54631] logged in with entity id 91342 at (-69.04547013047674, 63.0, -1072.771012334792)
+[23Dec2024 20:55:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD joined the game
+[23Dec2024 20:55:09.333] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 20:55:09.335] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 20:55:09.340] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 20:55:09.341] [Server thread/INFO] [Jade/]: Syncing config to VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637)
+[23Dec2024 20:55:38.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Dec2024 20:55:47.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the time to 1000]
+[23Dec2024 20:57:52.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[23Dec2024 20:59:17.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:59:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:59:25.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Hidden in the Depths]
+[23Dec2024 20:59:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:59:36.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 20:59:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 20:59:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[23Dec2024 21:00:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
