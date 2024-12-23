@@ -3036,3 +3036,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Dec2024 18:31:32.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Ice Bucket Challenge]
 [23Dec2024 18:31:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has reached the goal [Half a flight]
 [23Dec2024 18:34:19.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> Zzzzz
+[23Dec2024 18:35:08.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 18:35:19.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[23Dec2024 18:35:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Zombie
+[23Dec2024 18:39:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Hunt and Gather]
+[23Dec2024 18:40:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Enchanter]
+[23Dec2024 18:40:15.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[23Dec2024 18:40:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [A way to recycle]
+[23Dec2024 18:40:51.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/tileentity/BlockEntityRecycler$RecyclerWorkingStackHandler$EnumSlot
+[23Dec2024 18:40:56.809] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[23Dec2024 18:40:56.810] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[23Dec2024 18:40:56.811] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[23Dec2024 18:41:03.217] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[23Dec2024 18:41:03.217] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[23Dec2024 18:41:16.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[23Dec2024 18:41:21.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[23Dec2024 18:41:21.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[23Dec2024 18:41:29.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 18:41:34.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed 50 entities]
+[23Dec2024 18:42:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[23Dec2024 18:42:10.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[23Dec2024 18:42:20.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dayab0m was slain by Direwolf
+[23Dec2024 18:42:45.930] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
+[23Dec2024 18:42:47.110] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
+[23Dec2024 18:43:14.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[23Dec2024 18:43:30.737] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@700b02d2
+[23Dec2024 18:43:30.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L00m4[/127.20.139.105:54733] logged in with entity id 48190 at (-839.9776141794523, 70.0, -1625.0164220994263)
+[23Dec2024 18:43:30.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 joined the game
+[23Dec2024 18:43:30.901] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 18:43:30.902] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 18:43:30.902] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 18:43:30.902] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[23Dec2024 18:43:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[23Dec2024 18:43:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[23Dec2024 18:43:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Dayab0m]
+[23Dec2024 18:44:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [A needed disk]
+[23Dec2024 18:44:58.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[23Dec2024 18:44:58.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[23Dec2024 18:45:13.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed 17 entities]
