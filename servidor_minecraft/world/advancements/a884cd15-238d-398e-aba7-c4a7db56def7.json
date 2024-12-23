@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
@@ -257,9 +263,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 17:57:14 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/golden_tower_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:26:15 +0000"
@@ -302,12 +326,6 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/grenade": {
-    "criteria": {
-      "has_gunpowder": "2024-12-23 17:24:18 +0000"
     },
     "done": true
   },
@@ -353,6 +371,12 @@
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-12-23 17:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
     },
     "done": true
   },
@@ -413,6 +437,12 @@
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2024-12-23 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-23 17:55:07 +0000"
     },
     "done": true
   },
@@ -562,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:47:59 +0000"
@@ -583,6 +619,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-23 17:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-23 17:56:03 +0000"
     },
     "done": true
   },
@@ -643,6 +685,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick": {
     "criteria": {
       "has_item": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
     },
     "done": true
   },
@@ -724,6 +772,12 @@
     },
     "done": true
   },
+  "inventorypets:loot": {
+    "criteria": {
+      "crafting_table": "2024-12-23 17:57:54 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
       "requirement_1": "2024-12-23 17:48:57 +0000"
@@ -745,6 +799,12 @@
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_log": "2024-12-23 17:29:43 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2024-12-23 17:57:54 +0000"
     },
     "done": true
   },
@@ -934,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 17:16:27 +0000",
@@ -985,15 +1051,15 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/grenade_launcher": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-23 17:47:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-23 17:41:54 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 17:47:59 +0000"
     },
     "done": true
   },
@@ -1069,6 +1135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-23 17:00:41 +0000"
@@ -1078,6 +1150,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-23 17:56:03 +0000"
     },
     "done": true
   },
@@ -1150,6 +1228,18 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-23 17:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-23 17:56:03 +0000"
     },
     "done": true
   },
@@ -1283,15 +1373,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-12-23 17:48:57 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/advanced_bullet": {
     "criteria": {
       "has_gunpowder": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-23 17:48:57 +0000"
     },
     "done": true
   },
@@ -1319,15 +1409,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/trampoline": {
-    "criteria": {
-      "has_iron": "2024-12-23 17:47:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-23 17:42:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2024-12-23 17:47:59 +0000"
     },
     "done": true
   },
@@ -1355,15 +1445,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_spruce_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-23 17:29:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-23 17:29:43 +0000"
     },
     "done": true
   },
@@ -1416,7 +1506,9 @@
       "baked_potato": "2024-12-23 17:31:05 +0000",
       "apple": "2024-12-23 17:36:38 +0000",
       "potato": "2024-12-23 17:26:36 +0000",
-      "bread": "2024-12-23 17:14:23 +0000"
+      "bread": "2024-12-23 17:14:23 +0000",
+      "dried_kelp": "2024-12-23 17:55:31 +0000",
+      "cod": "2024-12-23 17:56:05 +0000"
     },
     "done": false
   },
@@ -1426,21 +1518,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-23 17:56:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-12-23 17:24:51 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 17:24:51 +0000"
     },
     "done": true
   },
@@ -1480,21 +1578,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-23 17:47:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:26:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 17:47:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
     },
     "done": true
   },
@@ -1570,15 +1674,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-23 17:47:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-23 17:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 17:47:59 +0000"
     },
     "done": true
   },
@@ -1733,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-23 17:48:57 +0000"
@@ -1884,6 +1994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-23 17:49:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 17:25:50 +0000"
@@ -1908,15 +2024,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/spatula": {
-    "criteria": {
-      "has_iron": "2024-12-23 17:47:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:24:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2024-12-23 17:47:59 +0000"
     },
     "done": true
   },
@@ -1998,15 +2114,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/shutters": {
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_wood": "2024-12-23 17:24:18 +0000"
+      "has_white_dye": "2024-12-23 17:56:09 +0000"
     },
     "done": true
   },
@@ -2317,15 +2439,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2024-12-23 17:29:44 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 17:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-23 17:29:44 +0000"
     },
     "done": true
   },

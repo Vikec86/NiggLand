@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2024-12-23 17:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
@@ -267,6 +273,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 17:58:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-23 17:54:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2024-12-23 17:19:29 +0000"
@@ -324,6 +342,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 17:58:39 +0000"
     },
     "done": true
   },
@@ -483,6 +507,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:56:12 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
     "criteria": {
       "has_alu_sticks": "2024-12-23 17:19:03 +0000"
@@ -525,6 +555,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2024-12-23 17:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-12-23 17:47:05 +0000"
@@ -540,6 +576,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-23 17:53:19 +0000"
     },
     "done": true
   },
@@ -790,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-23 17:53:19 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
@@ -808,6 +856,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-23 17:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
@@ -817,6 +871,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2024-12-23 17:54:45 +0000"
     },
     "done": true
   },
@@ -892,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-23 17:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-23 17:18:52 +0000"
@@ -928,6 +994,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:44:19 +0000"
@@ -940,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-23 17:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 17:34:30 +0000"
@@ -949,6 +1027,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-23 17:50:30 +0000"
     },
     "done": true
   },
@@ -1066,9 +1150,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-23 17:56:12 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
     "criteria": {
       "has_soul_slate": "2024-12-23 17:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-23 17:56:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2024-12-23 17:53:19 +0000"
     },
     "done": true
   },
@@ -1189,6 +1291,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:15:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-23 17:58:39 +0000"
     },
     "done": true
   },
@@ -1426,6 +1534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-23 17:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
@@ -1465,6 +1579,12 @@
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-23 17:50:30 +0000"
     },
     "done": true
   },
@@ -1558,12 +1678,24 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-23 17:58:39 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2024-12-23 17:15:29 +0000",
       "requirement_1": "2024-12-23 17:34:30 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:58:39 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
@@ -1586,6 +1718,12 @@
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-12-23 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-23 17:50:30 +0000"
     },
     "done": true
   },
@@ -1775,6 +1913,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-23 17:58:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:15:29 +0000"
@@ -1874,6 +2018,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-23 17:58:39 +0000"
     },
     "done": true
   },
@@ -2084,6 +2234,12 @@
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-12-23 17:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 17:58:39 +0000"
     },
     "done": true
   },
