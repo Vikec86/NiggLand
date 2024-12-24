@@ -971,3 +971,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 22:00:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [24Dec2024 22:00:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [24Dec2024 22:05:24.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 22:15:30.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the weather to clear]
+[24Dec2024 22:20:01.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[24Dec2024 22:20:31.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
