@@ -10137,3 +10137,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 19:24:45.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 19:24:45.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 19:26:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 19:29:44.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 19:29:45.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 19:31:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 19:31:29.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 19:31:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 19:31:54.600] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[24Dec2024 19:31:54.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[24Dec2024 19:32:01.085] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[24Dec2024 19:32:01.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1apmm7mldemyn]: started parsing
+[24Dec2024 19:32:01.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1apmm7mldemyn]: Consuming argument ``
+[24Dec2024 19:32:01.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7wh864t4h0p]: started parsing
+[24Dec2024 19:32:01.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7wh864t4h0p]: Consuming argument `g`
+[24Dec2024 19:32:01.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wqg1fp3awlz]: started parsing
+[24Dec2024 19:32:01.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wqg1fp3awlz]: Consuming argument `gr`
+[24Dec2024 19:32:01.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vpxgmgllqt85]: started parsing
+[24Dec2024 19:32:01.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vpxgmgllqt85]: Consuming argument `gra`
+[24Dec2024 19:32:01.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mw9g0gfp4pwo]: started parsing
+[24Dec2024 19:32:01.584] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mw9g0gfp4pwo]: Consuming argument `gras`
+[24Dec2024 19:32:02.574] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15jr7k3fb3hhp]: started parsing
+[24Dec2024 19:32:02.574] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15jr7k3fb3hhp]: Consuming argument `grass_block`
+[24Dec2024 19:32:02.580] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15jr7k3fb3hhp]: Finished looking at arguments. Finalizing command.
+[24Dec2024 19:32:02.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[24Dec2024 19:32:02.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[24Dec2024 19:32:08.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1monegt3ywml9]: started parsing
+[24Dec2024 19:32:08.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1monegt3ywml9]: Consuming argument ``
+[24Dec2024 19:32:08.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmlvb1cmzl4x]: started parsing
+[24Dec2024 19:32:08.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmlvb1cmzl4x]: Consuming argument `g`
+[24Dec2024 19:32:08.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z3i0yv9focz9]: started parsing
+[24Dec2024 19:32:08.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z3i0yv9focz9]: Consuming argument `gr`
+[24Dec2024 19:32:09.086] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lq7t0jchp1zz]: started parsing
+[24Dec2024 19:32:09.086] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lq7t0jchp1zz]: Consuming argument `gra`
+[24Dec2024 19:32:09.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hfzytlyheis1]: started parsing
+[24Dec2024 19:32:09.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hfzytlyheis1]: Consuming argument `gras`
+[24Dec2024 19:32:09.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k5kunsbuu0tc]: started parsing
+[24Dec2024 19:32:09.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k5kunsbuu0tc]: Consuming argument `grass_block`
+[24Dec2024 19:32:09.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k5kunsbuu0tc]: Finished looking at arguments. Finalizing command.
+[24Dec2024 19:32:59.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 19:33:41.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 19:34:44.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 19:34:44.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 19:35:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 19:36:08.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 19:36:30.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=124, z=-921} BlockPos{x=-39, y=124, z=-923}
+[24Dec2024 19:36:30.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=124, z=-923} BlockPos{x=-39, y=124, z=-923}
+[24Dec2024 19:36:30.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=124, z=-923} BlockPos{x=-39, y=124, z=-923}
+[24Dec2024 19:36:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 19:37:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
