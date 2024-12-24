@@ -883,3 +883,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 03:35:20.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-57, y=69, z=-1019} BlockPos{x=-57, y=68, z=-1019}
 [24Dec2024 03:35:20.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-57, y=69, z=-1019} BlockPos{x=-57, y=68, z=-1019}
 [24Dec2024 03:36:27.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[24Dec2024 03:36:32.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[24Dec2024 03:36:47.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 03:37:05.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[24Dec2024 03:37:13.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 34 entities]
+[24Dec2024 03:37:35.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[24Dec2024 03:38:14.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=71, z=-995} BlockPos{x=-109, y=70, z=-995}
+[24Dec2024 03:38:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=71, z=-995} BlockPos{x=-109, y=70, z=-995}
+[24Dec2024 03:38:14.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=71, z=-995} BlockPos{x=-109, y=70, z=-995}
+[24Dec2024 03:38:14.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=71, z=-995} BlockPos{x=-109, y=70, z=-995}
+[24Dec2024 03:38:17.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=71, z=-998} BlockPos{x=-108, y=70, z=-998}
+[24Dec2024 03:38:17.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=71, z=-998} BlockPos{x=-108, y=70, z=-998}
+[24Dec2024 03:38:17.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=71, z=-998} BlockPos{x=-108, y=70, z=-998}
+[24Dec2024 03:38:17.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=70, z=-998} BlockPos{x=-105, y=71, z=-998}
+[24Dec2024 03:38:17.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=70, z=-998} BlockPos{x=-105, y=71, z=-998}
+[24Dec2024 03:40:40.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Dec2024 03:40:44.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=66, z=-1015} BlockPos{x=-109, y=65, z=-1015}
+[24Dec2024 03:40:44.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=65, z=-1014} BlockPos{x=-108, y=65, z=-1014}
+[24Dec2024 03:40:44.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=65, z=-1014} BlockPos{x=-108, y=65, z=-1014}
+[24Dec2024 03:40:44.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=66, z=-1014} BlockPos{x=-108, y=65, z=-1014}
+[24Dec2024 03:40:44.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=66, z=-1014} BlockPos{x=-108, y=65, z=-1014}
+[24Dec2024 03:40:44.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=66, z=-1015} BlockPos{x=-108, y=65, z=-1014}
+[24Dec2024 03:41:33.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=65, z=-1017} BlockPos{x=-113, y=65, z=-1019}
+[24Dec2024 03:41:49.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 03:43:39.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[24Dec2024 03:44:04.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=65, z=-1015} BlockPos{x=-68, y=65, z=-1013}
+[24Dec2024 03:44:05.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=66, z=-1014} BlockPos{x=-65, y=65, z=-1014}
+[24Dec2024 03:44:05.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=66, z=-1013} BlockPos{x=-65, y=65, z=-1014}
+[24Dec2024 03:44:05.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=66, z=-1014} BlockPos{x=-65, y=65, z=-1014}
+[24Dec2024 03:44:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 03:44:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 03:46:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
