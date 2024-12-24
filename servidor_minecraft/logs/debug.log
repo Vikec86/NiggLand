@@ -10336,3 +10336,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 05:05:55.765] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
 [24Dec2024 05:07:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [24Dec2024 05:07:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 31 entities]
+[24Dec2024 05:08:26.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:08:26.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:09:34.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 05:09:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 6 entities]
+[24Dec2024 05:10:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[24Dec2024 05:11:05.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:11:15.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:11:32.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:11:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:11:53.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[24Dec2024 05:12:50.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:12:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:13:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 05:13:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 05:13:09.213] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[24Dec2024 05:13:26.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:13:26.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:13:56.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[24Dec2024 05:14:48.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 05:14:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
