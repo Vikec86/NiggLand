@@ -921,3 +921,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 23:06:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 23 entities]
 [24Dec2024 23:06:11.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [24Dec2024 23:06:22.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Dec2024 23:09:35.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 13 entities]
+[24Dec2024 23:10:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[24Dec2024 23:10:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[24Dec2024 23:12:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 23:12:52.370] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50d069d
+[24Dec2024 23:12:52.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naeceran[/127.239.23.117:46565] logged in with entity id 8020 at (-114.82082771958896, 70.0, -1201.277878469279)
+[24Dec2024 23:12:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran joined the game
+[24Dec2024 23:12:52.652] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[24Dec2024 23:12:52.666] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[24Dec2024 23:12:52.667] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[24Dec2024 23:12:52.668] [Server thread/INFO] [Jade/]: Syncing config to Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69)
+[24Dec2024 23:12:57.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 23:13:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 23:13:17.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 23:15:06.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 19 entities]
+[24Dec2024 23:15:16.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 23:15:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 23:15:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

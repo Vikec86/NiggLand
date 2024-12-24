@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2024-12-24 23:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
@@ -1478,6 +1484,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/constantan_basic_shield": {
+    "criteria": {
+      "has_constantan_ingot": "2024-12-24 23:05:29 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2024-12-23 18:14:18 +0000"
@@ -1637,6 +1649,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 21:17:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_dust_copper": "2024-12-24 23:05:10 +0000"
     },
     "done": true
   },
@@ -2978,6 +2996,12 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
+    "criteria": {
+      "has_ingot_constantan": "2024-12-24 23:05:29 +0000"
     },
     "done": true
   },
@@ -4505,6 +4529,12 @@
   "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-23 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_copper": "2024-12-24 23:05:10 +0000"
     },
     "done": true
   },
@@ -6036,6 +6066,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_to_ingot_constantan": {
+    "criteria": {
+      "has_storage_constantan": "2024-12-24 23:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
@@ -6345,6 +6381,12 @@
   "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-24 16:27:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-12-24 23:13:30 +0000"
     },
     "done": true
   },
@@ -6913,6 +6955,12 @@
   "corail_recycler:tutorial/build_recycler": {
     "criteria": {
       "coded_trigger": "2024-12-23 18:40:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_constantan_from_dust": {
+    "criteria": {
+      "has_dust_constantan": "2024-12-24 23:05:15 +0000"
     },
     "done": true
   },
@@ -7608,9 +7656,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_constantan_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_constantan": "2024-12-24 23:05:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_green_picket_gate": {
     "criteria": {
       "has_dye": "2024-12-24 17:41:41 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/constantan_tower_shield": {
+    "criteria": {
+      "has_constantan_ingot": "2024-12-24 23:05:29 +0000"
     },
     "done": true
   },
@@ -7797,6 +7857,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-12-24 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-24 23:13:30 +0000"
     },
     "done": true
   },
