@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "inputItem": "gobber2:gobber2_sword:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot:2",
+      "gobber2:gobber2_rod:1"
+    ]
+  }
+]
