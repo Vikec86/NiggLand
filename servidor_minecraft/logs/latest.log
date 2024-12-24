@@ -1153,3 +1153,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 17:55:28.997] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [24Dec2024 17:55:28.997] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [24Dec2024 17:55:28.998] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[24Dec2024 18:00:07.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Enrique'/52022, l='ServerLevel[world]', x=819.15, y=62.00, z=-2254.56] died, message: 'Enrique drowned'
+[24Dec2024 18:00:07.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Enrique'/52022, l='ServerLevel[world]', x=819.15, y=62.00, z=-2254.56] died: Enrique drowned
+[24Dec2024 18:00:07.398] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[24Dec2024 18:00:07.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[24Dec2024 18:01:17.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Slabcrab
+[24Dec2024 18:02:56.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has reached the goal [Pray to the Goddess]
+[24Dec2024 18:03:31.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD was slain by Zombie
+[24Dec2024 18:04:19.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
