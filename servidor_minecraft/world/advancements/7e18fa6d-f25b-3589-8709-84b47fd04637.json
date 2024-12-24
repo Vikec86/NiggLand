@@ -5401,6 +5401,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_nether": {
+    "criteria": {
+      "gobber2_helmet_nether": "2024-12-24 16:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-23 18:37:33 +0000"
