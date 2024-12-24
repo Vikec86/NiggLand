@@ -10480,3 +10480,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 21:51:43.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ck20jptljzq]: started parsing
 [24Dec2024 21:51:43.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ck20jptljzq]: Consuming argument `0`
 [24Dec2024 21:51:43.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ck20jptljzq]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:52:03.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9nqcibjvead]: started parsing
+[24Dec2024 21:52:03.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q9nqcibjvead]: Consuming argument ``
+[24Dec2024 21:52:03.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z9zrm3rz4z4z]: started parsing
+[24Dec2024 21:52:03.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z9zrm3rz4z4z]: Consuming argument `g`
+[24Dec2024 21:52:03.673] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v3iv1y66o9iv]: started parsing
+[24Dec2024 21:52:03.673] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v3iv1y66o9iv]: Consuming argument `gr`
+[24Dec2024 21:52:03.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0snjqdeei4hww]: started parsing
+[24Dec2024 21:52:03.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0snjqdeei4hww]: Consuming argument `gra`
+[24Dec2024 21:52:03.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w8xcotjlbhz4]: started parsing
+[24Dec2024 21:52:03.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w8xcotjlbhz4]: Consuming argument `gras`
+[24Dec2024 21:52:04.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11y7l9g91tgm0]: started parsing
+[24Dec2024 21:52:04.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11y7l9g91tgm0]: Consuming argument `grass_block`
+[24Dec2024 21:52:04.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11y7l9g91tgm0]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:52:58.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 21:52:58.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 21:53:02.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> mis cascos se apagaron
+[24Dec2024 21:53:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> pera
+[24Dec2024 21:53:31.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 13 entities]
+[24Dec2024 21:53:36.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[24Dec2024 21:53:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Birch Sapling]
+[24Dec2024 21:54:06.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 21:54:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[24Dec2024 21:55:50.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 21:56:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 21:56:17.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 21:56:24.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgvq2abvxozn]: started parsing
+[24Dec2024 21:56:24.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgvq2abvxozn]: Consuming argument ``
+[24Dec2024 21:56:24.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03v2vh6z9wts3]: started parsing
+[24Dec2024 21:56:24.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03v2vh6z9wts3]: Consuming argument `0`
+[24Dec2024 21:56:24.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03v2vh6z9wts3]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:56:25.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z17ch8ls21mi]: started parsing
+[24Dec2024 21:56:25.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z17ch8ls21mi]: Consuming argument `0`
+[24Dec2024 21:56:25.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z17ch8ls21mi]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:56:33.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cwamk119ve5i]: started parsing
+[24Dec2024 21:56:33.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cwamk119ve5i]: Consuming argument ``
+[24Dec2024 21:56:33.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dgp5u7pbvgm]: started parsing
+[24Dec2024 21:56:33.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dgp5u7pbvgm]: Consuming argument `0`
+[24Dec2024 21:56:33.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19dgp5u7pbvgm]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:56:34.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11d0q7ylfj23a]: started parsing
+[24Dec2024 21:56:34.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11d0q7ylfj23a]: Consuming argument `0`
+[24Dec2024 21:56:34.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11d0q7ylfj23a]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:56:40.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzlom9x81nxb]: started parsing
+[24Dec2024 21:56:40.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzlom9x81nxb]: Consuming argument ``
+[24Dec2024 21:56:40.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [024po0o3gcjcf]: started parsing
+[24Dec2024 21:56:40.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [024po0o3gcjcf]: Consuming argument `0`
+[24Dec2024 21:56:40.889] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [024po0o3gcjcf]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:56:41.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10yx8v8gegend]: started parsing
+[24Dec2024 21:56:41.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10yx8v8gegend]: Consuming argument `0`
+[24Dec2024 21:56:41.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10yx8v8gegend]: Finished looking at arguments. Finalizing command.
+[24Dec2024 21:56:45.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 21:57:58.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 21:57:58.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 22:00:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:00:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
