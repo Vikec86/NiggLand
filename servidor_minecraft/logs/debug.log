@@ -16198,3 +16198,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 18:56:10.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 18:56:10.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 18:58:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 18:59:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 18:59:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 19:00:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 19:01:01.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 19:01:10.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 19:01:10.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 19:01:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 19:02:45.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 19:03:34.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 19:03:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 19:04:02.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=130, z=-944} BlockPos{x=-37, y=130, z=-943}
+[24Dec2024 19:04:02.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=130, z=-944} BlockPos{x=-37, y=130, z=-943}
+[24Dec2024 19:04:02.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-36, y=130, z=-944} BlockPos{x=-37, y=130, z=-943}
+[24Dec2024 19:04:44.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=130, z=-940} BlockPos{x=-46, y=123, z=-933}
+[24Dec2024 19:04:52.551] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3763wqjxz3z]: started parsing
+[24Dec2024 19:04:52.551] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3763wqjxz3z]: Consuming argument ``
+[24Dec2024 19:04:52.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1rjgt60husn]: started parsing
+[24Dec2024 19:04:52.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1rjgt60husn]: Consuming argument `g`
+[24Dec2024 19:04:52.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t0p0hvpgok3r]: started parsing
+[24Dec2024 19:04:52.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t0p0hvpgok3r]: Consuming argument `gr`
+[24Dec2024 19:04:52.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6d49d88qxwq]: started parsing
+[24Dec2024 19:04:52.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6d49d88qxwq]: Consuming argument `gra`
+[24Dec2024 19:04:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m12ke4skxkxc]: started parsing
+[24Dec2024 19:04:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m12ke4skxkxc]: Consuming argument `gras`
+[24Dec2024 19:04:54.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199hqv5j4d0lt]: started parsing
+[24Dec2024 19:04:54.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199hqv5j4d0lt]: Consuming argument `grass_block`
+[24Dec2024 19:04:54.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199hqv5j4d0lt]: Finished looking at arguments. Finalizing command.
+[24Dec2024 19:05:07.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eoj0w3qkmvfe]: started parsing
+[24Dec2024 19:05:07.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eoj0w3qkmvfe]: Consuming argument ``
+[24Dec2024 19:05:07.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oeg1mcibpcrc]: started parsing
+[24Dec2024 19:05:07.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oeg1mcibpcrc]: Consuming argument `g`
+[24Dec2024 19:05:07.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069kdd1fbuw6m]: started parsing
+[24Dec2024 19:05:07.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069kdd1fbuw6m]: Consuming argument `gr`
+[24Dec2024 19:05:07.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [157volyqjlwvr]: started parsing
+[24Dec2024 19:05:07.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [157volyqjlwvr]: Consuming argument `gra`
+[24Dec2024 19:05:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eae1vjilo9gn]: started parsing
+[24Dec2024 19:05:07.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eae1vjilo9gn]: Consuming argument `gras`
+[24Dec2024 19:05:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dg91ka12bng3]: started parsing
+[24Dec2024 19:05:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dg91ka12bng3]: Consuming argument `grass_block`
+[24Dec2024 19:05:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dg91ka12bng3]: Finished looking at arguments. Finalizing command.
+[24Dec2024 19:06:10.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 19:06:10.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 19:07:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 19:08:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
