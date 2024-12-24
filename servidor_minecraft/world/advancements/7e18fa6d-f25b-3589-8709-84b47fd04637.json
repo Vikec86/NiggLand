@@ -5049,6 +5049,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-12-24 20:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-24 00:16:15 +0000"
@@ -5328,6 +5334,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2024-12-23 21:21:54 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-24 20:53:51 +0000"
     },
     "done": true
   },
@@ -5914,6 +5926,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-24 20:53:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
@@ -6343,6 +6361,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 17:44:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-24 20:53:55 +0000"
     },
     "done": true
   },
@@ -7008,6 +7032,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-24 20:53:55 +0000"
     },
     "done": true
   },
