@@ -1250,3 +1250,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 18:13:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Mine? Mine? Mine?]
 [24Dec2024 18:17:39.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
 [24Dec2024 18:17:39.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[24Dec2024 18:32:30.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 18:33:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 18:34:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 10 entities]
+[24Dec2024 18:34:40.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 18:35:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 18:35:30.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 18:36:36.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 18:36:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
