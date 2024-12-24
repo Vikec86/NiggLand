@@ -1030,3 +1030,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 16:44:26.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [24Dec2024 16:44:42.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [24Dec2024 16:45:36.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Convergent Evolution...]
+[24Dec2024 16:45:56.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 16:46:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 16:47:23.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Vindicator
+[24Dec2024 16:50:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 16:51:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has reached the goal [Hunted]
+[24Dec2024 16:51:42.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 16:51:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 16:51:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[24Dec2024 16:51:58.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Wheat Seeds]
+[24Dec2024 16:53:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was doomed to fall by Blizz
+[24Dec2024 16:55:36.550] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/network/ServerRecyclerMessage$RecyclerAction
+[24Dec2024 16:55:36.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/compatibility/SupportMods

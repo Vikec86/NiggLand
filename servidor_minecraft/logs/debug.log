@@ -10355,3 +10355,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 16:44:42.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [24Dec2024 16:45:24.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
 [24Dec2024 16:45:36.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Convergent Evolution...]
+[24Dec2024 16:45:56.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 16:46:03.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:46:03.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:46:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 16:47:23.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Vindicator
+[24Dec2024 16:47:25.241] [Server thread/DEBUG] [twilightforest/]: Player L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b) respawned and received items held in storage
+[24Dec2024 16:48:32.489] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[24Dec2024 16:48:55.978] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-285 | 70 | -1961)
+[24Dec2024 16:48:55.993] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-285 | 70 | -1961)
+[24Dec2024 16:48:57.867] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-247 | 61 | -1968)
+[24Dec2024 16:48:57.874] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-247 | 61 | -1968)
+[24Dec2024 16:48:57.882] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-247 | 61 | -1968)
+[24Dec2024 16:48:57.895] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-247 | 61 | -1968)
+[24Dec2024 16:48:57.895] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-267 | 33 | -1970)
+[24Dec2024 16:48:57.897] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-267 | 33 | -1970)
+[24Dec2024 16:48:57.959] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-285 | 70 | -1961)
+[24Dec2024 16:48:57.960] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-285 | 70 | -1961)
+[24Dec2024 16:48:57.960] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-267 | 33 | -1970)
+[24Dec2024 16:48:57.969] [Worker-Main-73/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-267 | 33 | -1970)
+[24Dec2024 16:50:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 16:51:03.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:51:03.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:51:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has reached the goal [Hunted]
+[24Dec2024 16:51:42.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 16:51:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 16:51:43.269] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[24Dec2024 16:51:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[24Dec2024 16:51:58.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Wheat Seeds]
+[24Dec2024 16:53:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was doomed to fall by Blizz
+[24Dec2024 16:53:24.190] [Server thread/DEBUG] [twilightforest/]: Player L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b) respawned and received items held in storage
+[24Dec2024 16:55:36.550] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/network/ServerRecyclerMessage$RecyclerAction
+[24Dec2024 16:55:36.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/compatibility/SupportMods

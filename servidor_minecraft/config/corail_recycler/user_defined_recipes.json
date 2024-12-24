@@ -1,9 +1,37 @@
 [
   {
+    "inputItem": "gobber2:gobber2_helmet:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot:4",
+      "minecraft:emerald:1"
+    ]
+  },
+  {
     "inputItem": "gobber2:gobber2_sword:1",
     "outputItems": [
       "gobber2:gobber2_ingot:2",
       "gobber2:gobber2_rod:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_boots:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot:3",
+      "minecraft:emerald:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_leggings:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot:6",
+      "minecraft:emerald:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_chestplate:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot:7",
+      "minecraft:emerald:1"
     ]
   }
 ]
