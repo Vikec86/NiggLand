@@ -1019,3 +1019,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 16:33:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <L00m4> XDDDD
 [24Dec2024 16:34:38.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [24Dec2024 16:35:06.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=64, z=-1352} BlockPos{x=-141, y=62, z=-1353}
+[24Dec2024 16:35:53.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[24Dec2024 16:36:44.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 16:39:40.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 16:41:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Mine? Mine? Mine?]
+[24Dec2024 16:42:40.348] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[24Dec2024 16:42:57.280] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[24Dec2024 16:43:24.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[24Dec2024 16:44:26.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[24Dec2024 16:44:26.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[24Dec2024 16:44:42.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 16:45:36.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Convergent Evolution...]
