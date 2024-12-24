@@ -9991,3 +9991,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 16:03:34.772] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_1
 [24Dec2024 16:04:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Those Were the Days]
 [24Dec2024 16:04:36.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:05:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [War Pigs]
+[24Dec2024 16:05:09.195] [Server thread/DEBUG] [com.infamous.dungeons_libraries.DungeonsLibraries/]: CrossbowItem#performShooting was canceled by Dungeons Libraries and replaced with its CrossbowGear#fireCrossbowProjectiles
+[24Dec2024 16:05:15.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Oh Shiny]
+[24Dec2024 16:06:00.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:06:00.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:06:06.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:06:14.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:06:59.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:07:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:08:00.404] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[24Dec2024 16:08:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to -415.500000, 73.000000, -1919.500000]
+[24Dec2024 16:08:02.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:08:19.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:09:11.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-336, y=59, z=-1912} BlockPos{x=-336, y=58, z=-1912}
+[24Dec2024 16:09:11.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-335, y=58, z=-1912} BlockPos{x=-336, y=58, z=-1912}
+[24Dec2024 16:09:11.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-335, y=58, z=-1912} BlockPos{x=-334, y=58, z=-1912}
+[24Dec2024 16:09:12.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-334, y=58, z=-1910} BlockPos{x=-335, y=57, z=-1911}
+[24Dec2024 16:09:31.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-322, y=60, z=-1880} BlockPos{x=-323, y=60, z=-1884}
+[24Dec2024 16:09:31.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-322, y=60, z=-1880} BlockPos{x=-323, y=60, z=-1884}
+[24Dec2024 16:09:31.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-322, y=60, z=-1880} BlockPos{x=-323, y=60, z=-1884}
+[24Dec2024 16:10:00.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:10:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:10:22.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Spooky Scary Skeleton]
+[24Dec2024 16:11:00.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:11:00.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:13:35.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:13:49.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[24Dec2024 16:14:18.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to -431.500000, 90.630228, -2735.500000]
+[24Dec2024 16:14:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
