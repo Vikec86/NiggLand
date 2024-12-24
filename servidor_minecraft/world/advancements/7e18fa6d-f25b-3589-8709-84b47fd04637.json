@@ -541,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 04:02:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-23 18:27:03 +0000"
@@ -790,6 +796,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2024-12-23 19:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 04:02:42 +0000"
     },
     "done": true
   },
@@ -6895,6 +6907,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2024-12-23 19:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 04:02:42 +0000"
     },
     "done": true
   },
