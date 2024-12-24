@@ -1866,6 +1866,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_pickaxe": {
+    "criteria": {
+      "gobber2_pickaxe": "2024-12-24 23:02:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-24 00:14:25 +0000"
@@ -4211,6 +4217,12 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-12-23 19:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-24 23:00:32 +0000"
     },
     "done": true
   },
