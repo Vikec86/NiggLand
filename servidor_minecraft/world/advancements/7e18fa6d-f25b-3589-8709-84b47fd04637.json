@@ -4859,6 +4859,7 @@
       "minecraft:pillager": "2024-12-23 22:50:22 +0000",
       "minecraft:blaze": "2024-12-24 15:57:39 +0000",
       "minecraft:skeleton": "2024-12-23 18:55:04 +0000",
+      "minecraft:ghast": "2024-12-24 22:25:42 +0000",
       "minecraft:hoglin": "2024-12-23 23:01:46 +0000",
       "minecraft:vindicator": "2024-12-24 00:05:12 +0000",
       "minecraft:magma_cube": "2024-12-24 15:57:34 +0000",
@@ -5508,6 +5509,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-24 22:25:27 +0000"
     },
     "done": true
   },
@@ -6999,6 +7006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-24 22:25:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-23 17:50:34 +0000"
@@ -7999,6 +8012,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-23 21:11:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-24 22:25:27 +0000"
     },
     "done": true
   },

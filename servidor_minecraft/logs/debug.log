@@ -10546,3 +10546,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 22:17:58.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 22:20:01.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
 [24Dec2024 22:20:31.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 22:22:58.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 22:22:58.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 22:23:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 13000]
+[24Dec2024 22:23:50.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 22:24:40.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 24 entities]
+[24Dec2024 22:24:44.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:24:54.119] [Worker-Main-44/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Dec2024 22:24:55.887] [Worker-Main-44/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[24Dec2024 22:24:56.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[24Dec2024 22:25:18.771] [Worker-Main-117/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[24Dec2024 22:26:09.810] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[24Dec2024 22:27:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 22:27:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 22:27:28.011] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[24Dec2024 22:27:58.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 22:27:58.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 22:28:30.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[24Dec2024 22:29:01.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[24Dec2024 22:29:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[24Dec2024 22:29:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 22:30:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:30:34.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15tled55qhork]: started parsing
+[24Dec2024 22:30:34.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15tled55qhork]: Consuming argument ``
+[24Dec2024 22:30:35.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qz0zsvfdpywl]: started parsing
+[24Dec2024 22:30:35.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qz0zsvfdpywl]: Consuming argument `0`
+[24Dec2024 22:30:35.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qz0zsvfdpywl]: Finished looking at arguments. Finalizing command.
+[24Dec2024 22:30:35.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xdyu22xmf3f1]: started parsing
+[24Dec2024 22:30:35.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xdyu22xmf3f1]: Consuming argument `0`
+[24Dec2024 22:30:35.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xdyu22xmf3f1]: Finished looking at arguments. Finalizing command.
+[24Dec2024 22:30:42.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgasqczk6hkb]: started parsing
+[24Dec2024 22:30:42.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgasqczk6hkb]: Consuming argument ``
+[24Dec2024 22:30:42.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16meq9h300fha]: started parsing
+[24Dec2024 22:30:42.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16meq9h300fha]: Consuming argument `0`
+[24Dec2024 22:30:42.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16meq9h300fha]: Finished looking at arguments. Finalizing command.
+[24Dec2024 22:30:43.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yilr4qrve437]: started parsing
+[24Dec2024 22:30:43.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yilr4qrve437]: Consuming argument `0`
+[24Dec2024 22:30:43.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yilr4qrve437]: Finished looking at arguments. Finalizing command.
+[24Dec2024 22:30:50.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f8uxinojif31]: started parsing
+[24Dec2024 22:30:50.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f8uxinojif31]: Consuming argument ``
+[24Dec2024 22:30:50.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kgrulladqusp]: started parsing
+[24Dec2024 22:30:50.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kgrulladqusp]: Consuming argument `0`
+[24Dec2024 22:30:50.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kgrulladqusp]: Finished looking at arguments. Finalizing command.
+[24Dec2024 22:30:50.986] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xu9n6dzjx0bl]: started parsing
+[24Dec2024 22:30:50.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xu9n6dzjx0bl]: Consuming argument `0`
+[24Dec2024 22:30:50.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xu9n6dzjx0bl]: Finished looking at arguments. Finalizing command.
+[24Dec2024 22:30:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:31:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:32:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
