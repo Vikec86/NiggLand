@@ -10276,3 +10276,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 04:43:26.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 04:43:26.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 04:44:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[24Dec2024 04:48:04.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 04:48:13.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 43 entities]
+[24Dec2024 04:48:26.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:48:26.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:48:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[24Dec2024 04:49:07.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[24Dec2024 04:49:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 04:51:00.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 6 entities]
+[24Dec2024 04:52:55.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[24Dec2024 04:53:26.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:53:26.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:54:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 04:56:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 12 entities]
+[24Dec2024 04:57:17.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 04:57:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
