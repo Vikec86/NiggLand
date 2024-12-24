@@ -10291,3 +10291,48 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 04:56:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 12 entities]
 [24Dec2024 04:57:17.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [24Dec2024 04:57:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[24Dec2024 04:58:26.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:58:26.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:59:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[24Dec2024 05:00:21.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 05:01:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 7 entities]
+[24Dec2024 05:01:51.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:01:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:02:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 05:02:55.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:03:01.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[24Dec2024 05:03:01.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[24Dec2024 05:03:01.983] [Worker-Main-91/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Dec2024 05:03:02.069] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:sky_island_1
+[24Dec2024 05:03:02.099] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ufo_3
+[24Dec2024 05:03:03.015] [Worker-Main-91/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[24Dec2024 05:03:03.620] [Worker-Main-91/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[24Dec2024 05:03:11.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:03:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:03:26.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:03:26.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:03:31.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:03:34.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:03:39.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:03:41.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:03:43.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[24Dec2024 05:03:45.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[24Dec2024 05:04:05.308] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:crabspawn
+[24Dec2024 05:04:09.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:04:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:04:38.572] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[24Dec2024 05:04:39.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:04:54.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[24Dec2024 05:04:57.998] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[24Dec2024 05:05:13.053] [Worker-Main-99/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[24Dec2024 05:05:31.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 05:05:36.078] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tower_1
+[24Dec2024 05:05:36.081] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tomb_1
+[24Dec2024 05:05:36.083] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tower_2
+[24Dec2024 05:05:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 05:05:47.271] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[24Dec2024 05:05:54.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 05:05:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 05:05:55.765] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[24Dec2024 05:07:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 05:07:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 31 entities]
