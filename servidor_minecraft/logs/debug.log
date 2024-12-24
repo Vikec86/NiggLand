@@ -10594,3 +10594,127 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 22:30:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
 [24Dec2024 22:31:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [24Dec2024 22:32:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:32:32.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:32:39.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:32:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 22 entities]
+[24Dec2024 22:32:58.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 22:32:58.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 22:34:02.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 22:36:29.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[24Dec2024 22:37:12.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:37:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:37:38.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:37:58.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 22:37:58.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 22:38:09.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:38:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 22:38:44.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 22:38:53.947] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:sky_island_1
+[24Dec2024 22:38:53.958] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:crabspawn
+[24Dec2024 22:38:53.960] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ufo_3
+[24Dec2024 22:39:38.809] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[24Dec2024 22:39:38.921] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_3
+[24Dec2024 22:39:39.147] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[24Dec2024 22:39:39.785] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_1
+[24Dec2024 22:39:40.485] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[24Dec2024 22:39:40.872] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tower_2
+[24Dec2024 22:39:40.875] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tomb_1
+[24Dec2024 22:39:40.881] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tower_1
+[24Dec2024 22:39:40.885] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:service_station_1_eng
+[24Dec2024 22:39:40.892] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:badlands_tower_1
+[24Dec2024 22:39:41.365] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_3
+[24Dec2024 22:39:43.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to 1652.500000, 110.000000, 444.500000]
+[24Dec2024 22:39:43.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4570ms or 91 ticks behind
+[24Dec2024 22:39:46.352] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_pike_1
+[24Dec2024 22:39:49.490] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[24Dec2024 22:39:50.767] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/mosquito_altar
+[24Dec2024 22:39:51.429] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/desolate_bastion_outpost_1
+[24Dec2024 22:39:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 22:40:03.527] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_3
+[24Dec2024 22:40:03.544] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (1647 | 26 | 548)
+[24Dec2024 22:40:03.555] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (1647 | 26 | 548)
+[24Dec2024 22:40:03.556] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (1647 | 18 | 548)
+[24Dec2024 22:40:03.556] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (1647 | 18 | 548)
+[24Dec2024 22:40:03.557] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (1647 | 18 | 548)
+[24Dec2024 22:40:03.558] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (1647 | 18 | 548)
+[24Dec2024 22:40:03.852] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_8
+[24Dec2024 22:40:07.552] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_2
+[24Dec2024 22:40:07.797] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_12
+[24Dec2024 22:40:11.825] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:11.834] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:11.834] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:11.835] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:11.855] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1627 | 18 | 572)
+[24Dec2024 22:40:11.862] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1627 | 18 | 572)
+[24Dec2024 22:40:11.863] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1627 | 18 | 572)
+[24Dec2024 22:40:11.863] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1627 | 18 | 572)
+[24Dec2024 22:40:11.863] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.864] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.864] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.864] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.864] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:11.867] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:11.867] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:11.868] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:11.879] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 27 | 570)
+[24Dec2024 22:40:11.890] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 27 | 570)
+[24Dec2024 22:40:11.890] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (1647 | 26 | 548)
+[24Dec2024 22:40:11.890] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (1647 | 26 | 548)
+[24Dec2024 22:40:11.890] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.891] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.891] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.891] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:11.891] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1633 | 18 | 570)
+[24Dec2024 22:40:11.908] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1633 | 18 | 570)
+[24Dec2024 22:40:11.909] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1633 | 18 | 570)
+[24Dec2024 22:40:11.910] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1633 | 18 | 570)
+[24Dec2024 22:40:11.910] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 18 | 570)
+[24Dec2024 22:40:11.928] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 18 | 570)
+[24Dec2024 22:40:11.936] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1642 | 18 | 570)
+[24Dec2024 22:40:11.937] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1642 | 18 | 570)
+[24Dec2024 22:40:11.937] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (1647 | 18 | 548)
+[24Dec2024 22:40:11.937] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (1647 | 18 | 548)
+[24Dec2024 22:40:11.937] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (1647 | 18 | 548)
+[24Dec2024 22:40:11.938] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (1647 | 18 | 548)
+[24Dec2024 22:40:14.037] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:14.037] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:14.037] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:14.038] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:14.045] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1627 | 18 | 572)
+[24Dec2024 22:40:14.045] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1627 | 18 | 572)
+[24Dec2024 22:40:14.045] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1627 | 18 | 572)
+[24Dec2024 22:40:14.045] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1627 | 18 | 572)
+[24Dec2024 22:40:14.045] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.045] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.046] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.046] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.046] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:14.047] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (1612 | 18 | 567)
+[24Dec2024 22:40:14.047] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:14.048] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (1612 | 18 | 567)
+[24Dec2024 22:40:14.054] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 27 | 570)
+[24Dec2024 22:40:14.055] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 27 | 570)
+[24Dec2024 22:40:14.055] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.055] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.055] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.055] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1628 | 18 | 572)
+[24Dec2024 22:40:14.055] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1633 | 18 | 570)
+[24Dec2024 22:40:14.056] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1633 | 18 | 570)
+[24Dec2024 22:40:14.056] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1633 | 18 | 570)
+[24Dec2024 22:40:14.056] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1633 | 18 | 570)
+[24Dec2024 22:40:14.056] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 18 | 570)
+[24Dec2024 22:40:14.056] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1642 | 18 | 570)
+[24Dec2024 22:40:14.056] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1642 | 18 | 570)
+[24Dec2024 22:40:14.057] [Worker-Main-117/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (1642 | 18 | 570)
+[24Dec2024 22:40:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 22:40:32.701] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/desolate_bastion_outpost_5
+[24Dec2024 22:40:39.284] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[24Dec2024 22:40:40.602] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_6
+[24Dec2024 22:40:47.799] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_pike_2
+[24Dec2024 22:40:47.893] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/shrine_altar
+[24Dec2024 22:40:54.932] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_2
+[24Dec2024 22:41:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has reached the goal [Flowers of the Savanna]
+[24Dec2024 22:41:18.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 22:41:18.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 22:41:20.350] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[24Dec2024 22:42:41.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 32 entities]
