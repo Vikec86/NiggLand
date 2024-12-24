@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-24 15:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-23 17:01:06 +0000"
@@ -601,6 +607,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-24 15:56:51 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-23 23:10:46 +0000"
@@ -670,6 +682,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2024-12-23 18:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },
@@ -1328,6 +1346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-24 15:56:46 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2024-12-23 18:14:18 +0000"
@@ -1585,6 +1609,12 @@
       "in_water": "2024-12-23 17:20:10 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-24 15:56:18 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -2797,6 +2827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-23 19:26:51 +0000"
@@ -3298,6 +3334,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-24 15:57:41 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/weighted_stock": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 18:31:34 +0000"
@@ -3412,6 +3454,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2024-12-24 15:54:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-24 05:02:27 +0000"
@@ -3475,6 +3523,12 @@
   "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
       "has_leather": "2024-12-23 18:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },
@@ -3709,6 +3763,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-24 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },
@@ -4511,9 +4571,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-23 22:50:22 +0000",
+      "minecraft:blaze": "2024-12-24 15:57:39 +0000",
       "minecraft:skeleton": "2024-12-23 18:55:04 +0000",
       "minecraft:hoglin": "2024-12-23 23:01:46 +0000",
       "minecraft:vindicator": "2024-12-24 00:05:12 +0000",
+      "minecraft:magma_cube": "2024-12-24 15:57:34 +0000",
       "minecraft:spider": "2024-12-23 19:07:10 +0000",
       "minecraft:creeper": "2024-12-23 18:14:18 +0000",
       "minecraft:evoker": "2024-12-24 00:04:31 +0000",
@@ -4522,6 +4584,7 @@
       "minecraft:wither_skeleton": "2024-12-23 23:03:12 +0000",
       "minecraft:husk": "2024-12-23 22:44:53 +0000",
       "minecraft:cave_spider": "2024-12-24 00:23:10 +0000",
+      "minecraft:piglin": "2024-12-24 15:59:21 +0000",
       "minecraft:enderman": "2024-12-23 18:55:30 +0000",
       "minecraft:vex": "2024-12-24 00:04:54 +0000",
       "minecraft:zombie": "2024-12-23 18:39:21 +0000",
@@ -4532,6 +4595,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2024-12-23 19:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-24 15:56:46 +0000"
     },
     "done": true
   },
@@ -4661,6 +4730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-23 18:40:30 +0000"
@@ -4742,6 +4817,12 @@
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2024-12-23 18:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 15:57:41 +0000"
     },
     "done": true
   },
@@ -4856,6 +4937,12 @@
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },
@@ -5252,6 +5339,12 @@
   "create:recipes/create.palettes/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-23 20:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },
@@ -5674,6 +5767,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-24 15:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-24 15:56:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 20:00:04 +0000"
@@ -5875,6 +5980,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-23 20:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },
@@ -6754,6 +6865,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-24 15:57:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-23 20:00:04 +0000"
@@ -7006,6 +7123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 15:57:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-23 18:29:49 +0000"
@@ -7153,6 +7276,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-24 04:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-24 15:56:36 +0000"
     },
     "done": true
   },

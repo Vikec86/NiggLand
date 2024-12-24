@@ -9945,3 +9945,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 15:53:28.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
 [24Dec2024 15:54:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 68 entities]
 [24Dec2024 15:54:23.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[24Dec2024 15:55:03.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=81, z=-136} BlockPos{x=5, y=81, z=-137}
+[24Dec2024 15:55:04.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8, y=80, z=-136} BlockPos{x=5, y=81, z=-137}
+[24Dec2024 15:55:05.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=80, z=-137} BlockPos{x=4, y=81, z=-137}
+[24Dec2024 15:55:58.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:55:58.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 15:56:07.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[24Dec2024 15:56:15.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[24Dec2024 15:56:15.381] [Worker-Main-20/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[24Dec2024 15:56:15.452] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[24Dec2024 15:56:15.492] [Worker-Main-20/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Dec2024 15:56:16.064] [Worker-Main-20/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[24Dec2024 15:56:17.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to 48.500000, 38.000000, -415.500000]
+[24Dec2024 15:56:17.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[24Dec2024 15:56:18.767] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[24Dec2024 15:56:22.137] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Dec2024 15:56:25.642] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[24Dec2024 15:56:26.225] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_3
+[24Dec2024 15:56:33.575] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[24Dec2024 15:56:41.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 15:56:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 15:56:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 15:56:58.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 15:57:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [A Terrible Fortress]
+[24Dec2024 15:57:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 15:57:41.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Into Fire]
+[24Dec2024 15:59:20.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 15:59:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 15:59:32.834] [Worker-Main-44/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[24Dec2024 15:59:36.140] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_2
+[24Dec2024 15:59:55.609] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[24Dec2024 16:00:05.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:00:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Adventure Mode]
+[24Dec2024 16:00:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:00:34.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:01:00.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:01:00.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:01:07.501] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_5
+[24Dec2024 16:01:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:01:17.697] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_4
+[24Dec2024 16:01:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:01:37.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:01:51.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 16:03:10.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 16:03:34.772] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_1
+[24Dec2024 16:04:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Those Were the Days]
+[24Dec2024 16:04:36.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
