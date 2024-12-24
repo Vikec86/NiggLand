@@ -1132,3 +1132,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 17:36:30.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to 1937.500000, 64.000000, 903.500000]
 [24Dec2024 17:36:30.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3111ms or 62 ticks behind
 [24Dec2024 17:36:38.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[24Dec2024 17:37:07.223] [Worker-Main-20/WARN] [ModernFix/]: The namespace infernalexp contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Dec2024 17:37:11.351] [Worker-Main-73/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[24Dec2024 17:38:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 17:38:54.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 17:39:06.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 17:40:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[24Dec2024 17:40:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[24Dec2024 17:40:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[24Dec2024 17:41:01.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 17:41:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Time to Mow the Lawn]
+[24Dec2024 17:43:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 17:44:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
