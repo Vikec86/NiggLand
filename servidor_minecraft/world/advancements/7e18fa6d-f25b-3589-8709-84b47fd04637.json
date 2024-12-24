@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2024-12-24 03:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 17:46:17 +0000"
@@ -421,9 +427,10 @@
   },
   "corail_recycler:recipes/netherite_disk": {
     "criteria": {
-      "requirement_2": "2024-12-23 17:35:57 +0000"
+      "requirement_2": "2024-12-23 17:35:57 +0000",
+      "requirement_1": "2024-12-24 03:51:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
@@ -867,6 +874,12 @@
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-23 18:05:40 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_nugget": {
+    "criteria": {
+      "requirement": "2024-12-24 03:51:09 +0000"
     },
     "done": true
   },
@@ -3933,6 +3946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-24 03:49:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:20:10 +0000"
@@ -4540,6 +4559,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2024-12-24 03:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-24 00:14:13 +0000"
@@ -4765,6 +4790,12 @@
   "inventorypets:loot": {
     "criteria": {
       "crafting_table": "2024-12-23 17:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-24 03:49:54 +0000"
     },
     "done": true
   },
@@ -5743,6 +5774,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-23 18:05:43 +0000",
       "apple": "2024-12-23 18:50:58 +0000",
+      "spider_eye": "2024-12-24 03:43:39 +0000",
       "potato": "2024-12-23 18:12:12 +0000",
       "bread": "2024-12-23 20:04:20 +0000",
       "golden_apple": "2024-12-23 22:46:27 +0000",
