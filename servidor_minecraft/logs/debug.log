@@ -10696,3 +10696,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 23:35:46.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-120, y=79, z=-885} BlockPos{x=-120, y=79, z=-886}
 [24Dec2024 23:36:29.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [The Brass Age]
 [24Dec2024 23:36:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[24Dec2024 23:37:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[24Dec2024 23:37:11.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[24Dec2024 23:37:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[24Dec2024 23:37:20.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[24Dec2024 23:37:57.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[24Dec2024 23:38:01.989] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Dec2024 23:38:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has completed the challenge [Free Willy]
+[24Dec2024 23:38:21.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-522, y=51, z=-866} BlockPos{x=-522, y=53, z=-867}
+[24Dec2024 23:38:21.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-522, y=51, z=-866} BlockPos{x=-522, y=53, z=-867}
+[24Dec2024 23:38:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[24Dec2024 23:38:35.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:38:35.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:38:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has completed the challenge [Free Willy]
+[24Dec2024 23:39:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[24Dec2024 23:39:31.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Medina'/14572, l='ServerLevel[world]', x=-306.08, y=65.00, z=-1081.02] died, message: 'Medina suffocated in a wall'
+[24Dec2024 23:39:31.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Medina'/14572, l='ServerLevel[world]', x=-306.08, y=65.00, z=-1081.02] died: Medina suffocated in a wall
+[24Dec2024 23:39:31.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[24Dec2024 23:40:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 23:40:38.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[24Dec2024 23:41:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 23:42:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[24Dec2024 23:43:35.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:43:35.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:43:56.027] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[24Dec2024 23:44:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 87 entities]
+[24Dec2024 23:44:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 37 entities]
+[24Dec2024 23:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
