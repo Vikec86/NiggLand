@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-25 21:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-24 23:38:00 +0000"

@@ -1150,3 +1150,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 21:46:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [25Dec2024 21:46:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 61 entities]
 [25Dec2024 21:47:56.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[25Dec2024 21:49:34.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[25Dec2024 21:50:40.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 182 entities]
+[25Dec2024 21:50:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 37 entities]
+[25Dec2024 21:51:11.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:51:35.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=71, z=-1157} BlockPos{x=-177, y=72, z=-1157}
+[25Dec2024 21:51:35.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=71, z=-1157} BlockPos{x=-177, y=72, z=-1157}
+[25Dec2024 21:51:35.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=71, z=-1157} BlockPos{x=-177, y=72, z=-1157}
+[25Dec2024 21:51:35.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=71, z=-1157} BlockPos{x=-177, y=72, z=-1157}
+[25Dec2024 21:51:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 21:55:11.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 9.453012155194102,3.7109669865212283,4.539223751711802
+[25Dec2024 21:55:19.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:55:35.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 21:55:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 21:55:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Make a Tunnel to Nowhere]
+[25Dec2024 21:56:30.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 0.581601960077677,3.4510619764402435,-10.067162929766482
+[25Dec2024 21:56:46.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-129, y=59, z=-1191} BlockPos{x=-127, y=59, z=-1193}
+[25Dec2024 21:56:46.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-129, y=59, z=-1191} BlockPos{x=-127, y=59, z=-1193}
+[25Dec2024 21:56:55.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=60, z=-1194} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=60, z=-1194} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=60, z=-1194} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=59, z=-1193} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=60, z=-1193} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=59, z=-1193} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=59, z=-1193} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=59, z=-1193} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=59, z=-1193} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=60, z=-1192} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=60, z=-1192} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=59, z=-1192} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=59, z=-1192} BlockPos{x=-149, y=60, z=-1196}
+[25Dec2024 21:56:55.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=60, z=-1192} BlockPos{x=-149, y=60, z=-1196}
