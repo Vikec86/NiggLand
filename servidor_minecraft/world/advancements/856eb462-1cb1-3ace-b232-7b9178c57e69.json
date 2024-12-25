@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/thorn_rose_to_red": {
+    "criteria": {
+      "has_item": "2024-12-25 22:51:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diving_board": {
     "criteria": {
       "has_wheat": "2024-12-23 23:30:43 +0000"
@@ -1413,6 +1419,14 @@
       "has_alu_sticks": "2024-12-24 00:15:36 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "thorn_leaves": "2024-12-25 22:51:18 +0000",
+      "fallen_leaves": "2024-12-25 22:51:22 +0000",
+      "thorn_rose": "2024-12-25 22:51:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
