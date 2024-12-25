@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-25 19:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:47:59 +0000"
@@ -6176,6 +6182,12 @@
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 17:25:50 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_paxel": {
+    "criteria": {
+      "gobber2_paxel": "2024-12-25 19:01:06 +0000"
     },
     "done": true
   },
