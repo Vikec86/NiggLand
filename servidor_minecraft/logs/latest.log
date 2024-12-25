@@ -1075,3 +1075,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 19:10:20.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [25Dec2024 19:11:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [25Dec2024 19:11:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Call Me Zeus]
+[25Dec2024 19:12:48.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[25Dec2024 19:14:05.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 19:14:37.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
+[25Dec2024 19:14:37.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 75 experience levels to VIK_N_DA_HOOD]
+[25Dec2024 19:15:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 19:15:26.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 19:15:27.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 2.0520590932896283,3.7113396197392348,15.441246100660123
+[25Dec2024 19:16:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Wither You Will]
+[25Dec2024 19:17:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 18 entities]
+[25Dec2024 19:17:51.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 5.8144078917145805,3.711195152760027,14.198307918566684
+[25Dec2024 19:18:04.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [We Need to Go Deeper]
+[25Dec2024 19:19:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [A Terrible Fortress]
+[25Dec2024 19:20:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[25Dec2024 19:20:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 19:20:41.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 19:20:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 53 entities]
+[25Dec2024 19:20:54.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD lost connection: Disconnected
+[25Dec2024 19:20:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD left the game
+[25Dec2024 19:22:15.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved wrongly!
+[25Dec2024 19:24:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 19:24:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 19:25:12.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Gobber Goes Nether]
+[25Dec2024 19:25:39.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 19:26:08.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 3.3195840918859574,3.7113396050062875,14.763350289366372
+[25Dec2024 19:27:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [A Stronger Material]
+[25Dec2024 19:28:28.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Spectator Mode]
+[25Dec2024 19:28:42.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[25Dec2024 19:29:52.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

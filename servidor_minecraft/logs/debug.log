@@ -10421,3 +10421,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 19:10:20.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [25Dec2024 19:11:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [25Dec2024 19:11:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Call Me Zeus]
+[25Dec2024 19:12:20.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:12:21.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:12:48.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[25Dec2024 19:14:05.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 19:14:37.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
+[25Dec2024 19:14:37.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 75 experience levels to VIK_N_DA_HOOD]
+[25Dec2024 19:15:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 19:15:26.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 19:15:27.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 2.0520590932896283,3.7113396197392348,15.441246100660123
+[25Dec2024 19:16:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Wither You Will]
+[25Dec2024 19:17:20.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:17:20.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:17:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 18 entities]
+[25Dec2024 19:17:51.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 5.8144078917145805,3.711195152760027,14.198307918566684
+[25Dec2024 19:18:04.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [We Need to Go Deeper]
+[25Dec2024 19:18:06.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[25Dec2024 19:18:17.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[25Dec2024 19:19:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [A Terrible Fortress]
+[25Dec2024 19:20:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[25Dec2024 19:20:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 19:20:41.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:20:41.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:20:41.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 19:20:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 53 entities]
+[25Dec2024 19:20:54.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD lost connection: Disconnected
+[25Dec2024 19:20:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD left the game
+[25Dec2024 19:22:15.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved wrongly!
+[25Dec2024 19:22:20.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:22:20.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:22:58.038] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[25Dec2024 19:22:58.117] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[25Dec2024 19:23:45.258] [Server thread/DEBUG] [com.infamous.dungeons_libraries.DungeonsLibraries/]: CrossbowItem#performShooting was canceled by Dungeons Libraries and replaced with its CrossbowGear#fireCrossbowProjectiles
+[25Dec2024 19:23:48.162] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[25Dec2024 19:23:48.977] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[25Dec2024 19:23:51.630] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_2
+[25Dec2024 19:24:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 19:24:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 19:24:41.565] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 19:25:12.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Gobber Goes Nether]
+[25Dec2024 19:25:39.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 19:26:08.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 3.3195840918859574,3.7113396050062875,14.763350289366372
+[25Dec2024 19:27:20.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:27:20.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 19:27:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [A Stronger Material]
+[25Dec2024 19:28:28.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Spectator Mode]
+[25Dec2024 19:28:42.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[25Dec2024 19:29:52.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

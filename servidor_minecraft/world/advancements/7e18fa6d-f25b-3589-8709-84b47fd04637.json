@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-25 19:11:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
@@ -5554,6 +5560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-25 19:11:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2024-12-24 23:13:55 +0000"
@@ -5647,6 +5659,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-25 19:11:20 +0000"
     },
     "done": true
   },
@@ -6718,6 +6736,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-24 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-25 19:11:20 +0000"
     },
     "done": true
   },
