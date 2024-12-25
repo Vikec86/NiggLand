@@ -932,3 +932,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 01:01:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran left the game
 [25Dec2024 01:01:37.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
 [25Dec2024 01:02:01.682] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[25Dec2024 01:02:12.211] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/network/ServerRecyclerMessage$RecyclerAction
+[25Dec2024 01:02:12.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/compatibility/SupportMods
+[25Dec2024 01:03:08.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[25Dec2024 01:03:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 01:04:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:04:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 10 entities]
+[25Dec2024 01:04:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 01:04:29.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Gunpowder]
+[25Dec2024 01:05:52.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[25Dec2024 01:06:08.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[25Dec2024 01:06:08.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[25Dec2024 01:06:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 01:07:05.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[25Dec2024 01:07:12.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set Sanguchito666's game mode to Survival Mode]
+[25Dec2024 01:07:14.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Take Aim]
+[25Dec2024 01:07:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set Sanguchito666's game mode to Creative Mode]
+[25Dec2024 01:07:37.138] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@520da5b3
+[25Dec2024 01:07:37.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naeceran[/127.239.23.117:36827] logged in with entity id 6187 at (-119.80386992448075, 68.0, -1146.0389314743823)
+[25Dec2024 01:07:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran joined the game
+[25Dec2024 01:07:37.313] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 01:07:37.314] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 01:07:37.315] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 01:07:37.315] [Server thread/INFO] [Jade/]: Syncing config to Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69)
+[25Dec2024 01:08:04.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[25Dec2024 01:08:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> ponme creativo vike
+[25Dec2024 01:08:05.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 01:08:20.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set Naeceran's game mode to Creative Mode]
+[25Dec2024 01:08:48.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[25Dec2024 01:08:48.670] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[25Dec2024 01:08:57.610] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[25Dec2024 01:08:59.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[25Dec2024 01:08:59.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[25Dec2024 01:09:30.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[25Dec2024 01:09:57.680] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70fde94b
+[25Dec2024 01:09:57.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RamPau[/127.46.155.162:34971] logged in with entity id 6601 at (-112.5, 70.0, -1181.5)
+[25Dec2024 01:09:57.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau joined the game
+[25Dec2024 01:09:57.801] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 01:09:57.802] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 01:09:57.802] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 01:09:57.804] [Server thread/INFO] [Jade/]: Syncing config to RamPau (b9c29ba4-2308-37be-8e61-42164072f167)
+[25Dec2024 01:09:58.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Recycler]

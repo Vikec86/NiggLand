@@ -4088,6 +4088,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-25 01:07:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-23 18:39:00 +0000"
@@ -4685,6 +4691,12 @@
   "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-24 16:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-25 01:06:58 +0000"
     },
     "done": true
   },
