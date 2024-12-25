@@ -1423,6 +1423,9 @@
   "twilightforest:arborist": {
     "criteria": {
       "thorn_leaves": "2024-12-25 22:51:18 +0000",
+      "time_leaves": "2024-12-25 23:18:42 +0000",
+      "rainbow_oak_sapling": "2024-12-25 23:18:36 +0000",
+      "root_strand": "2024-12-25 23:18:23 +0000",
       "fallen_leaves": "2024-12-25 22:51:22 +0000",
       "thorn_rose": "2024-12-25 22:51:14 +0000"
     },
@@ -2471,6 +2474,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-24 00:07:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/root_stick": {
+    "criteria": {
+      "has_item": "2024-12-25 23:18:23 +0000"
     },
     "done": true
   },
