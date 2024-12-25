@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "b9c29ba4-2308-37be-8e61-42164072f167",
+    "name": "RamPau",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "4e29b00a-cef2-312d-bc90-cff920255808",
     "name": "Dayab0m",
     "level": 4,

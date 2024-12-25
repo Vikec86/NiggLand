@@ -14368,3 +14368,154 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 01:22:27.149] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
 [25Dec2024 01:22:27.150] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
 [25Dec2024 01:22:30.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 3.8728030603616617,0.0,-9.951084472111233
+[25Dec2024 01:22:34.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12rnre2v1lxzf]: started parsing
+[25Dec2024 01:22:34.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12rnre2v1lxzf]: Consuming argument ``
+[25Dec2024 01:22:34.729] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lrin2f298n0c]: started parsing
+[25Dec2024 01:22:34.729] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lrin2f298n0c]: Consuming argument `g`
+[25Dec2024 01:22:34.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6ms6h0oryzl]: started parsing
+[25Dec2024 01:22:34.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6ms6h0oryzl]: Consuming argument `gr`
+[25Dec2024 01:22:34.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ozcmmevrucny]: started parsing
+[25Dec2024 01:22:34.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ozcmmevrucny]: Consuming argument `gra`
+[25Dec2024 01:22:35.030] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldm9q1vlqgs7]: started parsing
+[25Dec2024 01:22:35.034] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldm9q1vlqgs7]: Consuming argument `gras`
+[25Dec2024 01:22:35.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bv3es10tm7hu]: started parsing
+[25Dec2024 01:22:35.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bv3es10tm7hu]: Consuming argument `grass_block`
+[25Dec2024 01:22:35.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bv3es10tm7hu]: Finished looking at arguments. Finalizing command.
+[25Dec2024 01:22:45.352] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:22:45.354] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:22:45.367] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:22:45.368] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:22:45.388] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-348 | 70 | -1961)
+[25Dec2024 01:22:45.388] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-348 | 70 | -1961)
+[25Dec2024 01:22:45.405] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-348 | 70 | -1961)
+[25Dec2024 01:22:45.406] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-348 | 70 | -1961)
+[25Dec2024 01:22:54.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 28 entities]
+[25Dec2024 01:22:56.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:22:59.226] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-483 | 65 | -2356)
+[25Dec2024 01:22:59.227] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-483 | 65 | -2356)
+[25Dec2024 01:22:59.234] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-481 | 65 | -2361)
+[25Dec2024 01:22:59.234] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-481 | 65 | -2361)
+[25Dec2024 01:22:59.234] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-487 | 65 | -2378)
+[25Dec2024 01:22:59.235] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-487 | 65 | -2378)
+[25Dec2024 01:22:59.238] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-483 | 65 | -2356)
+[25Dec2024 01:22:59.238] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-483 | 65 | -2356)
+[25Dec2024 01:22:59.334] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-487 | 65 | -2378)
+[25Dec2024 01:22:59.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-487 | 65 | -2378)
+[25Dec2024 01:23:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:23:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[25Dec2024 01:23:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 01:23:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to RamPau]
+[25Dec2024 01:23:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Made RamPau a server operator]
+[25Dec2024 01:23:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:23:31.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[25Dec2024 01:23:31.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:23:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[25Dec2024 01:24:04.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Sneak 100]
+[25Dec2024 01:24:18.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:24:18.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:25:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 01:25:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Set own game mode to Spectator Mode]
+[25Dec2024 01:25:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 01:25:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Sneak 100]
+[25Dec2024 01:25:45.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 01:25:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 01:26:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:26:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:26:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 01:26:28.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[25Dec2024 01:26:32.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:26:42.370] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:26:42.370] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:26:42.375] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:26:42.375] [Worker-Main-31/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-312 | 70 | -1952)
+[25Dec2024 01:26:51.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 01:27:06.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02xzmjumyd6rv]: started parsing
+[25Dec2024 01:27:06.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02xzmjumyd6rv]: Consuming argument ``
+[25Dec2024 01:27:07.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ndrp8mt6w09o]: started parsing
+[25Dec2024 01:27:07.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ndrp8mt6w09o]: Consuming argument `d`
+[25Dec2024 01:27:07.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05rgix0us5w29]: started parsing
+[25Dec2024 01:27:07.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05rgix0us5w29]: Consuming argument `di`
+[25Dec2024 01:27:07.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2973acszd3s]: started parsing
+[25Dec2024 01:27:07.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2973acszd3s]: Consuming argument `din`
+[25Dec2024 01:27:08.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06ymqafx1nxd1]: started parsing
+[25Dec2024 01:27:08.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06ymqafx1nxd1]: Consuming argument `di`
+[25Dec2024 01:27:08.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132amvajpmmcg]: started parsing
+[25Dec2024 01:27:08.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132amvajpmmcg]: Consuming argument `d`
+[25Dec2024 01:27:08.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l9mjrfcvpccn]: started parsing
+[25Dec2024 01:27:08.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l9mjrfcvpccn]: Consuming argument ``
+[25Dec2024 01:27:08.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160q2lwbqij2a]: started parsing
+[25Dec2024 01:27:08.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160q2lwbqij2a]: Consuming argument `t`
+[25Dec2024 01:27:09.169] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbhs0x716729]: started parsing
+[25Dec2024 01:27:09.169] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbhs0x716729]: Consuming argument `tn`
+[25Dec2024 01:27:09.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Applied effect Invisibility to RamPau]
+[25Dec2024 01:27:10.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12cy4zudsrpxw]: started parsing
+[25Dec2024 01:27:10.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12cy4zudsrpxw]: Consuming argument `tnt`
+[25Dec2024 01:27:10.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12cy4zudsrpxw]: Finished looking at arguments. Finalizing command.
+[25Dec2024 01:27:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Set own game mode to Creative Mode]
+[25Dec2024 01:27:20.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[25Dec2024 01:27:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Stone Age]
+[25Dec2024 01:27:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[25Dec2024 01:27:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:28:11.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dbzh396mfig6]: started parsing
+[25Dec2024 01:28:11.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dbzh396mfig6]: Consuming argument ``
+[25Dec2024 01:28:11.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ajtz7l8thrhv]: started parsing
+[25Dec2024 01:28:11.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ajtz7l8thrhv]: Consuming argument `t`
+[25Dec2024 01:28:11.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03vh08ut8qvj1]: started parsing
+[25Dec2024 01:28:11.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03vh08ut8qvj1]: Consuming argument `tn`
+[25Dec2024 01:28:13.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uy7bn999txkf]: started parsing
+[25Dec2024 01:28:13.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uy7bn999txkf]: Consuming argument `tnt`
+[25Dec2024 01:28:13.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uy7bn999txkf]: Finished looking at arguments. Finalizing command.
+[25Dec2024 01:28:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Is is Not Ironical?]
+[25Dec2024 01:28:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Pet Beginner]
+[25Dec2024 01:28:18.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[25Dec2024 01:29:11.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported 4 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:29:14.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbkqcyrj9naz]: started parsing
+[25Dec2024 01:29:14.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbkqcyrj9naz]: Consuming argument ``
+[25Dec2024 01:29:14.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b13o7vdto8yd]: started parsing
+[25Dec2024 01:29:14.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b13o7vdto8yd]: Consuming argument `t`
+[25Dec2024 01:29:15.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgthmoz3bhxw]: started parsing
+[25Dec2024 01:29:15.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgthmoz3bhxw]: Consuming argument `tn`
+[25Dec2024 01:29:15.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7z4s7ps985v]: started parsing
+[25Dec2024 01:29:15.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7z4s7ps985v]: Consuming argument `tnt`
+[25Dec2024 01:29:15.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7z4s7ps985v]: Finished looking at arguments. Finalizing command.
+[25Dec2024 01:29:16.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1shw8cb2c56du]: started parsing
+[25Dec2024 01:29:16.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1shw8cb2c56du]: Consuming argument `tnt`
+[25Dec2024 01:29:16.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1shw8cb2c56du]: Finished looking at arguments. Finalizing command.
+[25Dec2024 01:29:23.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:29:23.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:29:25.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Dec2024 01:29:29.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 1133 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:29:29.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dimitrije'/125, l='ServerLevel[world]', x=-298.50, y=67.00, z=-1005.50] died, message: 'Dimitrije blew up'
+[25Dec2024 01:29:29.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dimitrije'/125, l='ServerLevel[world]', x=-298.50, y=67.00, z=-1005.50] died: Dimitrije blew up
+[25Dec2024 01:29:29.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Murat'/197, l='ServerLevel[world]', x=-237.52, y=-44.41, z=-2148.41] died, message: 'Murat blew up'
+[25Dec2024 01:29:29.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Murat'/197, l='ServerLevel[world]', x=-237.52, y=-44.41, z=-2148.41] died: Murat blew up
+[25Dec2024 01:29:29.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[25Dec2024 01:29:30.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Winifred'/8745, l='ServerLevel[world]', x=-237.55, y=-44.41, z=-2148.43] died, message: 'Winifred blew up'
+[25Dec2024 01:29:30.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! -0.3853282551291102,12.609355813564619,0.8341627310014701
+[25Dec2024 01:29:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> no se me peto
+[25Dec2024 01:29:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 569 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Wither]
+[25Dec2024 01:30:11.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 145 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:15.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 131 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 106 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:18.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 125 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:18.164] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Dec2024 01:30:51.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Wither]
+[25Dec2024 01:30:54.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Witch]
+[25Dec2024 01:30:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Wither]
+[25Dec2024 01:31:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Nuclear Explosive] to VIK_N_DA_HOOD]
+[25Dec2024 01:32:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Applied effect Invisibility to RamPau]
+[25Dec2024 01:32:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[25Dec2024 01:32:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[25Dec2024 01:32:27.014] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[25Dec2024 01:32:31.455] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[25Dec2024 01:32:31.458] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[25Dec2024 01:32:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[25Dec2024 01:32:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 01:32:36.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:32:36.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:32:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 01:32:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 01:32:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 01:32:39.560] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 01:32:42.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType

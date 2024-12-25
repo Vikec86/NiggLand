@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-25 01:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-24 23:38:00 +0000"
@@ -631,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2024-12-25 01:18:30 +0000"
@@ -760,6 +772,12 @@
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-23 18:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
     },
     "done": true
   },
@@ -1736,6 +1754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-12-24 23:35:06 +0000"
@@ -2079,6 +2103,12 @@
   "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
       "has_medium_backpack": "2024-12-23 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
     },
     "done": true
   },
@@ -2972,6 +3002,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-25 01:27:38 +0000"
     },
     "done": true
   },
@@ -4334,6 +4370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-25 01:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 21:17:52 +0000"
@@ -4937,6 +4979,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-25 01:24:04 +0000"
     },
     "done": true
   },
@@ -5992,6 +6040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-25 01:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-23 18:29:14 +0000"
@@ -6007,6 +6061,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-23 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-25 01:29:54 +0000"
     },
     "done": true
   },
@@ -6106,9 +6166,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-25 01:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-23 19:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
     },
     "done": true
   },
@@ -6268,6 +6340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 17:44:43 +0000"
@@ -6402,6 +6480,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-23 18:25:48 +0000",
       "minecraft:warm_ocean": "2024-12-24 17:36:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 22:44:19 +0000",
+      "minecraft:deep_dark": "2024-12-25 01:23:10 +0000",
       "minecraft:meadow": "2024-12-23 18:15:12 +0000",
       "minecraft:savanna": "2024-12-24 22:39:43 +0000",
       "minecraft:plains": "2024-12-23 18:18:08 +0000"
@@ -6465,6 +6544,12 @@
   "cfm:recipes/cfm/acacia_desk": {
     "criteria": {
       "has_log": "2024-12-24 22:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-25 01:29:54 +0000"
     },
     "done": true
   },
@@ -7297,6 +7382,12 @@
   "biomesoplenty:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2024-12-23 17:02:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-25 01:29:54 +0000"
     },
     "done": true
   },
@@ -8709,6 +8800,12 @@
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 01:27:38 +0000"
     },
     "done": true
   },

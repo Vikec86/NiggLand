@@ -992,3 +992,69 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 01:22:27.149] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
 [25Dec2024 01:22:27.150] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
 [25Dec2024 01:22:30.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 3.8728030603616617,0.0,-9.951084472111233
+[25Dec2024 01:22:54.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 28 entities]
+[25Dec2024 01:22:56.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:23:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:23:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[25Dec2024 01:23:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 01:23:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to RamPau]
+[25Dec2024 01:23:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Made RamPau a server operator]
+[25Dec2024 01:23:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:23:31.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[25Dec2024 01:23:31.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:23:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[25Dec2024 01:24:04.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Sneak 100]
+[25Dec2024 01:25:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 01:25:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Set own game mode to Spectator Mode]
+[25Dec2024 01:25:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 01:25:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Sneak 100]
+[25Dec2024 01:25:45.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 01:25:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 01:26:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:26:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:26:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 01:26:28.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[25Dec2024 01:26:32.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:26:51.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 01:27:09.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Applied effect Invisibility to RamPau]
+[25Dec2024 01:27:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Set own game mode to Creative Mode]
+[25Dec2024 01:27:20.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[25Dec2024 01:27:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Stone Age]
+[25Dec2024 01:27:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[25Dec2024 01:27:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:28:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Is is Not Ironical?]
+[25Dec2024 01:28:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Pet Beginner]
+[25Dec2024 01:28:18.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[25Dec2024 01:29:11.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported 4 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:29:25.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Dec2024 01:29:29.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 1133 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:29:29.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dimitrije'/125, l='ServerLevel[world]', x=-298.50, y=67.00, z=-1005.50] died, message: 'Dimitrije blew up'
+[25Dec2024 01:29:29.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dimitrije'/125, l='ServerLevel[world]', x=-298.50, y=67.00, z=-1005.50] died: Dimitrije blew up
+[25Dec2024 01:29:29.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Murat'/197, l='ServerLevel[world]', x=-237.52, y=-44.41, z=-2148.41] died, message: 'Murat blew up'
+[25Dec2024 01:29:29.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Murat'/197, l='ServerLevel[world]', x=-237.52, y=-44.41, z=-2148.41] died: Murat blew up
+[25Dec2024 01:29:29.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[25Dec2024 01:29:30.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Winifred'/8745, l='ServerLevel[world]', x=-237.55, y=-44.41, z=-2148.43] died, message: 'Winifred blew up'
+[25Dec2024 01:29:30.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! -0.3853282551291102,12.609355813564619,0.8341627310014701
+[25Dec2024 01:29:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> no se me peto
+[25Dec2024 01:29:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 569 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Wither]
+[25Dec2024 01:30:11.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 145 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:15.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 131 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 106 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:18.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 125 entities to VIK_N_DA_HOOD]
+[25Dec2024 01:30:18.164] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Dec2024 01:30:51.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Wither]
+[25Dec2024 01:30:54.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Witch]
+[25Dec2024 01:30:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Wither]
+[25Dec2024 01:31:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Gave 1 [Nuclear Explosive] to VIK_N_DA_HOOD]
+[25Dec2024 01:32:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Applied effect Invisibility to RamPau]
+[25Dec2024 01:32:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[25Dec2024 01:32:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[25Dec2024 01:32:31.455] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[25Dec2024 01:32:31.458] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[25Dec2024 01:32:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[25Dec2024 01:32:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 01:32:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 01:32:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 01:32:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 01:32:42.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType

@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-25 01:29:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-23 18:23:20 +0000"
@@ -1768,6 +1774,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "towerwood": "2024-12-25 01:30:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-23 18:47:28 +0000"
@@ -2802,6 +2814,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-25 01:32:00 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-23 17:48:09 +0000"
@@ -3003,6 +3021,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-23 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2024-12-25 01:30:17 +0000"
     },
     "done": true
   },
@@ -3363,6 +3387,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-23 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-25 01:25:36 +0000"
     },
     "done": true
   },
@@ -3790,6 +3820,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2024-12-25 01:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-23 19:56:34 +0000"
@@ -4168,6 +4204,12 @@
     },
     "done": true
   },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2024-12-25 01:28:15 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/netherite_tower_shield_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-23 23:12:42 +0000"
@@ -4243,6 +4285,12 @@
   "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-23 17:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-25 01:30:15 +0000"
     },
     "done": true
   },
@@ -4342,6 +4390,12 @@
     },
     "done": true
   },
+  "inventorypets:irongolem": {
+    "criteria": {
+      "crafting_table": "2024-12-25 01:28:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-23 17:47:59 +0000"
@@ -4437,6 +4491,7 @@
       "minecraft:frozen_ocean": "2024-12-23 17:17:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-23 17:30:11 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 22:44:19 +0000",
+      "minecraft:deep_dark": "2024-12-25 01:22:04 +0000",
       "minecraft:meadow": "2024-12-23 18:14:38 +0000",
       "minecraft:plains": "2024-12-23 18:18:35 +0000"
     },
@@ -5144,6 +5199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-25 01:32:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_blinds": {
     "criteria": {
       "has_log": "2024-12-23 17:29:43 +0000"
@@ -5256,6 +5317,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-23 17:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-25 01:29:54 +0000"
     },
     "done": true
   },
@@ -5792,6 +5859,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-23 17:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-25 01:29:54 +0000"
     },
     "done": true
   },
