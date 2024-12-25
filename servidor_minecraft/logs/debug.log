@@ -10851,3 +10851,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 21:56:55.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=60, z=-1192} BlockPos{x=-149, y=60, z=-1196}
 [25Dec2024 21:59:14.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 21:59:14.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:00:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:00:37.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 525 entities]
+[25Dec2024 22:01:27.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-164, y=50, z=-1202} BlockPos{x=-163, y=51, z=-1202}
+[25Dec2024 22:01:27.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=51, z=-1204} BlockPos{x=-163, y=52, z=-1203}
+[25Dec2024 22:01:27.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=51, z=-1204} BlockPos{x=-163, y=52, z=-1203}
+[25Dec2024 22:01:27.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=52, z=-1205} BlockPos{x=-163, y=52, z=-1203}
+[25Dec2024 22:01:28.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=52, z=-1205} BlockPos{x=-163, y=52, z=-1203}
+[25Dec2024 22:01:28.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=52, z=-1205} BlockPos{x=-163, y=52, z=-1203}
+[25Dec2024 22:01:40.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=56, z=-1208} BlockPos{x=-163, y=57, z=-1210}
+[25Dec2024 22:01:53.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=55, z=-1207} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:01:53.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=55, z=-1207} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:01:53.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=55, z=-1206} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:01:53.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=55, z=-1206} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:01:53.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=55, z=-1205} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:01:53.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=55, z=-1205} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:01:53.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=56, z=-1204} BlockPos{x=-163, y=57, z=-1208}
+[25Dec2024 22:02:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 136 entities]
+[25Dec2024 22:02:24.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 22:02:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 22:03:32.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=-28, z=-940} BlockPos{x=-62, y=-28, z=-942}
+[25Dec2024 22:04:14.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:04:14.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:04:27.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-61, y=-25, z=-944} BlockPos{x=-60, y=-24, z=-944}
+[25Dec2024 22:04:28.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=-25, z=-944} BlockPos{x=-63, y=-24, z=-944}
+[25Dec2024 22:04:28.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=-24, z=-944} BlockPos{x=-65, y=-23, z=-944}
+[25Dec2024 22:04:29.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=-25, z=-944} BlockPos{x=-67, y=-23, z=-944}
+[25Dec2024 22:04:29.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=-24, z=-944} BlockPos{x=-67, y=-23, z=-944}
+[25Dec2024 22:04:29.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=-24, z=-944} BlockPos{x=-67, y=-23, z=-944}
+[25Dec2024 22:04:48.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:05:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[25Dec2024 22:05:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[25Dec2024 22:05:34.304] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[25Dec2024 22:07:06.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 22:07:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 22:07:29.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 22:07:30.943] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 22:08:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 96 entities]
+[25Dec2024 22:09:03.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=47, z=-1203} BlockPos{x=-124, y=50, z=-1202}
+[25Dec2024 22:09:03.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=47, z=-1201} BlockPos{x=-124, y=50, z=-1202}
+[25Dec2024 22:09:03.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=47, z=-1201} BlockPos{x=-124, y=50, z=-1202}
+[25Dec2024 22:09:03.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-123, y=47, z=-1201} BlockPos{x=-124, y=50, z=-1202}
+[25Dec2024 22:09:04.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=46, z=-1202} BlockPos{x=-123, y=46, z=-1200}
+[25Dec2024 22:09:04.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=50, z=-1200} BlockPos{x=-123, y=46, z=-1199}
+[25Dec2024 22:09:14.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:09:14.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:09:44.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
