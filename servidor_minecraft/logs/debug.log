@@ -10897,3 +10897,126 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 22:09:14.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 22:09:14.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 22:09:44.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 22:09:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:13:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 22:14:14.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:14:14.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:14:16.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t5nyp4y6v21]: started parsing
+[25Dec2024 22:14:16.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t5nyp4y6v21]: Consuming argument ``
+[25Dec2024 22:14:16.625] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17o5f53l5nhgs]: started parsing
+[25Dec2024 22:14:16.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17o5f53l5nhgs]: Consuming argument `m`
+[25Dec2024 22:14:16.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2ztog9o94b0]: started parsing
+[25Dec2024 22:14:16.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2ztog9o94b0]: Consuming argument `mi`
+[25Dec2024 22:14:18.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6fd562uemx9]: started parsing
+[25Dec2024 22:14:18.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6fd562uemx9]: Consuming argument `minecraft:d`
+[25Dec2024 22:14:18.289] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [140pilkwt1qan]: started parsing
+[25Dec2024 22:14:18.290] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [140pilkwt1qan]: Consuming argument `minecraft:de`
+[25Dec2024 22:14:18.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ph6chxle1nq]: started parsing
+[25Dec2024 22:14:18.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ph6chxle1nq]: Consuming argument `minecraft:dee`
+[25Dec2024 22:14:18.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sq0fqhvievs3]: started parsing
+[25Dec2024 22:14:18.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sq0fqhvievs3]: Consuming argument `minecraft:deep`
+[25Dec2024 22:14:21.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0akvxueoujopv]: started parsing
+[25Dec2024 22:14:21.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0akvxueoujopv]: Consuming argument `minecraft:dee`
+[25Dec2024 22:14:21.290] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rg1u6kw7x9lz]: started parsing
+[25Dec2024 22:14:21.290] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rg1u6kw7x9lz]: Consuming argument `minecraft:de`
+[25Dec2024 22:14:21.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19c2aabhly81s]: started parsing
+[25Dec2024 22:14:21.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19c2aabhly81s]: Consuming argument `minecraft:d`
+[25Dec2024 22:14:23.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19mf3pdlo4360]: started parsing
+[25Dec2024 22:14:23.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19mf3pdlo4360]: Consuming argument `minecraft:de`
+[25Dec2024 22:14:23.387] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dw2uqkx17umw]: started parsing
+[25Dec2024 22:14:23.387] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dw2uqkx17umw]: Consuming argument `minecraft:dee`
+[25Dec2024 22:14:25.289] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sr4dei2ghc8e]: started parsing
+[25Dec2024 22:14:25.289] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sr4dei2ghc8e]: Consuming argument `minecraft:deepslate_`
+[25Dec2024 22:14:25.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18nm3d5j3mr4l]: started parsing
+[25Dec2024 22:14:25.656] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18nm3d5j3mr4l]: Consuming argument `minecraft:deepslate_t`
+[25Dec2024 22:14:25.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhq62cz2l7ko]: started parsing
+[25Dec2024 22:14:25.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhq62cz2l7ko]: Consuming argument `minecraft:deepslate_ti`
+[25Dec2024 22:14:27.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bayribey7z3w]: started parsing
+[25Dec2024 22:14:27.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bayribey7z3w]: Consuming argument `minecraft:deepslate_tiles`
+[25Dec2024 22:14:27.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bayribey7z3w]: Finished looking at arguments. Finalizing command.
+[25Dec2024 22:14:38.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 388 entities]
+[25Dec2024 22:14:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:15:09.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0w96rfiwppu]: started parsing
+[25Dec2024 22:15:09.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0w96rfiwppu]: Consuming argument ``
+[25Dec2024 22:15:10.293] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11z9jcxdwrnrd]: started parsing
+[25Dec2024 22:15:10.293] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11z9jcxdwrnrd]: Consuming argument `d`
+[25Dec2024 22:15:10.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bjyx682911q]: started parsing
+[25Dec2024 22:15:10.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bjyx682911q]: Consuming argument `de`
+[25Dec2024 22:15:10.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjeoq4c11pux]: started parsing
+[25Dec2024 22:15:10.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjeoq4c11pux]: Consuming argument `dee`
+[25Dec2024 22:15:10.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [188c7pfnsy7ls]: started parsing
+[25Dec2024 22:15:10.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [188c7pfnsy7ls]: Consuming argument `deep`
+[25Dec2024 22:15:14.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07mk1wnb5d2jz]: started parsing
+[25Dec2024 22:15:14.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07mk1wnb5d2jz]: Consuming argument `deepslate_`
+[25Dec2024 22:15:14.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13c6v065zgik1]: started parsing
+[25Dec2024 22:15:14.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13c6v065zgik1]: Consuming argument `deepslate_t`
+[25Dec2024 22:15:14.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05hatxz0ccu8l]: started parsing
+[25Dec2024 22:15:14.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05hatxz0ccu8l]: Consuming argument `deepslate_ti`
+[25Dec2024 22:15:15.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [033xbl2u9vyck]: started parsing
+[25Dec2024 22:15:15.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [033xbl2u9vyck]: Consuming argument `deepslate_tiles`
+[25Dec2024 22:15:15.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [033xbl2u9vyck]: Finished looking at arguments. Finalizing command.
+[25Dec2024 22:15:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 302 entities]
+[25Dec2024 22:15:47.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12dy5idil7xk3]: started parsing
+[25Dec2024 22:15:47.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12dy5idil7xk3]: Consuming argument ``
+[25Dec2024 22:15:47.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l90zishmqyho]: started parsing
+[25Dec2024 22:15:47.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l90zishmqyho]: Consuming argument `d`
+[25Dec2024 22:15:48.139] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rzjjht9usi7]: started parsing
+[25Dec2024 22:15:48.139] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04rzjjht9usi7]: Consuming argument `de`
+[25Dec2024 22:15:48.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ays4izeeo4ui]: started parsing
+[25Dec2024 22:15:48.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ays4izeeo4ui]: Consuming argument `dep`
+[25Dec2024 22:15:48.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmudmretopw0]: started parsing
+[25Dec2024 22:15:48.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmudmretopw0]: Consuming argument `depp`
+[25Dec2024 22:15:50.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01ubuwpepy247]: started parsing
+[25Dec2024 22:15:50.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01ubuwpepy247]: Consuming argument `dep`
+[25Dec2024 22:15:50.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l120hzsnznoh]: started parsing
+[25Dec2024 22:15:50.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l120hzsnznoh]: Consuming argument `de`
+[25Dec2024 22:15:51.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x883ojg64lg4]: started parsing
+[25Dec2024 22:15:51.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x883ojg64lg4]: Consuming argument `dee`
+[25Dec2024 22:15:52.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l4xpo9htu1lc]: started parsing
+[25Dec2024 22:15:52.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l4xpo9htu1lc]: Consuming argument `deepslate_`
+[25Dec2024 22:15:52.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [136lfpktbb7xh]: started parsing
+[25Dec2024 22:15:52.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [136lfpktbb7xh]: Consuming argument `deepslate_t`
+[25Dec2024 22:15:53.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ijrzuvm1zrpo]: started parsing
+[25Dec2024 22:15:53.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ijrzuvm1zrpo]: Consuming argument `deepslate_ti`
+[25Dec2024 22:15:54.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9a18xuxlxyj]: started parsing
+[25Dec2024 22:15:54.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9a18xuxlxyj]: Consuming argument `deepslate_tiles`
+[25Dec2024 22:15:54.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9a18xuxlxyj]: Finished looking at arguments. Finalizing command.
+[25Dec2024 22:15:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 405 entities]
+[25Dec2024 22:16:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 22:16:44.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 22:16:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 159 entities]
+[25Dec2024 22:17:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 22:17:14.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 22:17:16.198] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 22:18:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 589 entities]
+[25Dec2024 22:18:37.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c8cxj87iaya5]: started parsing
+[25Dec2024 22:18:37.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c8cxj87iaya5]: Consuming argument ``
+[25Dec2024 22:18:38.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x88vamrce5dj]: started parsing
+[25Dec2024 22:18:38.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x88vamrce5dj]: Consuming argument `e`
+[25Dec2024 22:18:38.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013le7xfl4u59]: started parsing
+[25Dec2024 22:18:38.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [013le7xfl4u59]: Consuming argument `ed`
+[25Dec2024 22:18:38.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vi4wwv14vzws]: started parsing
+[25Dec2024 22:18:38.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vi4wwv14vzws]: Consuming argument `e`
+[25Dec2024 22:18:38.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05nnhowalgmn8]: started parsing
+[25Dec2024 22:18:38.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05nnhowalgmn8]: Consuming argument ``
+[25Dec2024 22:18:38.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw8cmxi7f0u7]: started parsing
+[25Dec2024 22:18:38.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw8cmxi7f0u7]: Consuming argument `d`
+[25Dec2024 22:18:39.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1md8r51009v39]: started parsing
+[25Dec2024 22:18:39.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1md8r51009v39]: Consuming argument `de`
+[25Dec2024 22:18:39.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x71awz89tpmc]: started parsing
+[25Dec2024 22:18:39.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x71awz89tpmc]: Consuming argument `dee`
+[25Dec2024 22:18:40.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgy659dfu6u1]: started parsing
+[25Dec2024 22:18:40.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jgy659dfu6u1]: Consuming argument `deepslate_`
+[25Dec2024 22:18:41.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1upprnp0c5hkb]: started parsing
+[25Dec2024 22:18:41.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1upprnp0c5hkb]: Consuming argument `deepslate_t`
+[25Dec2024 22:18:41.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18a1hmzfx54u8]: started parsing
+[25Dec2024 22:18:41.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18a1hmzfx54u8]: Consuming argument `deepslate_ti`
+[25Dec2024 22:18:41.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xzhivwev51ek]: started parsing
+[25Dec2024 22:18:41.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xzhivwev51ek]: Consuming argument `deepslate_til`
+[25Dec2024 22:18:42.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2esbiorhzo7]: started parsing
+[25Dec2024 22:18:42.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2esbiorhzo7]: Consuming argument `deepslate_tiles`
+[25Dec2024 22:18:42.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j2esbiorhzo7]: Finished looking at arguments. Finalizing command.
+[25Dec2024 22:18:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 215 entities]
+[25Dec2024 22:18:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:19:14.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:19:14.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1221,3 +1221,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 22:09:04.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=46, z=-1202} BlockPos{x=-123, y=46, z=-1200}
 [25Dec2024 22:09:04.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=50, z=-1200} BlockPos{x=-123, y=46, z=-1199}
 [25Dec2024 22:09:44.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 22:09:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:13:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 22:14:38.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 388 entities]
+[25Dec2024 22:14:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:15:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 302 entities]
+[25Dec2024 22:15:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 405 entities]
+[25Dec2024 22:16:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 22:16:44.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 22:16:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 159 entities]
+[25Dec2024 22:17:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 22:17:14.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[25Dec2024 22:18:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 589 entities]
+[25Dec2024 22:18:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 215 entities]
+[25Dec2024 22:18:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
