@@ -15146,3 +15146,35 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [25Dec2024 01:50:33.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 01:50:33.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 01:51:13.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported RamPau to Sanguchito666]
+[25Dec2024 01:53:44.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Summoned new Anaconda]
+[25Dec2024 01:53:44.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[25Dec2024 01:53:49.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Summoned new Anaconda]
+[25Dec2024 01:54:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau fell out of the world
+[25Dec2024 01:54:29.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 01:54:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Killed 306 entities]
+[25Dec2024 01:54:31.338] [Server thread/DEBUG] [twilightforest/]: Player RamPau (b9c29ba4-2308-37be-8e61-42164072f167) respawned and received items held in storage
+[25Dec2024 01:54:31.561] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 01:54:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Summoned new Ender Dragon]
+[25Dec2024 01:54:45.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:55:33.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:55:33.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:56:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has reached the goal [Sky's the Limit]
+[25Dec2024 01:57:22.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[25Dec2024 01:59:05.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported RamPau to Sanguchito666]
+[25Dec2024 01:59:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau fell out of the world
+[25Dec2024 01:59:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported RamPau to Sanguchito666]
+[25Dec2024 01:59:18.238] [Server thread/DEBUG] [twilightforest/]: Player RamPau (b9c29ba4-2308-37be-8e61-42164072f167) respawned and received items held in storage
+[25Dec2024 01:59:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported RamPau to Sanguchito666]
+[25Dec2024 01:59:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Summoned new Ender Dragon]
+[25Dec2024 02:00:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 02:00:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau fell out of the world
+[25Dec2024 02:00:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Killed 452 entities]
+[25Dec2024 02:00:12.980] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 02:00:13.224] [Server thread/DEBUG] [twilightforest/]: Player RamPau (b9c29ba4-2308-37be-8e61-42164072f167) respawned and received items held in storage
+[25Dec2024 02:00:33.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:00:33.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:02:13.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RamPau lost connection: Disconnected
+[25Dec2024 02:02:13.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau left the game
+[25Dec2024 02:02:17.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Disconnected
+[25Dec2024 02:02:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
+[25Dec2024 02:02:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

@@ -117,6 +117,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-25 01:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-25 01:27:25 +0000"
@@ -377,9 +383,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-25 01:58:04 +0000",
       "shrubland": "2024-12-25 01:50:26 +0000",
       "coniferous_forest": "2024-12-25 01:49:13 +0000",
-      "fir_clearing": "2024-12-25 01:50:18 +0000"
+      "spider_nest": "2024-12-25 02:00:48 +0000",
+      "seasonal_orchard": "2024-12-25 02:01:06 +0000",
+      "seasonal_forest": "2024-12-25 01:58:16 +0000",
+      "fir_clearing": "2024-12-25 01:50:18 +0000",
+      "grassland": "2024-12-25 01:50:44 +0000",
+      "snowy_coniferous_forest": "2024-12-25 01:58:15 +0000",
+      "glowing_grotto": "2024-12-25 01:51:36 +0000"
     },
     "done": false
   },
@@ -1004,8 +1017,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-25 01:46:56 +0000",
+      "minecraft:frozen_river": "2024-12-25 01:57:37 +0000",
       "minecraft:river": "2024-12-25 01:49:40 +0000",
+      "minecraft:snowy_plains": "2024-12-25 01:57:33 +0000",
       "minecraft:dripstone_caves": "2024-12-25 01:46:31 +0000",
+      "minecraft:snowy_taiga": "2024-12-25 01:57:41 +0000",
       "minecraft:forest": "2024-12-25 01:46:10 +0000",
       "minecraft:deep_dark": "2024-12-25 01:19:58 +0000",
       "minecraft:plains": "2024-12-25 01:09:58 +0000"
@@ -1219,6 +1235,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-25 01:38:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/firework": {
+    "criteria": {
+      "has_firework": "2024-12-25 01:56:14 +0000"
     },
     "done": true
   },

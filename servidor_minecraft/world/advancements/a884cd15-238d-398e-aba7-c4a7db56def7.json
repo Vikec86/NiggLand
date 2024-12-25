@@ -3518,6 +3518,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-25 01:57:15 +0000",
       "shrubland": "2024-12-25 01:49:37 +0000",
       "highland": "2024-12-23 18:16:19 +0000",
       "maple_woods": "2024-12-23 22:37:41 +0000",
@@ -3530,6 +3531,7 @@
       "fir_clearing": "2024-12-25 01:49:32 +0000",
       "pumpkin_patch": "2024-12-23 19:31:17 +0000",
       "grassland": "2024-12-23 17:00:42 +0000",
+      "snowy_coniferous_forest": "2024-12-25 01:57:17 +0000",
       "glowing_grotto": "2024-12-23 17:01:12 +0000"
     },
     "done": false
