@@ -15178,3 +15178,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [25Dec2024 02:02:17.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Disconnected
 [25Dec2024 02:02:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
 [25Dec2024 02:02:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 02:05:33.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:05:33.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:10:33.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:10:33.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
