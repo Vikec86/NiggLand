@@ -973,3 +973,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 01:09:57.802] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [25Dec2024 01:09:57.804] [Server thread/INFO] [Jade/]: Syncing config to RamPau (b9c29ba4-2308-37be-8e61-42164072f167)
 [25Dec2024 01:09:58.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Recycler]
+[25Dec2024 01:12:38.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 01:12:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Teleported Naeceran to Sanguchito666]
+[25Dec2024 01:14:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 01:19:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 01:19:45.247] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[25Dec2024 01:19:53.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7446ms or 148 ticks behind
+[25Dec2024 01:19:53.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! -3.5497853383701,0.0,-9.360615934781663
+[25Dec2024 01:19:56.341] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[25Dec2024 01:19:58.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> www
+[25Dec2024 01:20:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> rwww
+[25Dec2024 01:20:38.787] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[25Dec2024 01:21:22.760] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[25Dec2024 01:21:22.761] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[25Dec2024 01:21:27.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[25Dec2024 01:21:57.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 01:22:03.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:22:27.149] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-58, z=24}
+[25Dec2024 01:22:27.150] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=-58, z=25}
+[25Dec2024 01:22:30.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 3.8728030603616617,0.0,-9.951084472111233

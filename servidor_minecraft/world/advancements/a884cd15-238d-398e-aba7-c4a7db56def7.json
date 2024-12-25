@@ -2976,6 +2976,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/firework": {
+    "criteria": {
+      "has_firework": "2024-12-25 01:11:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 17:29:43 +0000"
