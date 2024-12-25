@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-25 21:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-23 18:18:37 +0000"
@@ -1374,6 +1380,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-25 21:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-23 17:42:52 +0000"
@@ -1851,6 +1863,12 @@
   "infernalexp:recipes/food/cooked_hogchop_smelting": {
     "criteria": {
       "has_hogchop": "2024-12-23 17:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-25 21:38:10 +0000"
     },
     "done": true
   },
@@ -4593,6 +4611,12 @@
     },
     "done": true
   },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2024-12-25 21:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-23 17:29:44 +0000"
@@ -4746,6 +4770,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2024-12-23 18:26:40 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor_nether": {
+    "criteria": {
+      "gobber2_chestplate_nether": "2024-12-25 21:33:39 +0000"
     },
     "done": true
   },

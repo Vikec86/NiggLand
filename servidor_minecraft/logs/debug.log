@@ -10738,3 +10738,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 21:28:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
 [25Dec2024 21:28:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Andesite]
 [25Dec2024 21:29:07.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:29:14.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:29:14.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:29:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has completed the challenge [It Spreads]
+[25Dec2024 21:30:32.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e1u1bc09t1g9]: started parsing
+[25Dec2024 21:30:32.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e1u1bc09t1g9]: Consuming argument ``
+[25Dec2024 21:30:33.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1irebe8itu5vi]: started parsing
+[25Dec2024 21:30:33.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1irebe8itu5vi]: Consuming argument `g`
+[25Dec2024 21:30:33.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3wa299tmxwh]: started parsing
+[25Dec2024 21:30:33.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3wa299tmxwh]: Consuming argument `gr`
+[25Dec2024 21:30:33.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0412oubi7aq42]: started parsing
+[25Dec2024 21:30:33.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0412oubi7aq42]: Consuming argument `gra`
+[25Dec2024 21:30:33.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2ivr57a3zkq]: started parsing
+[25Dec2024 21:30:33.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2ivr57a3zkq]: Consuming argument `gras`
+[25Dec2024 21:30:34.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6rp6em1uaoc]: started parsing
+[25Dec2024 21:30:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6rp6em1uaoc]: Consuming argument `grass_block`
+[25Dec2024 21:30:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6rp6em1uaoc]: Finished looking at arguments. Finalizing command.
+[25Dec2024 21:30:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:30:54.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:30:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:30:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[25Dec2024 21:31:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:31:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:31:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:31:42.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:31:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:31:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 21:32:11.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:32:13.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 34 entities]
+[25Dec2024 21:32:39.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! -5.5294914370643085,-3.7113403479653897,-13.568926029016666
+[25Dec2024 21:33:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Weather the Worst the Nether can Muster]
+[25Dec2024 21:34:14.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:34:14.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:35:35.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 16 entities]
+[25Dec2024 21:35:44.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[25Dec2024 21:36:01.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:36:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:36:18.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/849, l='ServerLevel[world]', x=108.18, y=-36.00, z=-1207.11, removed=DISCARDED]
+[25Dec2024 21:36:18.269] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/850, l='ServerLevel[world]', x=106.14, y=-37.69, z=-1212.27, removed=DISCARDED]
+[25Dec2024 21:36:19.021] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/849, l='ServerLevel[world]', x=108.18, y=-36.00, z=-1207.11, removed=DISCARDED]
+[25Dec2024 21:36:19.070] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/850, l='ServerLevel[world]', x=106.14, y=-37.69, z=-1212.27, removed=DISCARDED]
+[25Dec2024 21:36:33.584] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/849, l='ServerLevel[world]', x=108.18, y=-36.00, z=-1207.11, removed=DISCARDED]
+[25Dec2024 21:36:33.585] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/850, l='ServerLevel[world]', x=106.14, y=-37.69, z=-1212.27, removed=DISCARDED]
+[25Dec2024 21:36:38.281] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/849, l='ServerLevel[world]', x=108.18, y=-36.00, z=-1207.11, removed=DISCARDED]
+[25Dec2024 21:36:38.282] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/850, l='ServerLevel[world]', x=106.14, y=-37.69, z=-1212.27, removed=DISCARDED]
+[25Dec2024 21:36:43.433] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/849, l='ServerLevel[world]', x=108.18, y=-36.00, z=-1207.11, removed=DISCARDED]
+[25Dec2024 21:36:43.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/850, l='ServerLevel[world]', x=106.14, y=-37.69, z=-1212.27, removed=DISCARDED]
+[25Dec2024 21:36:53.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[25Dec2024 21:37:09.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:37:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:37:22.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:37:26.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [We're Watching]
+[25Dec2024 21:38:19.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [We're Watching]
+[25Dec2024 21:39:14.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:39:14.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
