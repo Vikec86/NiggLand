@@ -10429,3 +10429,63 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 21:06:12.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
 [25Dec2024 21:06:16.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 21 entities]
 [25Dec2024 21:08:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:09:14.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:09:14.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:10:34.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:11:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 21:11:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:13:03.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:13:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:14:14.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:14:14.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:14:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:14:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:14:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:14:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 14 entities]
+[25Dec2024 21:15:03.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:15:07.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:15:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:16:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:16:13.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:16:19.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:16:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:16:27.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:16:28.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:16:41.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:16:44.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jz9a8zso3965]: started parsing
+[25Dec2024 21:16:44.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jz9a8zso3965]: Consuming argument ``
+[25Dec2024 21:16:44.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bizj2b2fkgvu]: started parsing
+[25Dec2024 21:16:44.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bizj2b2fkgvu]: Consuming argument `0`
+[25Dec2024 21:16:44.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bizj2b2fkgvu]: Finished looking at arguments. Finalizing command.
+[25Dec2024 21:16:45.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wpgl14qh3fc2]: started parsing
+[25Dec2024 21:16:45.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wpgl14qh3fc2]: Consuming argument `0`
+[25Dec2024 21:16:45.393] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wpgl14qh3fc2]: Finished looking at arguments. Finalizing command.
+[25Dec2024 21:16:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:17:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:17:12.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:17:18.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=107, z=-931} BlockPos{x=-48, y=106, z=-931}
+[25Dec2024 21:17:19.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=105, z=-931} BlockPos{x=-48, y=103, z=-931}
+[25Dec2024 21:17:20.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=102, z=-931} BlockPos{x=-48, y=101, z=-931}
+[25Dec2024 21:17:20.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=102, z=-931} BlockPos{x=-48, y=100, z=-931}
+[25Dec2024 21:17:20.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=102, z=-931} BlockPos{x=-48, y=99, z=-931}
+[25Dec2024 21:17:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:17:59.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:18:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:18:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:18:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:18:38.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pcp1dmxwmcx3]: started parsing
+[25Dec2024 21:18:38.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pcp1dmxwmcx3]: Consuming argument ``
+[25Dec2024 21:18:39.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qlxr8gh29gvb]: started parsing
+[25Dec2024 21:18:39.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qlxr8gh29gvb]: Consuming argument `0`
+[25Dec2024 21:18:39.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qlxr8gh29gvb]: Finished looking at arguments. Finalizing command.
+[25Dec2024 21:18:39.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kgbxk5pr0kvh]: started parsing
+[25Dec2024 21:18:39.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kgbxk5pr0kvh]: Consuming argument `0`
+[25Dec2024 21:18:39.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kgbxk5pr0kvh]: Finished looking at arguments. Finalizing command.
+[25Dec2024 21:18:52.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j7xtygguwd4m]: started parsing
+[25Dec2024 21:18:52.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j7xtygguwd4m]: Consuming argument ``
+[25Dec2024 21:18:52.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atgt71c3z1c3]: started parsing
+[25Dec2024 21:18:52.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atgt71c3z1c3]: Consuming argument `0`
+[25Dec2024 21:18:52.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atgt71c3z1c3]: Finished looking at arguments. Finalizing command.
+[25Dec2024 21:18:52.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0owizmrsrazz5]: started parsing
+[25Dec2024 21:18:52.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0owizmrsrazz5]: Consuming argument `0`
+[25Dec2024 21:18:52.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0owizmrsrazz5]: Finished looking at arguments. Finalizing command.
