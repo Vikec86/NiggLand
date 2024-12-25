@@ -4334,6 +4334,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-25 00:43:31 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-23 20:01:46 +0000"
@@ -7525,6 +7531,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 17:55:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-25 00:42:07 +0000"
     },
     "done": true
   },

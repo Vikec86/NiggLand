@@ -1594,6 +1594,12 @@
     },
     "done": true
   },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2024-12-25 00:42:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-24 00:00:23 +0000"

@@ -10816,3 +10816,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 00:34:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [25Dec2024 00:35:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
 [25Dec2024 00:35:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[25Dec2024 00:38:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 28 entities]
+[25Dec2024 00:38:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[25Dec2024 00:38:35.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:38:35.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:38:35.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 00:39:17.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[25Dec2024 00:42:01.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran has made the advancement [Pumpkinhead!]
+[25Dec2024 00:42:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 12 entities]
+[25Dec2024 00:43:35.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:43:35.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:43:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 00:44:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 00:44:30.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[25Dec2024 00:47:24.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
