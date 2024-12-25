@@ -1071,3 +1071,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 21:18:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [25Dec2024 21:18:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
 [25Dec2024 21:18:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:19:47.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:19:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:20:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:21:46.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 21:21:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[25Dec2024 21:22:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[25Dec2024 21:23:48.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:24:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:24:22.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:25:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 21:25:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:26:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:26:07.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:27:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:27:17.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:27:21.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 21:27:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 21:27:24.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 21:27:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 21 entities]
+[25Dec2024 21:28:21.680] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65d9b182
+[25Dec2024 21:28:21.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:37127] logged in with entity id 16290 at (52.69999998807907, -48.0, -1205.300000011921)
+[25Dec2024 21:28:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[25Dec2024 21:28:21.907] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 21:28:21.911] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 21:28:21.911] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 21:28:21.912] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[25Dec2024 21:28:22.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/849, l='ServerLevel[world]', x=108.18, y=-36.00, z=-1207.11, removed=DISCARDED]
+[25Dec2024 21:28:22.097] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/850, l='ServerLevel[world]', x=106.14, y=-37.69, z=-1212.27, removed=DISCARDED]
+[25Dec2024 21:28:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[25Dec2024 21:28:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Andesite]
+[25Dec2024 21:29:07.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
