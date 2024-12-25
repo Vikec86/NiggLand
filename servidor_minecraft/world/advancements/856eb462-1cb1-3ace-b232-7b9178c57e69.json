@@ -1840,6 +1840,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:26:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 23:56:11 +0000"
@@ -2840,6 +2846,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2024-12-25 22:21:20 +0000",
       "coniferous_forest": "2024-12-24 00:52:34 +0000",
       "spider_nest": "2024-12-23 23:26:42 +0000",
       "seasonal_orchard": "2024-12-23 23:26:24 +0000",
@@ -2865,6 +2872,12 @@
   "cfm:recipes/cfm/warped_desk": {
     "criteria": {
       "has_log": "2024-12-25 01:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:26:30 +0000"
     },
     "done": true
   },
@@ -2949,6 +2962,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-24 00:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-25 22:26:30 +0000"
     },
     "done": true
   },

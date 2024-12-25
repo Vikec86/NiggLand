@@ -1235,3 +1235,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 22:18:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 589 entities]
 [25Dec2024 22:18:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 215 entities]
 [25Dec2024 22:18:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:20:54.656] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2520a7d3
+[25Dec2024 22:20:54.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naeceran[/127.239.23.117:52549] logged in with entity id 57145 at (-282.42604602037864, -51.0, -2152.0302943152137)
+[25Dec2024 22:20:54.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran joined the game
+[25Dec2024 22:20:54.761] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 22:20:54.762] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 22:20:54.763] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 22:20:54.763] [Server thread/INFO] [Jade/]: Syncing config to Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69)
+[25Dec2024 22:21:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Teleported Naeceran to VIK_N_DA_HOOD]
+[25Dec2024 22:21:29.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Naeceran to Sanguchito666]
+[25Dec2024 22:21:39.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set Naeceran's game mode to Survival Mode]
+[25Dec2024 22:22:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 22:22:14.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[25Dec2024 22:22:14.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> Como pongo creativo
+[25Dec2024 22:22:42.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 22:22:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> ./gamemode creative naecera
+[25Dec2024 22:22:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 22:22:54.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Set own game mode to Creative Mode]
+[25Dec2024 22:23:58.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 22:24:47.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=58, z=-1211} BlockPos{x=-161, y=58, z=-1209}
+[25Dec2024 22:24:47.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=58, z=-1211} BlockPos{x=-161, y=58, z=-1209}
+[25Dec2024 22:24:47.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=58, z=-1213} BlockPos{x=-161, y=58, z=-1209}
+[25Dec2024 22:24:56.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=59, z=-1204} BlockPos{x=-161, y=58, z=-1207}
+[25Dec2024 22:24:56.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=59, z=-1204} BlockPos{x=-161, y=58, z=-1207}
+[25Dec2024 22:25:01.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Set own game mode to Survival Mode]
+[25Dec2024 22:25:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 888 entities]
+[25Dec2024 22:25:28.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=58, z=-1203} BlockPos{x=-154, y=58, z=-1202}
+[25Dec2024 22:25:28.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=57, z=-1203} BlockPos{x=-154, y=58, z=-1202}
+[25Dec2024 22:25:28.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=57, z=-1203} BlockPos{x=-154, y=58, z=-1202}
+[25Dec2024 22:25:28.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=57, z=-1203} BlockPos{x=-154, y=58, z=-1202}
+[25Dec2024 22:25:28.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=57, z=-1203} BlockPos{x=-154, y=58, z=-1202}
+[25Dec2024 22:25:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Set own game mode to Creative Mode]
+[25Dec2024 22:26:03.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 395 entities]
+[25Dec2024 22:26:34.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[25Dec2024 22:26:54.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=60, z=-1211} BlockPos{x=-161, y=60, z=-1209}
+[25Dec2024 22:26:54.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=60, z=-1211} BlockPos{x=-161, y=60, z=-1209}
+[25Dec2024 22:26:54.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=60, z=-1211} BlockPos{x=-161, y=60, z=-1209}
+[25Dec2024 22:26:54.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=60, z=-1213} BlockPos{x=-161, y=60, z=-1209}
+[25Dec2024 22:26:54.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-160, y=60, z=-1213} BlockPos{x=-161, y=60, z=-1209}
+[25Dec2024 22:27:22.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=60, z=-1197} BlockPos{x=-154, y=60, z=-1199}
+[25Dec2024 22:27:22.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=60, z=-1197} BlockPos{x=-154, y=60, z=-1199}
+[25Dec2024 22:27:22.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=60, z=-1197} BlockPos{x=-154, y=60, z=-1199}
+[25Dec2024 22:27:22.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=60, z=-1196} BlockPos{x=-154, y=60, z=-1199}
+[25Dec2024 22:27:28.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=60, z=-1199} BlockPos{x=-150, y=60, z=-1199}
+[25Dec2024 22:27:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 432 entities]
+[25Dec2024 22:27:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 40 entities]
+[25Dec2024 22:27:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 42 entities]
+[25Dec2024 22:28:24.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 36 entities]
+[25Dec2024 22:29:00.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
