@@ -4202,6 +4202,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/waterlily_to_magenta": {
+    "criteria": {
+      "has_item": "2024-12-25 23:01:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"

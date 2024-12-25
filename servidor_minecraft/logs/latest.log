@@ -1349,3 +1349,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 23:00:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> W
 [25Dec2024 23:00:36.845] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
 [25Dec2024 23:00:47.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> nigga
+[25Dec2024 23:00:56.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:01:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:01:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Naeceran]
+[25Dec2024 23:02:09.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:03:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 32 entities]
+[25Dec2024 23:03:22.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:03:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 23:07:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:08:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 46 entities]
