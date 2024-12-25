@@ -11925,3 +11925,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 23:19:44.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v7sw9l18g96b]: Consuming argument `glass_pane`
 [25Dec2024 23:19:44.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v7sw9l18g96b]: Finished looking at arguments. Finalizing command.
 [25Dec2024 23:19:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 20 entities]
+[25Dec2024 23:21:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[25Dec2024 23:21:38.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[25Dec2024 23:22:11.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:22:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[25Dec2024 23:23:48.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vn4fkkhjgfvd]: started parsing
+[25Dec2024 23:23:48.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vn4fkkhjgfvd]: Consuming argument ``
+[25Dec2024 23:23:48.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smlkes0uqs6e]: started parsing
+[25Dec2024 23:23:48.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smlkes0uqs6e]: Consuming argument `g`
+[25Dec2024 23:23:49.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n684rl3oajmx]: started parsing
+[25Dec2024 23:23:49.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n684rl3oajmx]: Consuming argument `gl`
+[25Dec2024 23:23:49.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fotvywkor6nr]: started parsing
+[25Dec2024 23:23:49.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fotvywkor6nr]: Consuming argument `gla`
+[25Dec2024 23:23:49.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [122ee0tom8mto]: started parsing
+[25Dec2024 23:23:49.570] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [122ee0tom8mto]: Consuming argument `glas`
+[25Dec2024 23:23:50.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02vy1rpy4etbu]: started parsing
+[25Dec2024 23:23:50.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02vy1rpy4etbu]: Consuming argument `glass_pane`
+[25Dec2024 23:23:50.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02vy1rpy4etbu]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:24:16.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:24:16.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:25:53.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bfdb850cbkn2]: started parsing
+[25Dec2024 23:25:53.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bfdb850cbkn2]: Consuming argument ``
+[25Dec2024 23:25:53.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ntxmst6f9lm1]: started parsing
+[25Dec2024 23:25:53.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ntxmst6f9lm1]: Consuming argument `g`
+[25Dec2024 23:25:53.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qrdlwe3t1r8]: started parsing
+[25Dec2024 23:25:53.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qrdlwe3t1r8]: Consuming argument `gl`
+[25Dec2024 23:25:54.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rdprhxx4resi]: started parsing
+[25Dec2024 23:25:54.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rdprhxx4resi]: Consuming argument `gla`
+[25Dec2024 23:25:54.189] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cbpapl824h1]: started parsing
+[25Dec2024 23:25:54.189] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cbpapl824h1]: Consuming argument `glas`
+[25Dec2024 23:25:55.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hbq6saauztgn]: started parsing
+[25Dec2024 23:25:55.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hbq6saauztgn]: Consuming argument `glass_pane`
+[25Dec2024 23:25:55.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hbq6saauztgn]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:26:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:26:25.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:27:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:27:27.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Naeceran]
+[25Dec2024 23:28:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> q tal
+[25Dec2024 23:28:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> nigga es servidor es en survival
+[25Dec2024 23:28:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> pero ya lo hiciste
+[25Dec2024 23:28:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> XDDDDD
+[25Dec2024 23:29:16.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:29:16.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:29:31.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:29:31.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:29:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 23:29:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 40 entities]
