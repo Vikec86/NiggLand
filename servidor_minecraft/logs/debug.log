@@ -9906,3 +9906,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 17:48:52.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
 [25Dec2024 17:48:52.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
 [25Dec2024 17:49:27.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[25Dec2024 17:50:38.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[25Dec2024 17:50:38.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8sfm1adfg8t]: started parsing
+[25Dec2024 17:50:38.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8sfm1adfg8t]: Consuming argument ``
+[25Dec2024 17:50:38.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfe91umee6yw]: started parsing
+[25Dec2024 17:50:38.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfe91umee6yw]: Consuming argument `g`
+[25Dec2024 17:50:38.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0on54ox8rzgok]: started parsing
+[25Dec2024 17:50:38.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0on54ox8rzgok]: Consuming argument `gr`
+[25Dec2024 17:50:38.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [052m3e0to62ge]: started parsing
+[25Dec2024 17:50:38.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [052m3e0to62ge]: Consuming argument `gra`
+[25Dec2024 17:50:38.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a6fgbkzoaj6k]: started parsing
+[25Dec2024 17:50:38.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a6fgbkzoaj6k]: Consuming argument `gras`
+[25Dec2024 17:50:39.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08vhz3oud7j7l]: started parsing
+[25Dec2024 17:50:39.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08vhz3oud7j7l]: Consuming argument `grass_block`
+[25Dec2024 17:50:39.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08vhz3oud7j7l]: Finished looking at arguments. Finalizing command.
+[25Dec2024 17:50:39.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[25Dec2024 17:50:39.564] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[25Dec2024 17:50:39.599] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/NiggLand/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23241!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[25Dec2024 17:51:07.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 17:51:29.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 17:51:39.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[25Dec2024 17:52:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 17:52:20.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 17:52:20.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 17:55:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 17:56:24.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 17:57:20.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 17:57:20.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 17:58:09.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bh4m17m23diy]: started parsing
+[25Dec2024 17:58:09.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bh4m17m23diy]: Consuming argument ``
+[25Dec2024 17:58:09.331] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uhc0xz7xk0y]: started parsing
+[25Dec2024 17:58:09.331] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uhc0xz7xk0y]: Consuming argument `g`
+[25Dec2024 17:58:09.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tlc58g2gx4a1]: started parsing
+[25Dec2024 17:58:09.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tlc58g2gx4a1]: Consuming argument `gr`
+[25Dec2024 17:58:09.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s307n844jwgq]: started parsing
+[25Dec2024 17:58:09.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s307n844jwgq]: Consuming argument `gra`
+[25Dec2024 17:58:09.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m86prapzlrho]: started parsing
+[25Dec2024 17:58:09.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m86prapzlrho]: Consuming argument `gras`
+[25Dec2024 17:58:10.381] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f1wod16h4zhl]: started parsing
+[25Dec2024 17:58:10.381] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f1wod16h4zhl]: Consuming argument `grass_block`
+[25Dec2024 17:58:10.388] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f1wod16h4zhl]: Finished looking at arguments. Finalizing command.
+[25Dec2024 17:58:20.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rnjfyee3a8v]: started parsing
+[25Dec2024 17:58:20.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rnjfyee3a8v]: Consuming argument ``
+[25Dec2024 17:58:20.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ehjregv68c8o]: started parsing
+[25Dec2024 17:58:20.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ehjregv68c8o]: Consuming argument `g`
+[25Dec2024 17:58:20.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fu9fsepwso6v]: started parsing
+[25Dec2024 17:58:20.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fu9fsepwso6v]: Consuming argument `gr`
+[25Dec2024 17:58:21.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kia59h2wsvo4]: started parsing
+[25Dec2024 17:58:21.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kia59h2wsvo4]: Consuming argument `gra`
+[25Dec2024 17:58:21.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cu90vlssq4i9]: started parsing
+[25Dec2024 17:58:21.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cu90vlssq4i9]: Consuming argument `gras`
+[25Dec2024 17:58:22.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07vgcg569j1be]: started parsing
+[25Dec2024 17:58:22.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07vgcg569j1be]: Consuming argument `grass_block`
+[25Dec2024 17:58:22.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07vgcg569j1be]: Finished looking at arguments. Finalizing command.
+[25Dec2024 18:00:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
