@@ -960,3 +960,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 18:25:37.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [25Dec2024 18:26:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [25Dec2024 18:30:39.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 18:35:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 18:35:22.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 18:35:37.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 18:35:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 18:37:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 9 entities]
+[25Dec2024 18:39:43.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b6e65db
+[25Dec2024 18:39:43.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:36135] logged in with entity id 10905 at (-54.326485262046056, 138.37429331309653, -939.0390337865467)
+[25Dec2024 18:39:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[25Dec2024 18:39:43.465] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 18:39:43.466] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 18:39:43.467] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 18:39:43.468] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[25Dec2024 18:40:39.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 18:41:01.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
