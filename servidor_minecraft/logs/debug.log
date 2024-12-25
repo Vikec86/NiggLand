@@ -15077,3 +15077,72 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 01:42:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Creative Mode]
 [25Dec2024 01:42:54.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [25Dec2024 01:42:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 256 entities to RamPau]
+[25Dec2024 01:43:09.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:43:22.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[25Dec2024 01:43:24.756] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[25Dec2024 01:43:24.757] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[25Dec2024 01:43:24.772] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@2c26ba07
+[25Dec2024 01:43:24.773] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@4783da3f
+[25Dec2024 01:43:24.795] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[25Dec2024 01:43:24.796] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[25Dec2024 01:43:24.801] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1628) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:476) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:436) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:551) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:507) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:528) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1950) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:527) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1622) ~[server-1.19.2-20220805.130853-srg.jar%23243!/:?]
+	... 33 more
+[25Dec2024 01:43:29.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/28212, l='ServerLevel[world]', x=-193.44, y=-44.11, z=-2199.55] died: Faller was blown up by Creeper
+[25Dec2024 01:43:30.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/28219, l='ServerLevel[world]', x=-194.42, y=-49.60, z=-2203.57] died: Intruder was blown up by Intruder
+[25Dec2024 01:43:47.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was doomed to fall by Crawler
+[25Dec2024 01:43:48.348] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[25Dec2024 01:43:59.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Creative Mode]
+[25Dec2024 01:44:46.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported RamPau to Sanguchito666]
+[25Dec2024 01:45:33.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:45:33.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:46:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:47:14.703] [Server thread/DEBUG] [mixin/]: Mixing common.SittingPhaseMixin from cgm.mixins.json into net.minecraft.world.entity.boss.enderdragon.phases.AbstractDragonSittingPhase
+[25Dec2024 01:47:14.704] [Server thread/DEBUG] [mixin/]: cgm.mixins.json:common.SittingPhaseMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[25Dec2024 01:47:14.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Summoned new Ender Dragon]
+[25Dec2024 01:48:04.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has reached the goal [Industrial Revolutions]
+[25Dec2024 01:48:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Let Your Paxel Light the World]
+[25Dec2024 01:49:32.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[25Dec2024 01:49:40.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[25Dec2024 01:49:43.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[25Dec2024 01:49:52.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[25Dec2024 01:49:52.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[25Dec2024 01:50:33.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:50:33.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:51:13.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported RamPau to Sanguchito666]
