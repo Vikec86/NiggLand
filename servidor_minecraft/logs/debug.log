@@ -10723,3 +10723,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Dec2024 23:44:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 87 entities]
 [24Dec2024 23:44:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 37 entities]
 [24Dec2024 23:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 23:48:35.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:48:35.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:51:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[24Dec2024 23:51:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[24Dec2024 23:51:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[24Dec2024 23:53:35.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:53:35.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:53:40.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[24Dec2024 23:54:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[24Dec2024 23:56:18.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[24Dec2024 23:58:35.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:58:35.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 23:59:34.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[24Dec2024 23:59:34.035] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[24Dec2024 23:59:34.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/decoration/slidingDoor/DoorControl
+[24Dec2024 23:59:34.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[25Dec2024 00:00:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 00:01:23.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 00:03:35.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:03:35.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:05:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 00:06:24.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 24 entities]
+[25Dec2024 00:06:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[25Dec2024 00:07:15.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[25Dec2024 00:07:15.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[25Dec2024 00:07:21.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[25Dec2024 00:07:21.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q483yo9xw1fg]: started parsing
+[25Dec2024 00:07:21.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q483yo9xw1fg]: Consuming argument ``
+[25Dec2024 00:07:21.584] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lizxfiwm4av0]: started parsing
+[25Dec2024 00:07:21.584] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lizxfiwm4av0]: Consuming argument `0`
+[25Dec2024 00:07:21.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lizxfiwm4av0]: Finished looking at arguments. Finalizing command.
+[25Dec2024 00:07:21.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105ysrtps02h4]: started parsing
+[25Dec2024 00:07:21.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105ysrtps02h4]: Consuming argument `0`
+[25Dec2024 00:07:21.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105ysrtps02h4]: Finished looking at arguments. Finalizing command.
+[25Dec2024 00:07:21.884] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[25Dec2024 00:07:21.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
