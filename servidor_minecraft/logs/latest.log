@@ -1007,3 +1007,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 20:45:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
 [25Dec2024 20:46:16.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [25Dec2024 20:46:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 20:49:02.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 20:49:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 20:50:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD didn't want to live in the same world as Skeleton
+[25Dec2024 20:50:15.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[25Dec2024 20:50:25.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[25Dec2024 20:51:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 20:51:34.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[25Dec2024 20:51:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 15 entities]
+[25Dec2024 20:52:57.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Bow]
+[25Dec2024 20:53:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Banana Slug Slime]
+[25Dec2024 20:55:13.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[25Dec2024 20:55:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 20:55:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 20:56:53.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[25Dec2024 20:57:04.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 20:57:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 14 entities]
+[25Dec2024 20:58:02.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
