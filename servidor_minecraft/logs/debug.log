@@ -11971,3 +11971,149 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 23:29:31.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 23:29:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
 [25Dec2024 23:29:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 40 entities]
+[25Dec2024 23:32:02.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:32:07.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [038gz6i1n5zwa]: started parsing
+[25Dec2024 23:32:07.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [038gz6i1n5zwa]: Consuming argument ``
+[25Dec2024 23:32:07.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x5r9icmtoht6]: started parsing
+[25Dec2024 23:32:07.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x5r9icmtoht6]: Consuming argument `c`
+[25Dec2024 23:32:07.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0136eccamsr56]: started parsing
+[25Dec2024 23:32:07.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0136eccamsr56]: Consuming argument `cr`
+[25Dec2024 23:32:07.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ixvpnhrkmzve]: started parsing
+[25Dec2024 23:32:07.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ixvpnhrkmzve]: Consuming argument `cre`
+[25Dec2024 23:32:09.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a2bbeh7wzhdr]: started parsing
+[25Dec2024 23:32:09.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a2bbeh7wzhdr]: Consuming argument `create:b`
+[25Dec2024 23:32:09.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mtnd09dmvx44]: started parsing
+[25Dec2024 23:32:09.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mtnd09dmvx44]: Consuming argument `create:br`
+[25Dec2024 23:32:09.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pyyayj7n3ujt]: started parsing
+[25Dec2024 23:32:09.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pyyayj7n3ujt]: Consuming argument `create:bra`
+[25Dec2024 23:32:10.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1amayiysxzhp9]: started parsing
+[25Dec2024 23:32:10.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1amayiysxzhp9]: Consuming argument `create:bras`
+[25Dec2024 23:32:12.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j4be2hczstd]: started parsing
+[25Dec2024 23:32:12.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j4be2hczstd]: Consuming argument `create:brass_tunne`
+[25Dec2024 23:32:12.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ol19nl29do3s]: started parsing
+[25Dec2024 23:32:12.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ol19nl29do3s]: Consuming argument `create:brass_tunn`
+[25Dec2024 23:32:12.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p969hwxfzn84]: started parsing
+[25Dec2024 23:32:12.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p969hwxfzn84]: Consuming argument `create:brass_tun`
+[25Dec2024 23:32:13.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1srr1k76pertt]: started parsing
+[25Dec2024 23:32:13.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1srr1k76pertt]: Consuming argument `create:brass_tu`
+[25Dec2024 23:32:13.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dohervp8nrmb]: started parsing
+[25Dec2024 23:32:13.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dohervp8nrmb]: Consuming argument `create:brass_t`
+[25Dec2024 23:32:13.391] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1csqxxvbxeqn7]: started parsing
+[25Dec2024 23:32:13.391] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1csqxxvbxeqn7]: Consuming argument `create:brass_`
+[25Dec2024 23:32:13.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fy1q8yk97bu]: started parsing
+[25Dec2024 23:32:13.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fy1q8yk97bu]: Consuming argument `create:brass_c`
+[25Dec2024 23:32:13.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hf3f9nsijt94]: started parsing
+[25Dec2024 23:32:13.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hf3f9nsijt94]: Consuming argument `create:brass_ca`
+[25Dec2024 23:32:14.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qplw0oirsjng]: started parsing
+[25Dec2024 23:32:14.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qplw0oirsjng]: Consuming argument `create:brass_casing`
+[25Dec2024 23:32:14.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qplw0oirsjng]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:32:37.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yvzzu8b1tiij]: started parsing
+[25Dec2024 23:32:37.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yvzzu8b1tiij]: Consuming argument ``
+[25Dec2024 23:32:37.782] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pke21diy49ql]: started parsing
+[25Dec2024 23:32:37.782] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pke21diy49ql]: Consuming argument `c`
+[25Dec2024 23:32:38.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lhxkuqn8ivzx]: started parsing
+[25Dec2024 23:32:38.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lhxkuqn8ivzx]: Consuming argument `cr`
+[25Dec2024 23:32:38.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gpf4dl11eby8]: started parsing
+[25Dec2024 23:32:38.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gpf4dl11eby8]: Consuming argument `cre`
+[25Dec2024 23:32:39.940] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0crxo2mrrug13]: started parsing
+[25Dec2024 23:32:39.940] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0crxo2mrrug13]: Consuming argument `create:b`
+[25Dec2024 23:32:40.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g6ge46pgl71u]: started parsing
+[25Dec2024 23:32:40.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g6ge46pgl71u]: Consuming argument `create:br`
+[25Dec2024 23:32:40.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jfjw6x4f7hr4]: started parsing
+[25Dec2024 23:32:40.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jfjw6x4f7hr4]: Consuming argument `create:bra`
+[25Dec2024 23:32:40.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yvkukrww1ofn]: started parsing
+[25Dec2024 23:32:40.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yvkukrww1ofn]: Consuming argument `create:bras`
+[25Dec2024 23:32:42.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bw9i6yctcoy5]: started parsing
+[25Dec2024 23:32:42.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bw9i6yctcoy5]: Consuming argument `create:brass`
+[25Dec2024 23:32:42.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwtune7hwm3z]: started parsing
+[25Dec2024 23:32:42.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwtune7hwm3z]: Consuming argument `create:brass_`
+[25Dec2024 23:32:43.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1un0cqgbvhkvf]: started parsing
+[25Dec2024 23:32:43.200] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1un0cqgbvhkvf]: Consuming argument `create:brass_c`
+[25Dec2024 23:32:44.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y0p6twvzto3q]: started parsing
+[25Dec2024 23:32:44.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y0p6twvzto3q]: Consuming argument `create:brass_casing`
+[25Dec2024 23:32:44.236] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y0p6twvzto3q]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:32:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 23:33:00.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzcs8awg0axd]: started parsing
+[25Dec2024 23:33:00.460] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzcs8awg0axd]: Consuming argument ``
+[25Dec2024 23:33:00.613] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116e8nm2j8aen]: started parsing
+[25Dec2024 23:33:00.613] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116e8nm2j8aen]: Consuming argument `c`
+[25Dec2024 23:33:00.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p54fw878h31o]: started parsing
+[25Dec2024 23:33:00.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p54fw878h31o]: Consuming argument `cr`
+[25Dec2024 23:33:01.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wphg9mosyi0f]: started parsing
+[25Dec2024 23:33:01.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wphg9mosyi0f]: Consuming argument `cre`
+[25Dec2024 23:33:01.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03v56szo0uf5t]: started parsing
+[25Dec2024 23:33:01.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03v56szo0uf5t]: Consuming argument `create`
+[25Dec2024 23:33:01.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tqcjs5bmt14u]: started parsing
+[25Dec2024 23:33:01.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tqcjs5bmt14u]: Consuming argument `creat`
+[25Dec2024 23:33:02.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hpboogq4b0he]: started parsing
+[25Dec2024 23:33:02.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hpboogq4b0he]: Consuming argument `create`
+[25Dec2024 23:33:04.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aofk2p2jq41q]: started parsing
+[25Dec2024 23:33:04.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aofk2p2jq41q]: Consuming argument `create:b`
+[25Dec2024 23:33:04.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mf6mtjjfsu5r]: started parsing
+[25Dec2024 23:33:04.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mf6mtjjfsu5r]: Consuming argument `create:br`
+[25Dec2024 23:33:04.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h4f6aaqdh9oo]: started parsing
+[25Dec2024 23:33:04.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h4f6aaqdh9oo]: Consuming argument `create:bra`
+[25Dec2024 23:33:04.491] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pjy7a16azbc3]: started parsing
+[25Dec2024 23:33:04.491] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pjy7a16azbc3]: Consuming argument `create:bras`
+[25Dec2024 23:33:04.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ig1n647f63rw]: started parsing
+[25Dec2024 23:33:04.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ig1n647f63rw]: Consuming argument `create:brass`
+[25Dec2024 23:33:05.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uduaikbwf18c]: started parsing
+[25Dec2024 23:33:05.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uduaikbwf18c]: Consuming argument `create:brass_`
+[25Dec2024 23:33:05.491] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cj12bkodusqm]: started parsing
+[25Dec2024 23:33:05.491] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cj12bkodusqm]: Consuming argument `create:brass_c`
+[25Dec2024 23:33:05.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0adzeq69emz5z]: started parsing
+[25Dec2024 23:33:05.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0adzeq69emz5z]: Consuming argument `create:brass_ca`
+[25Dec2024 23:33:06.393] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05xrqf0zgio7n]: started parsing
+[25Dec2024 23:33:06.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05xrqf0zgio7n]: Consuming argument `create:brass_casing`
+[25Dec2024 23:33:06.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05xrqf0zgio7n]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:33:27.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vudzcpfcj8a8]: started parsing
+[25Dec2024 23:33:27.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vudzcpfcj8a8]: Consuming argument ``
+[25Dec2024 23:33:28.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z33jqan6i57n]: started parsing
+[25Dec2024 23:33:28.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z33jqan6i57n]: Consuming argument `c`
+[25Dec2024 23:33:28.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00pscytyakdww]: started parsing
+[25Dec2024 23:33:28.351] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00pscytyakdww]: Consuming argument `cr`
+[25Dec2024 23:33:28.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zdf6sqz3148y]: started parsing
+[25Dec2024 23:33:28.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zdf6sqz3148y]: Consuming argument `cre`
+[25Dec2024 23:33:29.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gumikzj6wiw]: started parsing
+[25Dec2024 23:33:29.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gumikzj6wiw]: Consuming argument `create:b`
+[25Dec2024 23:33:29.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxstwq4tmzx7]: started parsing
+[25Dec2024 23:33:29.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxstwq4tmzx7]: Consuming argument `create:br`
+[25Dec2024 23:33:29.995] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0td5sbaksznqk]: started parsing
+[25Dec2024 23:33:29.996] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0td5sbaksznqk]: Consuming argument `create:bra`
+[25Dec2024 23:33:30.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tnkfibb9ws6n]: started parsing
+[25Dec2024 23:33:30.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tnkfibb9ws6n]: Consuming argument `create:bras`
+[25Dec2024 23:33:30.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mkt1hly1xi5q]: started parsing
+[25Dec2024 23:33:30.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mkt1hly1xi5q]: Consuming argument `create:brass`
+[25Dec2024 23:33:31.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ej6sqaj0vd79]: started parsing
+[25Dec2024 23:33:31.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ej6sqaj0vd79]: Consuming argument `create:brass_`
+[25Dec2024 23:33:31.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12x93er0djl2m]: started parsing
+[25Dec2024 23:33:31.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12x93er0djl2m]: Consuming argument `create:brass_c`
+[25Dec2024 23:33:32.185] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05flzqtf158jv]: started parsing
+[25Dec2024 23:33:32.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05flzqtf158jv]: Consuming argument `create:brass_casing`
+[25Dec2024 23:33:32.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05flzqtf158jv]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:34:16.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:34:16.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:34:43.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19w13puvru8gj]: started parsing
+[25Dec2024 23:34:43.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19w13puvru8gj]: Consuming argument ``
+[25Dec2024 23:34:43.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eh97ubdpoumw]: started parsing
+[25Dec2024 23:34:43.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eh97ubdpoumw]: Consuming argument `d`
+[25Dec2024 23:34:43.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1298suak1n9nt]: started parsing
+[25Dec2024 23:34:43.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1298suak1n9nt]: Consuming argument `de`
+[25Dec2024 23:34:44.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ynt041j5ozh]: started parsing
+[25Dec2024 23:34:44.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ynt041j5ozh]: Consuming argument `dee`
+[25Dec2024 23:34:44.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xab58lqqr9j]: started parsing
+[25Dec2024 23:34:44.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xab58lqqr9j]: Consuming argument `deep`
+[25Dec2024 23:34:45.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kt6a8cr5fg8a]: started parsing
+[25Dec2024 23:34:45.771] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kt6a8cr5fg8a]: Consuming argument `deepslate_tiles`
+[25Dec2024 23:34:45.771] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kt6a8cr5fg8a]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:35:21.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 34 entities]
+[25Dec2024 23:36:36.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 9 entities]
+[25Dec2024 23:36:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Dirt]
+[25Dec2024 23:37:02.167] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/network/ServerRecyclerMessage$RecyclerAction
+[25Dec2024 23:37:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:37:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 7 entities]
+[25Dec2024 23:37:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:39:16.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:39:16.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:40:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:40:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]

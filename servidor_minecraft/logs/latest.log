@@ -1381,3 +1381,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 23:28:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> XDDDDD
 [25Dec2024 23:29:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
 [25Dec2024 23:29:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 40 entities]
+[25Dec2024 23:32:02.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:32:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 23:35:21.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 34 entities]
+[25Dec2024 23:36:36.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 9 entities]
+[25Dec2024 23:36:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Dirt]
+[25Dec2024 23:37:02.167] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/recycler/network/ServerRecyclerMessage$RecyclerAction
+[25Dec2024 23:37:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:37:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 7 entities]
+[25Dec2024 23:37:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:40:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:40:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
