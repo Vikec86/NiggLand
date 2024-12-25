@@ -2040,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-25 00:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-23 17:22:03 +0000"
@@ -3257,6 +3263,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-25 00:44:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
@@ -3272,6 +3284,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
     "criteria": {
       "has_copper_ingot": "2024-12-23 19:26:51 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:christmastree": {
+    "criteria": {
+      "crafting_table": "2024-12-25 00:58:05 +0000"
     },
     "done": true
   },
@@ -6468,6 +6486,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 00:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:05:11 +0000"
@@ -6639,6 +6663,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-24 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-25 00:57:51 +0000"
     },
     "done": true
   },

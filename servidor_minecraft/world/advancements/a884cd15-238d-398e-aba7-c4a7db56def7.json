@@ -2284,6 +2284,12 @@
     },
     "done": true
   },
+  "inventorypets:christmastree": {
+    "criteria": {
+      "crafting_table": "2024-12-25 00:59:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-12-23 18:40:06 +0000"
@@ -5696,6 +5702,12 @@
   "cfm:recipes/cfm/dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-24 21:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-25 00:47:48 +0000"
     },
     "done": true
   },

@@ -1780,6 +1780,12 @@
     },
     "done": true
   },
+  "inventorypets:christmastree": {
+    "criteria": {
+      "crafting_table": "2024-12-25 01:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-23 23:56:11 +0000"
@@ -2301,6 +2307,12 @@
   "farmersdelight:recipes/farmersdelight/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-12-24 00:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-25 00:58:45 +0000"
     },
     "done": true
   },
