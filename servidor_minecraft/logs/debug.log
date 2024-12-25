@@ -12117,3 +12117,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 23:39:16.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 23:40:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
 [25Dec2024 23:40:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:41:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:42:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[25Dec2024 23:44:16.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:44:16.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:44:16.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:44:44.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dudh9uuleeq6]: started parsing
+[25Dec2024 23:44:44.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dudh9uuleeq6]: Consuming argument ``
+[25Dec2024 23:44:44.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vckck3ibt77z]: started parsing
+[25Dec2024 23:44:44.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vckck3ibt77z]: Consuming argument `g`
+[25Dec2024 23:44:45.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6qaf1hxbpbr]: started parsing
+[25Dec2024 23:44:45.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6qaf1hxbpbr]: Consuming argument `gl`
+[25Dec2024 23:44:45.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gi2azplid1j]: started parsing
+[25Dec2024 23:44:45.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gi2azplid1j]: Consuming argument `gla`
+[25Dec2024 23:44:45.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gch65iw2in7v]: started parsing
+[25Dec2024 23:44:45.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gch65iw2in7v]: Consuming argument `glas`
+[25Dec2024 23:44:46.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g2y9ktqmyytx]: started parsing
+[25Dec2024 23:44:46.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g2y9ktqmyytx]: Consuming argument `glass_pane`
+[25Dec2024 23:44:46.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g2y9ktqmyytx]: Finished looking at arguments. Finalizing command.
+[25Dec2024 23:44:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 31 entities]
+[25Dec2024 23:45:00.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:45:00.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:45:00.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 23:47:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 23:47:11.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:47:11.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:47:11.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 23:47:25.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:47:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:48:55.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[25Dec2024 23:49:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 23:49:16.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:49:16.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:49:48.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:49:48.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:49:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 23:50:52.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:50:52.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:50:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[25Dec2024 23:50:55.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> nigga
+[25Dec2024 23:50:59.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> mas tarde juego
+[25Dec2024 23:51:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIK_N_DA_HOOD> adeus
+[25Dec2024 23:51:09.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD lost connection: Disconnected
+[25Dec2024 23:51:09.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD left the game
+[25Dec2024 23:51:28.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran has completed the challenge [One Chunk Fish]
