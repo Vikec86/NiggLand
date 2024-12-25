@@ -2196,6 +2196,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "soul_campfire": "2024-12-25 00:08:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-24 00:41:45 +0000"
