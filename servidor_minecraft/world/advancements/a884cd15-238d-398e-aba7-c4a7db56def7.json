@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-25 01:36:12 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-23 23:10:01 +0000"
@@ -4725,6 +4731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 01:36:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-23 17:56:09 +0000"
@@ -4968,6 +4980,12 @@
   "biomesoplenty:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 18:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-25 01:38:53 +0000"
     },
     "done": true
   },

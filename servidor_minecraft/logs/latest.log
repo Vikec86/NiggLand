@@ -1058,3 +1058,124 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 01:32:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
 [25Dec2024 01:32:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
 [25Dec2024 01:32:42.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[25Dec2024 01:32:49.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 76 entities]
+[25Dec2024 01:32:51.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[25Dec2024 01:32:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Teleported Naeceran to Sanguchito666]
+[25Dec2024 01:32:56.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD lost connection: Disconnected
+[25Dec2024 01:32:56.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD left the game
+[25Dec2024 01:33:24.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[25Dec2024 01:33:25.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naeceran lost connection: Disconnected
+[25Dec2024 01:33:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran left the game
+[25Dec2024 01:33:35.788] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2944b4b3
+[25Dec2024 01:33:35.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naeceran[/127.239.23.117:59517] logged in with entity id 23196 at (-112.60378371620142, 68.0, -1155.3671521377491)
+[25Dec2024 01:33:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran joined the game
+[25Dec2024 01:33:36.016] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 01:33:36.017] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 01:33:36.017] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 01:33:36.017] [Server thread/INFO] [Jade/]: Syncing config to Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69)
+[25Dec2024 01:33:38.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:33:41.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[25Dec2024 01:34:09.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Spectator Mode]
+[25Dec2024 01:34:10.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[25Dec2024 01:34:20.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[25Dec2024 01:34:30.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5197ms or 103 ticks behind
+[25Dec2024 01:34:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Creative Mode]
+[25Dec2024 01:34:50.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[25Dec2024 01:35:07.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[25Dec2024 01:35:25.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[25Dec2024 01:35:36.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> q cosa
+[25Dec2024 01:35:43.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[25Dec2024 01:35:48.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> en la cera?
+[25Dec2024 01:35:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> panal de abejas
+[25Dec2024 01:36:02.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[25Dec2024 01:36:05.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> a
+[25Dec2024 01:36:20.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[25Dec2024 01:36:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> me voy a bañar
+[25Dec2024 01:36:39.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4138ms or 82 ticks behind
+[25Dec2024 01:36:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> ya vuelvo
+[25Dec2024 01:36:46.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> no sabia que era24
+[25Dec2024 01:36:54.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[25Dec2024 01:36:55.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> con razon se fueron a misa
+[25Dec2024 01:36:59.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4516ms or 90 ticks behind
+[25Dec2024 01:37:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> y me dijeron pa ir
+[25Dec2024 01:37:05.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naeceran> pene
+[25Dec2024 01:37:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported RamPau to Sanguchito666]
+[25Dec2024 01:37:20.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Teleported Naeceran to Sanguchito666]
+[25Dec2024 01:37:21.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7184ms or 143 ticks behind
+[25Dec2024 01:37:31.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:37:40.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[25Dec2024 01:37:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> wwwww
+[25Dec2024 01:37:59.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3630ms or 72 ticks behind
+[25Dec2024 01:38:02.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naeceran lost connection: Disconnected
+[25Dec2024 01:38:02.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran left the game
+[25Dec2024 01:38:07.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> wwwww
+[25Dec2024 01:38:16.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[25Dec2024 01:38:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 01:38:34.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[25Dec2024 01:38:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Spooky Scary Skeleton]
+[25Dec2024 01:38:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:38:51.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[25Dec2024 01:38:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Withering Heights]
+[25Dec2024 01:38:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Withering Heights]
+[25Dec2024 01:38:54.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Disconnected
+[25Dec2024 01:38:54.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
+[25Dec2024 01:39:00.333] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@529f9dbe
+[25Dec2024 01:39:00.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:48563] logged in with entity id 24424 at (-286.34738246285485, -51.0, -2151.6599185806454)
+[25Dec2024 01:39:00.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[25Dec2024 01:39:00.620] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[25Dec2024 01:39:00.626] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[25Dec2024 01:39:00.626] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[25Dec2024 01:39:00.627] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[25Dec2024 01:39:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[25Dec2024 01:39:13.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7087ms or 141 ticks behind
+[25Dec2024 01:39:45.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Creative Mode]
+[25Dec2024 01:40:35.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[25Dec2024 01:40:45.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 withered away whilst fighting Wither
+[25Dec2024 01:40:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to RamPau]
+[25Dec2024 01:41:45.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau fell out of the world
+[25Dec2024 01:41:46.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[25Dec2024 01:41:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed 524 entities]
+[25Dec2024 01:41:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 302 entities to Sanguchito666]
+[25Dec2024 01:42:00.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/26220, l='ServerLevel[world]', x=-132.47, y=71.00, z=-1142.71] died: Faller was blown up by Faller
+[25Dec2024 01:42:00.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/26224, l='ServerLevel[world]', x=-118.71, y=68.00, z=-1147.46] died: Faller was blown up by Faller
+[25Dec2024 01:42:01.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['lone station clerk'/25967, l='ServerLevel[world]', x=-128.59, y=71.00, z=-1158.40] died, message: 'lone station clerk was blown up by Creeper'
+[25Dec2024 01:42:01.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['lone station clerk'/25967, l='ServerLevel[world]', x=-128.59, y=71.00, z=-1158.40] died: lone station clerk was blown up by Creeper
+[25Dec2024 01:42:01.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirveta'/26152, l='ServerLevel[world]', x=-127.23, y=71.00, z=-1160.25] died, message: 'Mirveta was blown up by Creeper'
+[25Dec2024 01:42:01.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mirveta'/26152, l='ServerLevel[world]', x=-127.23, y=71.00, z=-1160.25] died: Mirveta was blown up by Creeper
+[25Dec2024 01:42:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 didn't want to live in the same world as Silverqueen
+[25Dec2024 01:42:04.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau fell out of the world
+[25Dec2024 01:42:04.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Snežana'/26051, l='ServerLevel[world]', x=-130.57, y=70.00, z=-1176.62] died, message: 'Snežana fell out of the world'
+[25Dec2024 01:42:04.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Snežana'/26051, l='ServerLevel[world]', x=-130.57, y=70.00, z=-1176.62] died: Snežana fell out of the world
+[25Dec2024 01:42:04.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Selena'/26053, l='ServerLevel[world]', x=-126.36, y=71.00, z=-1146.97] died, message: 'Selena didn't want to live in the same world as Faller'
+[25Dec2024 01:42:04.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Selena'/26053, l='ServerLevel[world]', x=-126.36, y=71.00, z=-1146.97] died: Selena didn't want to live in the same world as Faller
+[25Dec2024 01:42:04.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vojislavka'/26140, l='ServerLevel[world]', x=-112.87, y=68.00, z=-1151.48] died, message: 'Vojislavka fell out of the world'
+[25Dec2024 01:42:04.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vojislavka'/26140, l='ServerLevel[world]', x=-112.87, y=68.00, z=-1151.48] died: Vojislavka fell out of the world
+[25Dec2024 01:42:04.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed 274 entities]
+[25Dec2024 01:42:13.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 277 entities to Sanguchito666]
+[25Dec2024 01:42:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau has made the advancement [Amateur Archaeologist]
+[25Dec2024 01:42:13.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! -10.576940272266484,-0.05406997301578542,0.0
+[25Dec2024 01:42:14.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 didn't want to live in the same world as Assassin
+[25Dec2024 01:42:14.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RamPau fell out of the world
+[25Dec2024 01:42:14.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed 180 entities]
+[25Dec2024 01:42:15.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27054, l='ServerLevel[world]', x=-136.29, y=69.00, z=-1177.30] died: Faller was blown up by Faller
+[25Dec2024 01:42:15.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/27045, l='ServerLevel[world]', x=-121.21, y=63.00, z=-1161.10] died: Intruder was blown up by Intruder
+[25Dec2024 01:42:15.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27047, l='ServerLevel[world]', x=-131.56, y=71.00, z=-1174.31] died: Faller was blown up by Faller
+[25Dec2024 01:42:15.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27049, l='ServerLevel[world]', x=-126.60, y=71.00, z=-1173.46] died: Faller was blown up by Faller
+[25Dec2024 01:42:15.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/27052, l='ServerLevel[world]', x=-123.44, y=70.00, z=-1179.44] died: Intruder was blown up by Intruder
+[25Dec2024 01:42:15.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/27053, l='ServerLevel[world]', x=-121.68, y=70.00, z=-1177.47] died: Intruder was blown up by Intruder
+[25Dec2024 01:42:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 269 entities to RamPau]
+[25Dec2024 01:42:30.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27432, l='ServerLevel[world]', x=-228.01, y=-48.94, z=-2201.63] died: Faller was blown up by Intruder
+[25Dec2024 01:42:30.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Crawler'/27433, l='ServerLevel[world]', x=-227.40, y=-48.94, z=-2203.51] died: Crawler was blown up by Intruder
+[25Dec2024 01:42:30.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27434, l='ServerLevel[world]', x=-228.34, y=-48.94, z=-2202.19] died: Faller was blown up by Intruder
+[25Dec2024 01:42:30.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27435, l='ServerLevel[world]', x=-227.45, y=-48.94, z=-2201.00] died: Faller was blown up by Intruder
+[25Dec2024 01:42:30.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27438, l='ServerLevel[world]', x=-227.66, y=-48.94, z=-2203.73] died: Faller was blown up by Intruder
+[25Dec2024 01:42:30.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/27436, l='ServerLevel[world]', x=-222.22, y=-48.94, z=-2208.36] died: Intruder was blown up by Intruder
+[25Dec2024 01:42:30.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/27437, l='ServerLevel[world]', x=-222.14, y=-48.94, z=-2208.36] died: Intruder was blown up by Intruder
+[25Dec2024 01:42:30.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Crawler'/27439, l='ServerLevel[world]', x=-220.40, y=-48.94, z=-2208.22] died: Crawler was blown up by Intruder
+[25Dec2024 01:42:32.284] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27571, l='ServerLevel[world]', x=-227.37, y=-48.94, z=-2197.81] died: Faller was blown up by Faller
+[25Dec2024 01:42:32.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 was blown up by Faller
+[25Dec2024 01:42:32.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27581, l='ServerLevel[world]', x=-228.50, y=-48.94, z=-2195.95] died: Faller was blown up by Crawler
+[25Dec2024 01:42:32.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/27582, l='ServerLevel[world]', x=-227.51, y=-49.00, z=-2199.48] died: Faller was blown up by Crawler
+[25Dec2024 01:42:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Creative Mode]
+[25Dec2024 01:42:54.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 01:42:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RamPau: Teleported 256 entities to RamPau]
