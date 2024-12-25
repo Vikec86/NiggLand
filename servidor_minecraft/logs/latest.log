@@ -1256,3 +1256,4 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [25Dec2024 02:02:17.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Disconnected
 [25Dec2024 02:02:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
 [25Dec2024 02:02:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[25Dec2024 02:42:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
