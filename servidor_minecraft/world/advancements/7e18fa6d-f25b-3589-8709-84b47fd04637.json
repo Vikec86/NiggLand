@@ -631,6 +631,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 18:17:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-23 18:29:49 +0000"
@@ -2900,6 +2906,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-24 00:13:07 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2024-12-25 18:24:26 +0000"
     },
     "done": true
   },
