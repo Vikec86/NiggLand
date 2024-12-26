@@ -10276,3 +10276,72 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 04:37:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [26Dec2024 04:38:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [26Dec2024 04:38:24.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:39:17.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[26Dec2024 04:39:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [What a Deal!]
+[26Dec2024 04:40:36.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:40:36.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:40:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[26Dec2024 04:40:44.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Farmland]
+[26Dec2024 04:41:55.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:42:57.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[26Dec2024 04:43:02.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[26Dec2024 04:43:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Wheat]
+[26Dec2024 04:43:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 04:43:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:43:53.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[26Dec2024 04:45:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[26Dec2024 04:45:35.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:45:36.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:45:45.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[26Dec2024 04:46:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:47:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 04:48:51.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[26Dec2024 04:48:51.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pgjweu0mnlcu]: started parsing
+[26Dec2024 04:48:51.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pgjweu0mnlcu]: Consuming argument ``
+[26Dec2024 04:48:52.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0moqjpttwl3z4]: started parsing
+[26Dec2024 04:48:52.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0moqjpttwl3z4]: Consuming argument `c`
+[26Dec2024 04:48:52.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [008ykp2us1731]: started parsing
+[26Dec2024 04:48:52.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [008ykp2us1731]: Consuming argument `cr`
+[26Dec2024 04:48:52.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0557iq8d4hqhc]: started parsing
+[26Dec2024 04:48:52.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0557iq8d4hqhc]: Consuming argument `cre`
+[26Dec2024 04:48:53.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gh2vqag440m0]: started parsing
+[26Dec2024 04:48:53.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gh2vqag440m0]: Consuming argument `create:`
+[26Dec2024 04:48:54.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cuds3ghinr7]: started parsing
+[26Dec2024 04:48:54.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09cuds3ghinr7]: Consuming argument `create:`
+[26Dec2024 04:48:54.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2ahsgq1i1hz]: started parsing
+[26Dec2024 04:48:54.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2ahsgq1i1hz]: Consuming argument `create:c`
+[26Dec2024 04:48:54.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04qcarwhwbtxf]: started parsing
+[26Dec2024 04:48:54.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04qcarwhwbtxf]: Consuming argument `create:ca`
+[26Dec2024 04:48:54.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1drvt3rnjyocl]: started parsing
+[26Dec2024 04:48:54.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1drvt3rnjyocl]: Consuming argument `create:cas`
+[26Dec2024 04:48:56.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y9n65us96tkk]: started parsing
+[26Dec2024 04:48:56.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y9n65us96tkk]: Consuming argument `create:casi`
+[26Dec2024 04:48:56.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mdqjcpshbbca]: started parsing
+[26Dec2024 04:48:56.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mdqjcpshbbca]: Consuming argument `create:casin`
+[26Dec2024 04:48:56.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1csgzlnf8ene1]: started parsing
+[26Dec2024 04:48:56.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1csgzlnf8ene1]: Consuming argument `create:casing`
+[26Dec2024 04:48:57.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tcjflg38lqnb]: started parsing
+[26Dec2024 04:48:57.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tcjflg38lqnb]: Consuming argument `create:casing`
+[26Dec2024 04:49:05.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qts9z7oembc]: started parsing
+[26Dec2024 04:49:05.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qts9z7oembc]: Consuming argument ``
+[26Dec2024 04:49:07.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sa1wszfrnsgh]: started parsing
+[26Dec2024 04:49:07.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sa1wszfrnsgh]: Consuming argument `c`
+[26Dec2024 04:49:07.629] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8b1peh2q7wn]: started parsing
+[26Dec2024 04:49:07.629] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8b1peh2q7wn]: Consuming argument `cr`
+[26Dec2024 04:49:07.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ju80limcfckg]: started parsing
+[26Dec2024 04:49:07.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ju80limcfckg]: Consuming argument `cre`
+[26Dec2024 04:49:09.490] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a4ee7pt5voj2]: started parsing
+[26Dec2024 04:49:09.491] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a4ee7pt5voj2]: Consuming argument `create:c`
+[26Dec2024 04:49:09.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [127a8htpa19is]: started parsing
+[26Dec2024 04:49:09.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [127a8htpa19is]: Consuming argument `create:ca`
+[26Dec2024 04:49:10.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kekza0f7egau]: started parsing
+[26Dec2024 04:49:10.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kekza0f7egau]: Consuming argument `create:cas`
+[26Dec2024 04:49:12.294] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjoyha787re1]: started parsing
+[26Dec2024 04:49:12.294] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjoyha787re1]: Consuming argument `create:casi`
+[26Dec2024 04:49:12.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h320nw2x223u]: started parsing
+[26Dec2024 04:49:12.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h320nw2x223u]: Consuming argument `create:casin`
+[26Dec2024 04:49:12.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tzh8lhyan0mu]: started parsing
+[26Dec2024 04:49:12.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tzh8lhyan0mu]: Consuming argument `create:casing`
+[26Dec2024 04:49:13.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03pyp0xyj9kyk]: started parsing
+[26Dec2024 04:49:13.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03pyp0xyj9kyk]: Consuming argument `create:casing`
+[26Dec2024 04:49:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
