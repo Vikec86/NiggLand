@@ -10420,3 +10420,56 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 04:57:59.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
 [26Dec2024 04:57:59.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
 [26Dec2024 04:57:59.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 05:00:35.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:00:35.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:01:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 22 entities]
+[26Dec2024 05:02:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[26Dec2024 05:02:15.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:02:15.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:02:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[26Dec2024 05:02:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 05:03:03.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 05:05:35.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:05:35.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:05:51.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 05:06:02.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to 1975.500000, 111.000000, 561.500000]
+[26Dec2024 05:06:03.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[26Dec2024 05:06:04.333] [Worker-Main-109/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[26Dec2024 05:06:05.191] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/desolate_bastion_outpost_4
+[26Dec2024 05:06:05.204] [Worker-Main-109/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Dec2024 05:06:07.336] [Worker-Main-109/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[26Dec2024 05:06:07.656] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[26Dec2024 05:06:07.800] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:sky_island_1
+[26Dec2024 05:06:07.900] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:crabspawn
+[26Dec2024 05:06:07.901] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ufo_3
+[26Dec2024 05:06:08.333] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:service_station_1_eng
+[26Dec2024 05:06:08.341] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:badlands_tower_1
+[26Dec2024 05:06:12.330] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_1
+[26Dec2024 05:06:13.648] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[26Dec2024 05:06:15.242] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_pike_2
+[26Dec2024 05:06:18.472] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_3
+[26Dec2024 05:06:23.189] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[26Dec2024 05:06:25.043] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_1
+[26Dec2024 05:06:25.121] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_2
+[26Dec2024 05:06:27.241] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[26Dec2024 05:06:29.031] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/cross_altar_1
+[26Dec2024 05:06:34.748] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[26Dec2024 05:06:46.182] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_3
+[26Dec2024 05:06:48.270] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_3
+[26Dec2024 05:06:48.462] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/portal_ruin
+[26Dec2024 05:06:49.862] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[26Dec2024 05:07:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 05:07:22.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 05:07:28.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:gerudo_village_goddess_statue
+[26Dec2024 05:07:28.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:desert_village_horned_statue
+[26Dec2024 05:07:28.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[26Dec2024 05:07:28.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 05:07:28.390] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/desolate_bastion_outpost_1
+[26Dec2024 05:07:55.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[26Dec2024 05:08:28.914] [Worker-Main-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[26Dec2024 05:08:42.094] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tower_2
+[26Dec2024 05:08:42.095] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tomb_1
+[26Dec2024 05:08:42.097] [Worker-Main-109/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ruin_tower_1
+[26Dec2024 05:09:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [No Step on Snake]
+[26Dec2024 05:09:16.387] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_8
+[26Dec2024 05:09:16.536] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/heaven_10
