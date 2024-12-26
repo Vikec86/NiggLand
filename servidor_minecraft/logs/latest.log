@@ -1050,3 +1050,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 05:07:55.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [26Dec2024 05:08:28.914] [Worker-Main-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
 [26Dec2024 05:09:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [No Step on Snake]
+[26Dec2024 05:09:47.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[26Dec2024 05:09:47.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD moved too quickly! -0.9077809688069465,1.395575898673286,-10.4418335188235
+[26Dec2024 05:10:04.011] [Worker-Main-109/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[26Dec2024 05:10:04.013] [Worker-Main-109/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[26Dec2024 05:10:04.661] [Worker-Main-109/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[26Dec2024 05:10:04.662] [Worker-Main-109/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[26Dec2024 05:10:17.495] [Worker-Main-110/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[26Dec2024 05:10:55.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 05:10:59.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[26Dec2024 05:11:02.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 05:11:22.324] [Worker-Main-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[26Dec2024 05:11:22.330] [Worker-Main-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[26Dec2024 05:11:22.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD moved too quickly! -9.55016873313889,-0.16610926093821377,-3.6084694665307566
+[26Dec2024 05:11:36.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD moved too quickly! -9.078535291204389,1.4959870982234804,-4.03366713028074
+[26Dec2024 05:11:36.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2769ms or 55 ticks behind
+[26Dec2024 05:11:42.629] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[26Dec2024 05:11:46.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 05:11:47.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[26Dec2024 05:12:02.482] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[26Dec2024 05:12:17.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 05:12:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 05:17:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 05:17:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[26Dec2024 05:17:25.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
