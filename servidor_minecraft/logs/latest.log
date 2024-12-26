@@ -1007,3 +1007,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 04:47:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [26Dec2024 04:48:51.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
 [26Dec2024 04:49:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:49:57.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[26Dec2024 04:49:57.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[26Dec2024 04:50:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 19 entities]
+[26Dec2024 04:51:53.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[26Dec2024 04:51:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:52:15.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:55:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 17 entities]
+[26Dec2024 04:55:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Rotten Flesh]
+[26Dec2024 04:56:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[26Dec2024 04:57:15.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/EquipmentSet
+[26Dec2024 04:57:15.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[26Dec2024 04:57:17.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[26Dec2024 04:57:17.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[26Dec2024 04:57:27.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=65, z=-1178} BlockPos{x=-168, y=66, z=-1178}
+[26Dec2024 04:57:27.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=65, z=-1178} BlockPos{x=-168, y=66, z=-1178}
+[26Dec2024 04:57:51.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:51.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:51.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:55.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[26Dec2024 04:57:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[26Dec2024 04:57:58.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=66, z=-1196} BlockPos{x=-185, y=65, z=-1196}
+[26Dec2024 04:57:58.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=66, z=-1196} BlockPos{x=-185, y=65, z=-1196}
+[26Dec2024 04:57:59.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}

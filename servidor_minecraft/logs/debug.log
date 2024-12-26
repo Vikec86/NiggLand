@@ -10345,3 +10345,78 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 04:49:13.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03pyp0xyj9kyk]: started parsing
 [26Dec2024 04:49:13.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03pyp0xyj9kyk]: Consuming argument `create:casing`
 [26Dec2024 04:49:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:49:49.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smlnwrjghebb]: started parsing
+[26Dec2024 04:49:49.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smlnwrjghebb]: Consuming argument ``
+[26Dec2024 04:49:50.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpfqvsqnxh71]: started parsing
+[26Dec2024 04:49:50.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpfqvsqnxh71]: Consuming argument `c`
+[26Dec2024 04:49:50.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e938p3hsq80x]: started parsing
+[26Dec2024 04:49:50.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e938p3hsq80x]: Consuming argument `cr`
+[26Dec2024 04:49:50.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0octu4muxx7cp]: started parsing
+[26Dec2024 04:49:50.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0octu4muxx7cp]: Consuming argument `cre`
+[26Dec2024 04:49:50.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rorzmt4oaxi9]: started parsing
+[26Dec2024 04:49:50.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rorzmt4oaxi9]: Consuming argument `crea`
+[26Dec2024 04:49:52.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1mlxx5bk0at]: started parsing
+[26Dec2024 04:49:52.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1mlxx5bk0at]: Consuming argument `create:b`
+[26Dec2024 04:49:53.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09uqs4w8byjrm]: started parsing
+[26Dec2024 04:49:53.086] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09uqs4w8byjrm]: Consuming argument `create:br`
+[26Dec2024 04:49:53.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qzihiuul3dv]: started parsing
+[26Dec2024 04:49:53.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02qzihiuul3dv]: Consuming argument `create:bra`
+[26Dec2024 04:49:53.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zfj1cjrdtlo0]: started parsing
+[26Dec2024 04:49:53.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zfj1cjrdtlo0]: Consuming argument `create:bras`
+[26Dec2024 04:49:55.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007w4p20yxn9f]: started parsing
+[26Dec2024 04:49:55.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007w4p20yxn9f]: Consuming argument `create:brass_tunne`
+[26Dec2024 04:49:55.912] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [147xwo63fyngw]: started parsing
+[26Dec2024 04:49:55.912] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [147xwo63fyngw]: Consuming argument `create:brass_tunn`
+[26Dec2024 04:49:56.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yipodkkp8921]: started parsing
+[26Dec2024 04:49:56.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yipodkkp8921]: Consuming argument `create:brass_tun`
+[26Dec2024 04:49:56.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04mdm12q0toq0]: started parsing
+[26Dec2024 04:49:56.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04mdm12q0toq0]: Consuming argument `create:brass_tu`
+[26Dec2024 04:49:56.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf0sm52qgwm1]: started parsing
+[26Dec2024 04:49:56.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf0sm52qgwm1]: Consuming argument `create:brass_t`
+[26Dec2024 04:49:56.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf5zdvkgv8pd]: started parsing
+[26Dec2024 04:49:56.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf5zdvkgv8pd]: Consuming argument `create:brass_`
+[26Dec2024 04:49:56.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17m5sn243pepv]: started parsing
+[26Dec2024 04:49:56.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17m5sn243pepv]: Consuming argument `create:brass_c`
+[26Dec2024 04:49:56.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gtm9p57ct9u]: started parsing
+[26Dec2024 04:49:56.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gtm9p57ct9u]: Consuming argument `create:brass_ca`
+[26Dec2024 04:49:56.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2h46ax6ej1j]: started parsing
+[26Dec2024 04:49:56.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2h46ax6ej1j]: Consuming argument `create:brass_cas`
+[26Dec2024 04:49:57.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0row2tlb7rvf0]: started parsing
+[26Dec2024 04:49:57.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0row2tlb7rvf0]: Consuming argument `create:brass_casing`
+[26Dec2024 04:49:57.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0row2tlb7rvf0]: Finished looking at arguments. Finalizing command.
+[26Dec2024 04:49:57.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[26Dec2024 04:49:57.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[26Dec2024 04:49:58.059] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/NiggLand/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23241!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[26Dec2024 04:50:36.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:50:36.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:50:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 19 entities]
+[26Dec2024 04:51:53.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[26Dec2024 04:51:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:52:15.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:55:35.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:55:35.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:55:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 17 entities]
+[26Dec2024 04:55:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Rotten Flesh]
+[26Dec2024 04:56:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[26Dec2024 04:57:14.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[26Dec2024 04:57:15.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/EquipmentSet
+[26Dec2024 04:57:15.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[26Dec2024 04:57:17.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[26Dec2024 04:57:17.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[26Dec2024 04:57:27.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=65, z=-1178} BlockPos{x=-168, y=66, z=-1178}
+[26Dec2024 04:57:27.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=65, z=-1178} BlockPos{x=-168, y=66, z=-1178}
+[26Dec2024 04:57:51.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:51.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:51.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=68, z=-1198} BlockPos{x=-180, y=68, z=-1197}
+[26Dec2024 04:57:55.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[26Dec2024 04:57:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[26Dec2024 04:57:58.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=66, z=-1196} BlockPos{x=-185, y=65, z=-1196}
+[26Dec2024 04:57:58.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=66, z=-1196} BlockPos{x=-185, y=65, z=-1196}
+[26Dec2024 04:57:59.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=67, z=-1196} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
+[26Dec2024 04:57:59.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=67, z=-1197} BlockPos{x=-185, y=66, z=-1196}
