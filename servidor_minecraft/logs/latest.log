@@ -1447,3 +1447,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 18:15:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 185 entities]
 [26Dec2024 18:16:12.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
 [26Dec2024 18:17:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 18:22:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 9 entities]
+[26Dec2024 18:22:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[26Dec2024 18:22:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[26Dec2024 18:26:27.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[26Dec2024 18:26:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
