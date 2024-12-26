@@ -10197,3 +10197,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 03:57:53.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
 [26Dec2024 03:58:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [26Dec2024 03:58:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[26Dec2024 03:58:53.485] [FastSuite Recipe Lookup Thread: 6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
+[26Dec2024 03:59:07.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[26Dec2024 03:59:11.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 03:59:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 03:59:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[26Dec2024 04:00:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[26Dec2024 04:00:35.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:00:36.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:01:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[26Dec2024 04:03:18.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:04:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[26Dec2024 04:05:35.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:05:36.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:06:58.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 6 entities]
+[26Dec2024 04:07:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[26Dec2024 04:08:15.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:08:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:08:30.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=13, z=-987} BlockPos{x=3, y=13, z=-987}
+[26Dec2024 04:08:30.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=13, z=-987} BlockPos{x=3, y=13, z=-987}
+[26Dec2024 04:08:31.274] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[26Dec2024 04:08:31.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=14, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=14, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=14, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=15, z=-990} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=15, z=-990} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=15, z=-990} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=15, z=-990} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:31.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=15, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:32.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=16, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:32.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=16, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:32.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=15, z=-989} BlockPos{x=2, y=14, z=-989}
+[26Dec2024 04:08:32.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=15, z=-989} BlockPos{x=2, y=14, z=-989}
