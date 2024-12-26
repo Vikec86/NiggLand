@@ -11115,3 +11115,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 18:36:19.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [26Dec2024 18:38:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [26Dec2024 18:38:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 18:38:45.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-69, y=100, z=-969} BlockPos{x=-67, y=98, z=-967}
+[26Dec2024 18:39:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 18:39:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 18:40:24.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 18:40:27.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 18:40:51.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:40:51.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:41:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 18:41:38.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:41:38.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:41:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[26Dec2024 18:42:48.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 18:42:52.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 18:44:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 18:44:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 18:45:30.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 18:45:39.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[26Dec2024 18:45:51.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:45:51.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:46:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 18:46:56.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13awhkbss4vq3]: started parsing
+[26Dec2024 18:46:56.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13awhkbss4vq3]: Consuming argument ``
+[26Dec2024 18:46:57.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d19tv3lkqv8o]: started parsing
+[26Dec2024 18:46:57.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d19tv3lkqv8o]: Consuming argument `0`
+[26Dec2024 18:46:57.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d19tv3lkqv8o]: Finished looking at arguments. Finalizing command.
+[26Dec2024 18:46:58.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cy1l5im4djsz]: started parsing
+[26Dec2024 18:46:58.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cy1l5im4djsz]: Consuming argument `0`
+[26Dec2024 18:46:58.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cy1l5im4djsz]: Finished looking at arguments. Finalizing command.
+[26Dec2024 18:47:35.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12gpfj85d5fpl]: started parsing
+[26Dec2024 18:47:35.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12gpfj85d5fpl]: Consuming argument ``
+[26Dec2024 18:47:35.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04jbmu5k8n647]: started parsing
+[26Dec2024 18:47:35.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04jbmu5k8n647]: Consuming argument `0`
+[26Dec2024 18:47:35.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04jbmu5k8n647]: Finished looking at arguments. Finalizing command.
+[26Dec2024 18:47:36.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tf1jbszw16rl]: started parsing
+[26Dec2024 18:47:36.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tf1jbszw16rl]: Consuming argument `0`
+[26Dec2024 18:47:36.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tf1jbszw16rl]: Finished looking at arguments. Finalizing command.
+[26Dec2024 18:47:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 18:48:27.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:48:27.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:48:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[26Dec2024 18:48:28.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
