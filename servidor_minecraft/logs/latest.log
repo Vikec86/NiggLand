@@ -971,3 +971,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Dec2024 04:17:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
 [26Dec2024 04:17:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
 [26Dec2024 04:18:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:21:15.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 7 entities]
+[26Dec2024 04:21:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 04:21:43.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[26Dec2024 04:21:51.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:21:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[26Dec2024 04:27:02.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[26Dec2024 04:27:30.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[26Dec2024 04:27:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[26Dec2024 04:28:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
