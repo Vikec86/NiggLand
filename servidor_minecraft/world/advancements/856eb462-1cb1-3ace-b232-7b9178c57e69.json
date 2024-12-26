@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/devils_hole_pupfish_bucket": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-25 23:51:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 23:57:14 +0000"
@@ -1448,6 +1454,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-23 23:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-25 23:53:54 +0000"
     },
     "done": true
   },
@@ -2909,6 +2921,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-25 22:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-25 23:53:54 +0000"
     },
     "done": true
   },
