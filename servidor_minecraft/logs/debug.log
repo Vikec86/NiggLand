@@ -10394,3 +10394,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 19:11:27.415] [FastSuite Recipe Lookup Thread: 1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
 [27Dec2024 19:11:31.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 19:11:31.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:13:50.895] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[27Dec2024 19:14:00.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[27Dec2024 19:14:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[27Dec2024 19:14:57.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[27Dec2024 19:14:58.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[27Dec2024 19:15:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[27Dec2024 19:15:19.890] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[27Dec2024 19:15:55.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[27Dec2024 19:15:55.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[27Dec2024 19:16:14.984] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[27Dec2024 19:16:14.995] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [095g9ii54trhf]: started parsing
+[27Dec2024 19:16:14.995] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [095g9ii54trhf]: Consuming argument ``
+[27Dec2024 19:16:15.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17uxya2nv1kth]: started parsing
+[27Dec2024 19:16:15.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17uxya2nv1kth]: Consuming argument `d`
+[27Dec2024 19:16:15.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0js0ncavph0ye]: started parsing
+[27Dec2024 19:16:15.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0js0ncavph0ye]: Consuming argument `de`
+[27Dec2024 19:16:15.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e512plnmsh3b]: started parsing
+[27Dec2024 19:16:15.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e512plnmsh3b]: Consuming argument `dee`
+[27Dec2024 19:16:17.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iiycrdyx616f]: started parsing
+[27Dec2024 19:16:17.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iiycrdyx616f]: Consuming argument `deepslate_`
+[27Dec2024 19:16:18.129] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jaz4kab4jplo]: started parsing
+[27Dec2024 19:16:18.129] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jaz4kab4jplo]: Consuming argument `deepslate_t`
+[27Dec2024 19:16:19.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vl0m4a8yacbf]: started parsing
+[27Dec2024 19:16:19.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vl0m4a8yacbf]: Consuming argument `deepslate_tile_stairs`
+[27Dec2024 19:16:19.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vl0m4a8yacbf]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:16:19.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[27Dec2024 19:16:19.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[27Dec2024 19:16:23.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 19:16:31.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:16:31.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:21:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 19:21:31.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:21:31.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
