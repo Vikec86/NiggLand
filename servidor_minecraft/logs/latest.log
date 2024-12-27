@@ -935,3 +935,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 19:16:19.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
 [27Dec2024 19:16:23.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [27Dec2024 19:21:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 19:25:06.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[27Dec2024 19:25:07.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[27Dec2024 19:25:25.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 19:25:27.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 20 entities]
+[27Dec2024 19:25:47.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/EquipmentSet
+[27Dec2024 19:25:47.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[27Dec2024 19:28:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 13 entities]
+[27Dec2024 19:28:34.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[27Dec2024 19:28:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
+[27Dec2024 19:30:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[27Dec2024 19:31:04.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 9 entities]
