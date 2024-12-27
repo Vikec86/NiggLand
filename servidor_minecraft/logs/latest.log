@@ -873,3 +873,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 02:56:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [27Dec2024 02:56:36.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [27Dec2024 02:57:28.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Dec2024 03:00:13.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[27Dec2024 03:01:20.527] [FastSuite Recipe Lookup Thread: 3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
+[27Dec2024 03:01:36.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 03:03:01.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[27Dec2024 03:03:02.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[27Dec2024 03:03:10.868] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[27Dec2024 03:03:11.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[27Dec2024 03:03:11.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[27Dec2024 03:03:34.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 13 entities]
+[27Dec2024 03:05:49.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 03:07:03.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
