@@ -932,3 +932,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 03:48:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
 [27Dec2024 03:48:54.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [27Dec2024 03:49:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[27Dec2024 03:53:38.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 03:54:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[27Dec2024 03:58:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
