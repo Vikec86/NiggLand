@@ -10202,3 +10202,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 03:37:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
 [27Dec2024 03:37:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [27Dec2024 03:38:50.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[27Dec2024 03:39:59.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 03:39:59.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 03:40:19.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[27Dec2024 03:40:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 15 entities]
+[27Dec2024 03:41:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[27Dec2024 03:42:01.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[27Dec2024 03:42:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[27Dec2024 03:43:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 03:43:53.636] [Worker-Main-55/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 03:43:54.620] [Worker-Main-55/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[27Dec2024 03:43:54.824] [Worker-Main-55/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[27Dec2024 03:43:56.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
+[27Dec2024 03:44:21.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[27Dec2024 03:44:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[27Dec2024 03:44:26.424] [Worker-Main-55/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[27Dec2024 03:44:38.601] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[27Dec2024 03:44:42.007] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_5
+[27Dec2024 03:44:42.048] [Worker-Main-73/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[27Dec2024 03:44:52.525] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:basalt_deltas/strider_altar_1
+[27Dec2024 03:45:00.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 03:45:00.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 03:45:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[27Dec2024 03:45:01.716] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Dec2024 03:45:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[27Dec2024 03:46:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[27Dec2024 03:46:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[27Dec2024 03:47:24.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD didn't want to live in the same world as Zombified Piglin
+[27Dec2024 03:47:24.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[27Dec2024 03:47:26.558] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[27Dec2024 03:48:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[27Dec2024 03:48:54.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[27Dec2024 03:49:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
