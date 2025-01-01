@@ -870,6 +870,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_kitchen_sink": {
+    "criteria": {
+      "has_top": "2025-01-01 19:56:01 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:33:04 +0000"
@@ -1143,6 +1149,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-23 17:26:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_cooler": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 19:56:01 +0000"
     },
     "done": true
   },
@@ -2005,6 +2017,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-01-01 19:55:28 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/blindsight_tounge_stew": {
     "criteria": {
       "has_tongue": "2024-12-23 17:03:18 +0000",
@@ -2803,6 +2821,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-01-01 19:55:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:33:04 +0000"
@@ -3131,6 +3155,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_coal_coke": {
     "criteria": {
       "has_coke": "2024-12-24 18:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-01-01 19:56:01 +0000"
     },
     "done": true
   },
