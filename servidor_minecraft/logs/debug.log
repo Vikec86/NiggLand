@@ -13160,3 +13160,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 20:19:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [01Jan2025 20:22:48.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 20:22:48.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 20:24:43.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 20:26:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 20:27:05.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[01Jan2025 20:27:20.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/utils/StatueDialog$Case
+[01Jan2025 20:27:20.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/contents/recipe/bargain/BargainResult$FailedReason
+[01Jan2025 20:27:48.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 20:27:48.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 20:28:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set own game mode to Survival Mode]
+[01Jan2025 20:28:28.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has completed the challenge [Hero of Hyrule]
+[01Jan2025 20:28:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set own game mode to Creative Mode]
+[01Jan2025 20:29:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set own game mode to Survival Mode]
+[01Jan2025 20:29:21.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set own game mode to Creative Mode]
+[01Jan2025 20:32:48.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 20:32:48.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

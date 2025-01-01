@@ -607,6 +607,7 @@
       "maple_woods": "2024-12-24 18:08:54 +0000",
       "field": "2024-12-23 18:38:21 +0000",
       "coniferous_forest": "2024-12-23 18:38:46 +0000",
+      "spider_nest": "2025-01-01 20:26:57 +0000",
       "cherry_blossom_grove": "2024-12-23 17:09:37 +0000",
       "seasonal_orchard": "2024-12-23 18:16:26 +0000",
       "seasonal_forest": "2024-12-23 18:17:27 +0000",
@@ -1131,6 +1132,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-24 16:38:34 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-01-01 20:28:28 +0000"
     },
     "done": true
   },
