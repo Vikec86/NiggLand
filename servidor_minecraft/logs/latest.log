@@ -1036,3 +1036,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 19:20:46.712] [Worker-Main-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
 [01Jan2025 19:21:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported L00m4 to Sanguchito666]
 [01Jan2025 19:21:56.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set own game mode to Creative Mode]
+[01Jan2025 19:22:32.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[01Jan2025 19:22:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[01Jan2025 19:24:58.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 19:25:09.107] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8386947
+[01Jan2025 19:25:09.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L00m4[/127.20.139.105:58483] logged in with entity id 23775 at (-154.742259885393, 75.04813634663417, -1089.7738741898718)
+[01Jan2025 19:25:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 joined the game
+[01Jan2025 19:25:09.347] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01Jan2025 19:25:09.354] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01Jan2025 19:25:09.355] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01Jan2025 19:25:09.355] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[01Jan2025 19:25:29.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 19:25:31.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[01Jan2025 19:26:06.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[01Jan2025 19:30:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 19:30:49.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 19:31:05.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[01Jan2025 19:31:11.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 19:31:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 19:32:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]

@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-01-01 19:20:06 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-23 23:10:46 +0000"
@@ -801,6 +807,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-25 20:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-01-01 19:20:06 +0000"
     },
     "done": true
   },
@@ -3110,6 +3122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-01-01 19:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-23 20:59:25 +0000"
@@ -5312,6 +5330,12 @@
     "criteria": {
       "requirement_2": "2024-12-23 17:35:57 +0000",
       "requirement_1": "2024-12-23 18:31:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 19:20:06 +0000"
     },
     "done": true
   },
@@ -9114,6 +9138,12 @@
   "cfm:recipes/cfm/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-23 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-01-01 19:20:06 +0000"
     },
     "done": true
   },
