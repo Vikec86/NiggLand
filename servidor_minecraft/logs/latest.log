@@ -1012,3 +1012,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 19:05:53.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the time to 1000]
 [01Jan2025 19:07:17.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [01Jan2025 19:12:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 19:15:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 19:15:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 19:17:18.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD lost connection: Disconnected
+[01Jan2025 19:17:18.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD left the game
+[01Jan2025 19:17:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanguchito666> wwwww
+[01Jan2025 19:18:41.605] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f1ed591
+[01Jan2025 19:18:41.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VIK_N_DA_HOOD[/127.24.19.102:32831] logged in with entity id 21975 at (-167.42246021750222, 74.52627202529983, -1102.6171138645661)
+[01Jan2025 19:18:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD joined the game
+[01Jan2025 19:18:41.724] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01Jan2025 19:18:41.732] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01Jan2025 19:18:41.732] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01Jan2025 19:18:41.733] [Server thread/INFO] [Jade/]: Syncing config to VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637)
+[01Jan2025 19:18:54.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[01Jan2025 19:20:08.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 19:20:24.048] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66124172
+[01Jan2025 19:20:24.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L00m4[/127.20.139.105:51887] logged in with entity id 22498 at (-2164.7158289434483, 79.83050451123871, -1004.1624986018218)
+[01Jan2025 19:20:24.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 joined the game
+[01Jan2025 19:20:24.153] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01Jan2025 19:20:24.154] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01Jan2025 19:20:24.155] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01Jan2025 19:20:24.155] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[01Jan2025 19:20:46.712] [Worker-Main-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[01Jan2025 19:21:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported L00m4 to Sanguchito666]
+[01Jan2025 19:21:56.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set own game mode to Creative Mode]
