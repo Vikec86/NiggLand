@@ -940,3 +940,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 21:16:07.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [01Jan2025 21:16:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
 [01Jan2025 21:16:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 21:18:03.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 21:18:32.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[01Jan2025 21:18:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[01Jan2025 21:19:22.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported 2 entities to VIK_N_DA_HOOD]
+[01Jan2025 21:19:27.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[01Jan2025 21:20:55.457] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a634f50
+[01Jan2025 21:20:55.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L00m4[/127.20.139.105:44579] logged in with entity id 2732 at (-169.26528495806713, 86.0, -1092.300000011921)
+[01Jan2025 21:20:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 joined the game
+[01Jan2025 21:20:55.638] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01Jan2025 21:20:55.639] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01Jan2025 21:20:55.639] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01Jan2025 21:20:55.640] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[01Jan2025 21:21:11.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Jan2025 21:21:37.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[01Jan2025 21:21:37.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[01Jan2025 21:21:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 21:22:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 21:22:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 21:23:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 21:25:25.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[01Jan2025 21:27:27.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 21:27:40.343] [Server thread/WARN] [opf/]: PacketOPFUpdate: TE not found
