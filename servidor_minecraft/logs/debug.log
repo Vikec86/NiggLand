@@ -11672,3 +11672,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 18:30:59.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v3n6skbxch5f]: started parsing
 [01Jan2025 18:30:59.089] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v3n6skbxch5f]: Consuming argument `black_wool`
 [01Jan2025 18:30:59.089] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v3n6skbxch5f]: Finished looking at arguments. Finalizing command.
+[01Jan2025 18:32:48.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 18:32:48.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 18:34:14.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 18:34:16.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 18:37:48.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 18:37:48.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 18:39:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

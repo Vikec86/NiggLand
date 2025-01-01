@@ -996,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-01 18:35:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 23:47:24 +0000"
@@ -1515,6 +1521,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-25 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 18:35:21 +0000"
     },
     "done": true
   },
@@ -2857,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-01-01 18:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-23 17:24:41 +0000"
@@ -3882,6 +3900,12 @@
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-23 21:44:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 18:30:35 +0000"
     },
     "done": true
   },
@@ -4917,6 +4941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-01 18:35:21 +0000"
+    },
+    "done": true
+  },
   "inventorypets:5": {
     "criteria": {
       "example": "2024-12-25 01:28:15 +0000"
@@ -5273,6 +5303,12 @@
   "cfm:recipes/cfm/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-25 18:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-01 18:35:21 +0000"
     },
     "done": true
   },
@@ -5756,6 +5792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-01-01 18:30:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2024-12-23 17:29:44 +0000"
@@ -6005,6 +6047,12 @@
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2024-12-23 20:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-01-01 18:30:35 +0000"
     },
     "done": true
   },
