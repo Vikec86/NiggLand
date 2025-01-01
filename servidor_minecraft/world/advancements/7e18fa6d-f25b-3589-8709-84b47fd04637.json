@@ -2722,6 +2722,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/pink_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 21:25:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
     "criteria": {
       "has_hammer": "2024-12-23 21:19:03 +0000"
@@ -6852,6 +6858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-01-01 21:25:25 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:56:04 +0000"
@@ -7529,6 +7541,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-25 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-01-01 21:25:58 +0000"
     },
     "done": true
   },
@@ -8903,6 +8921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-01-01 21:25:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 17:44:43 +0000"
@@ -9084,6 +9108,12 @@
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2024-12-23 23:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-01-01 21:25:25 +0000"
     },
     "done": true
   },
