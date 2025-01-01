@@ -10474,3 +10474,429 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 17:41:01.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3gnfdymg10b]: started parsing
 [01Jan2025 17:41:01.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3gnfdymg10b]: Consuming argument `grass_block`
 [01Jan2025 17:41:01.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3gnfdymg10b]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:41:16.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18r8c6f9epod7]: started parsing
+[01Jan2025 17:41:16.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18r8c6f9epod7]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:41:16.680] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/function/operation/ChangeSetExecutor$Type
+[01Jan2025 17:41:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 17:41:50.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 17:41:54.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fglp4i1ebbsr]: started parsing
+[01Jan2025 17:41:54.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fglp4i1ebbsr]: Consuming argument ``
+[01Jan2025 17:41:54.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05jt693wsizsb]: started parsing
+[01Jan2025 17:41:54.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05jt693wsizsb]: Consuming argument `g`
+[01Jan2025 17:41:54.268] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztrbyzn6q8zm]: started parsing
+[01Jan2025 17:41:54.268] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztrbyzn6q8zm]: Consuming argument `gr`
+[01Jan2025 17:41:54.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akrpfymtyk2w]: started parsing
+[01Jan2025 17:41:54.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akrpfymtyk2w]: Consuming argument `gra`
+[01Jan2025 17:41:54.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jdal9mjwm76c]: started parsing
+[01Jan2025 17:41:54.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jdal9mjwm76c]: Consuming argument `gras`
+[01Jan2025 17:41:55.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y61fw11pul0d]: started parsing
+[01Jan2025 17:41:55.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y61fw11pul0d]: Consuming argument `grass_block`
+[01Jan2025 17:41:55.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y61fw11pul0d]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:41:57.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 17:42:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 17:42:15.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w3x0tuduvcne]: started parsing
+[01Jan2025 17:42:15.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w3x0tuduvcne]: Consuming argument ``
+[01Jan2025 17:42:16.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hbe4il5vmay]: started parsing
+[01Jan2025 17:42:16.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hbe4il5vmay]: Consuming argument `0`
+[01Jan2025 17:42:16.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hbe4il5vmay]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:42:16.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vi0py143kvz6]: started parsing
+[01Jan2025 17:42:16.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vi0py143kvz6]: Consuming argument `0`
+[01Jan2025 17:42:16.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vi0py143kvz6]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:42:23.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 17:42:48.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 17:42:48.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 17:42:50.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091khxoc1yhwi]: started parsing
+[01Jan2025 17:42:50.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091khxoc1yhwi]: Consuming argument ``
+[01Jan2025 17:42:50.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prcehobyf7ia]: started parsing
+[01Jan2025 17:42:50.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prcehobyf7ia]: Consuming argument `g`
+[01Jan2025 17:42:50.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1198g7347yz8k]: started parsing
+[01Jan2025 17:42:50.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1198g7347yz8k]: Consuming argument `gl`
+[01Jan2025 17:42:50.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sq0jrulu4hii]: started parsing
+[01Jan2025 17:42:50.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sq0jrulu4hii]: Consuming argument `gla`
+[01Jan2025 17:42:50.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cgdro1dic3kv]: started parsing
+[01Jan2025 17:42:50.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cgdro1dic3kv]: Consuming argument `glas`
+[01Jan2025 17:42:51.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1222t0j7ylxty]: started parsing
+[01Jan2025 17:42:51.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1222t0j7ylxty]: Consuming argument `glass`
+[01Jan2025 17:42:51.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1222t0j7ylxty]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:43:05.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idjz895ypqi0]: started parsing
+[01Jan2025 17:43:05.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idjz895ypqi0]: Consuming argument ``
+[01Jan2025 17:43:05.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2zx7ydaa1xp]: started parsing
+[01Jan2025 17:43:05.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q2zx7ydaa1xp]: Consuming argument `g`
+[01Jan2025 17:43:05.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m9xzub91rymx]: started parsing
+[01Jan2025 17:43:05.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m9xzub91rymx]: Consuming argument `gl`
+[01Jan2025 17:43:06.587] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfxbt443i9o0]: started parsing
+[01Jan2025 17:43:06.587] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfxbt443i9o0]: Consuming argument `glass`
+[01Jan2025 17:43:06.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfxbt443i9o0]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:43:14.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sj40a7t1c1w1]: started parsing
+[01Jan2025 17:43:14.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sj40a7t1c1w1]: Consuming argument ``
+[01Jan2025 17:43:15.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0op1jzf9ikik5]: started parsing
+[01Jan2025 17:43:15.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0op1jzf9ikik5]: Consuming argument `g`
+[01Jan2025 17:43:15.285] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18laf93xqiby7]: started parsing
+[01Jan2025 17:43:15.285] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18laf93xqiby7]: Consuming argument `gl`
+[01Jan2025 17:43:15.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nwyvwrzvysrh]: started parsing
+[01Jan2025 17:43:15.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nwyvwrzvysrh]: Consuming argument `gla`
+[01Jan2025 17:43:15.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk9l5xkdty1i]: started parsing
+[01Jan2025 17:43:15.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk9l5xkdty1i]: Consuming argument `glas`
+[01Jan2025 17:43:16.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wlsbfuxlx1p]: started parsing
+[01Jan2025 17:43:16.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wlsbfuxlx1p]: Consuming argument `glass`
+[01Jan2025 17:43:16.085] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wlsbfuxlx1p]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:43:28.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8s3boiptcyp]: started parsing
+[01Jan2025 17:43:28.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8s3boiptcyp]: Consuming argument ``
+[01Jan2025 17:43:28.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0alo3ip5xnn3a]: started parsing
+[01Jan2025 17:43:28.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0alo3ip5xnn3a]: Consuming argument `0`
+[01Jan2025 17:43:28.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0alo3ip5xnn3a]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:43:29.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ojliy7lifdnr]: started parsing
+[01Jan2025 17:43:29.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ojliy7lifdnr]: Consuming argument `0`
+[01Jan2025 17:43:29.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ojliy7lifdnr]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:12.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [024amn9qyrakn]: started parsing
+[01Jan2025 17:44:12.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [024amn9qyrakn]: Consuming argument ``
+[01Jan2025 17:44:17.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tsood857iga7]: started parsing
+[01Jan2025 17:44:17.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tsood857iga7]: Consuming argument `m`
+[01Jan2025 17:44:21.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jgsdvb8mvnnx]: started parsing
+[01Jan2025 17:44:21.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jgsdvb8mvnnx]: Consuming argument `magenta_concrete`
+[01Jan2025 17:44:21.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jgsdvb8mvnnx]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:31.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11gukqq0i9t32]: started parsing
+[01Jan2025 17:44:31.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11gukqq0i9t32]: Consuming argument ``
+[01Jan2025 17:44:32.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nw79xv3ch7cf]: started parsing
+[01Jan2025 17:44:32.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nw79xv3ch7cf]: Consuming argument `d`
+[01Jan2025 17:44:32.285] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xj8xhqtzm3of]: started parsing
+[01Jan2025 17:44:32.285] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xj8xhqtzm3of]: Consuming argument `di`
+[01Jan2025 17:44:32.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l17ik6ew4sii]: started parsing
+[01Jan2025 17:44:32.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l17ik6ew4sii]: Consuming argument `dia`
+[01Jan2025 17:44:34.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ike03lxyz2dy]: started parsing
+[01Jan2025 17:44:34.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ike03lxyz2dy]: Consuming argument `diamond_block`
+[01Jan2025 17:44:34.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ike03lxyz2dy]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:37.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1chxed0ko6uib]: started parsing
+[01Jan2025 17:44:37.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1chxed0ko6uib]: Consuming argument ``
+[01Jan2025 17:44:37.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g2ghswp5nfh9]: started parsing
+[01Jan2025 17:44:37.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g2ghswp5nfh9]: Consuming argument `d`
+[01Jan2025 17:44:37.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u0mhoxk5g0wp]: started parsing
+[01Jan2025 17:44:37.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u0mhoxk5g0wp]: Consuming argument `di`
+[01Jan2025 17:44:38.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s8u0slivu1zx]: started parsing
+[01Jan2025 17:44:38.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s8u0slivu1zx]: Consuming argument `diamond_block`
+[01Jan2025 17:44:38.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s8u0slivu1zx]: Consuming argument ``
+[01Jan2025 17:44:38.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s8u0slivu1zx]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c3q9jdalfha9]: started parsing
+[01Jan2025 17:44:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c3q9jdalfha9]: Consuming argument `diamond_block`
+[01Jan2025 17:44:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c3q9jdalfha9]: Consuming argument `a`
+[01Jan2025 17:44:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c3q9jdalfha9]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:40.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04cfr69td4jrx]: started parsing
+[01Jan2025 17:44:40.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04cfr69td4jrx]: Consuming argument `diamond_block`
+[01Jan2025 17:44:40.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04cfr69td4jrx]: Consuming argument `as`
+[01Jan2025 17:44:40.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04cfr69td4jrx]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:40.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p8dz2l7b0k3w]: started parsing
+[01Jan2025 17:44:40.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p8dz2l7b0k3w]: Consuming argument `diamond_block`
+[01Jan2025 17:44:40.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p8dz2l7b0k3w]: Consuming argument `asd`
+[01Jan2025 17:44:40.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p8dz2l7b0k3w]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:41.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15nqdal6s5mdk]: started parsing
+[01Jan2025 17:44:41.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15nqdal6s5mdk]: Consuming argument `diamond_block`
+[01Jan2025 17:44:41.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15nqdal6s5mdk]: Consuming argument `as`
+[01Jan2025 17:44:41.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15nqdal6s5mdk]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:41.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17jelysp4dyo6]: started parsing
+[01Jan2025 17:44:41.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17jelysp4dyo6]: Consuming argument `diamond_block`
+[01Jan2025 17:44:41.739] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17jelysp4dyo6]: Consuming argument `a`
+[01Jan2025 17:44:41.739] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17jelysp4dyo6]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:42.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142tm70rcd8q9]: started parsing
+[01Jan2025 17:44:42.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142tm70rcd8q9]: Consuming argument `diamond_block`
+[01Jan2025 17:44:42.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142tm70rcd8q9]: Consuming argument ``
+[01Jan2025 17:44:42.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142tm70rcd8q9]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:49.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5rfe6guy96a]: started parsing
+[01Jan2025 17:44:49.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5rfe6guy96a]: Consuming argument `diamond_block`
+[01Jan2025 17:44:49.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5rfe6guy96a]: Consuming argument `3`
+[01Jan2025 17:44:49.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5rfe6guy96a]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:49.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y9adm4ez0jwd]: started parsing
+[01Jan2025 17:44:49.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y9adm4ez0jwd]: Consuming argument `diamond_block`
+[01Jan2025 17:44:49.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y9adm4ez0jwd]: Consuming argument `34`
+[01Jan2025 17:44:49.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y9adm4ez0jwd]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yntl681llo1]: started parsing
+[01Jan2025 17:44:50.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yntl681llo1]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yntl681llo1]: Consuming argument `343`
+[01Jan2025 17:44:50.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yntl681llo1]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18b251gxdswoo]: started parsing
+[01Jan2025 17:44:50.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18b251gxdswoo]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18b251gxdswoo]: Consuming argument `3434`
+[01Jan2025 17:44:50.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18b251gxdswoo]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [150xg80d9wxxa]: started parsing
+[01Jan2025 17:44:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [150xg80d9wxxa]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [150xg80d9wxxa]: Consuming argument `34343`
+[01Jan2025 17:44:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [150xg80d9wxxa]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ehmy05x71d3h]: started parsing
+[01Jan2025 17:44:50.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ehmy05x71d3h]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ehmy05x71d3h]: Consuming argument `343434`
+[01Jan2025 17:44:50.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ehmy05x71d3h]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18x3w6e364b9l]: started parsing
+[01Jan2025 17:44:50.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18x3w6e364b9l]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18x3w6e364b9l]: Consuming argument `3434343`
+[01Jan2025 17:44:50.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18x3w6e364b9l]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rdwpiabmyysy]: started parsing
+[01Jan2025 17:44:50.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rdwpiabmyysy]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rdwpiabmyysy]: Consuming argument `34343434`
+[01Jan2025 17:44:50.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rdwpiabmyysy]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fk7tqfawt71u]: started parsing
+[01Jan2025 17:44:50.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fk7tqfawt71u]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fk7tqfawt71u]: Consuming argument `34343434`
+[01Jan2025 17:44:50.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fk7tqfawt71u]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:50.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08mmz23vu9dqf]: started parsing
+[01Jan2025 17:44:50.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08mmz23vu9dqf]: Consuming argument `diamond_block`
+[01Jan2025 17:44:50.986] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08mmz23vu9dqf]: Consuming argument `34343434`
+[01Jan2025 17:44:50.986] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08mmz23vu9dqf]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aa8xn9zr0v09]: started parsing
+[01Jan2025 17:44:51.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aa8xn9zr0v09]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aa8xn9zr0v09]: Consuming argument `34343434`
+[01Jan2025 17:44:51.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aa8xn9zr0v09]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d81pwniwa9cc]: started parsing
+[01Jan2025 17:44:51.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d81pwniwa9cc]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d81pwniwa9cc]: Consuming argument `34343434`
+[01Jan2025 17:44:51.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d81pwniwa9cc]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tk28pqhu8tiw]: started parsing
+[01Jan2025 17:44:51.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tk28pqhu8tiw]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tk28pqhu8tiw]: Consuming argument `34343434`
+[01Jan2025 17:44:51.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tk28pqhu8tiw]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiyijg1sxzlz]: started parsing
+[01Jan2025 17:44:51.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiyijg1sxzlz]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiyijg1sxzlz]: Consuming argument `34343434`
+[01Jan2025 17:44:51.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiyijg1sxzlz]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hsy7yc7ye7n7]: started parsing
+[01Jan2025 17:44:51.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hsy7yc7ye7n7]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hsy7yc7ye7n7]: Consuming argument `34343434`
+[01Jan2025 17:44:51.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hsy7yc7ye7n7]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07gdftbw5bz2g]: started parsing
+[01Jan2025 17:44:51.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07gdftbw5bz2g]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07gdftbw5bz2g]: Consuming argument `34343434`
+[01Jan2025 17:44:51.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07gdftbw5bz2g]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nxg2gljeafs5]: started parsing
+[01Jan2025 17:44:51.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nxg2gljeafs5]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nxg2gljeafs5]: Consuming argument `34343434`
+[01Jan2025 17:44:51.596] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nxg2gljeafs5]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11fpkxnr4fd3i]: started parsing
+[01Jan2025 17:44:51.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11fpkxnr4fd3i]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11fpkxnr4fd3i]: Consuming argument `34343434`
+[01Jan2025 17:44:51.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11fpkxnr4fd3i]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [124u3uutng8kp]: started parsing
+[01Jan2025 17:44:51.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [124u3uutng8kp]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [124u3uutng8kp]: Consuming argument `34343434`
+[01Jan2025 17:44:51.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [124u3uutng8kp]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:51.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1az8hbwj5ngxn]: started parsing
+[01Jan2025 17:44:51.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1az8hbwj5ngxn]: Consuming argument `diamond_block`
+[01Jan2025 17:44:51.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1az8hbwj5ngxn]: Consuming argument `34343434`
+[01Jan2025 17:44:51.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1az8hbwj5ngxn]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:52.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u1rpnh68p4gr]: started parsing
+[01Jan2025 17:44:52.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u1rpnh68p4gr]: Consuming argument `diamond_block`
+[01Jan2025 17:44:52.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u1rpnh68p4gr]: Consuming argument `34343434`
+[01Jan2025 17:44:52.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u1rpnh68p4gr]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:52.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032f19ngu01rg]: started parsing
+[01Jan2025 17:44:52.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032f19ngu01rg]: Consuming argument `diamond_block`
+[01Jan2025 17:44:52.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032f19ngu01rg]: Consuming argument `34343434`
+[01Jan2025 17:44:52.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032f19ngu01rg]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:52.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0irpyi0oztdyn]: started parsing
+[01Jan2025 17:44:52.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0irpyi0oztdyn]: Consuming argument `diamond_block`
+[01Jan2025 17:44:52.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0irpyi0oztdyn]: Consuming argument `34343434`
+[01Jan2025 17:44:52.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0irpyi0oztdyn]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:52.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y6hmjrnw2081]: started parsing
+[01Jan2025 17:44:52.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y6hmjrnw2081]: Consuming argument `diamond_block`
+[01Jan2025 17:44:52.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y6hmjrnw2081]: Consuming argument `34343434`
+[01Jan2025 17:44:52.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y6hmjrnw2081]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:44:52.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/antlr4/runtime/CodePointBuffer$Type
+[01Jan2025 17:44:52.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/antlr4/runtime/atn/ATNType
+[01Jan2025 17:44:52.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/antlr4/runtime/atn/ATNDeserializer$UnicodeDeserializingMode
+[01Jan2025 17:44:52.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/antlr4/runtime/atn/LexerActionType
+[01Jan2025 17:44:52.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/antlr4/runtime/atn/PredictionMode
+[01Jan2025 17:45:04.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lt3jl2c8695f]: started parsing
+[01Jan2025 17:45:04.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lt3jl2c8695f]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:45:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 17:45:41.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4t6x8mp0qw2]: started parsing
+[01Jan2025 17:45:41.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4t6x8mp0qw2]: Consuming argument ``
+[01Jan2025 17:45:41.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p0spob35ydyd]: started parsing
+[01Jan2025 17:45:41.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p0spob35ydyd]: Consuming argument `g`
+[01Jan2025 17:45:41.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fjz50y2sbs8]: started parsing
+[01Jan2025 17:45:41.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fjz50y2sbs8]: Consuming argument `gl`
+[01Jan2025 17:45:42.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhk9op6prhlz]: started parsing
+[01Jan2025 17:45:42.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhk9op6prhlz]: Consuming argument `glass`
+[01Jan2025 17:45:42.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhk9op6prhlz]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:45:57.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jdwo7wduwwy]: started parsing
+[01Jan2025 17:45:57.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07jdwo7wduwwy]: Consuming argument ``
+[01Jan2025 17:45:57.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xxxskke7qn84]: started parsing
+[01Jan2025 17:45:57.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xxxskke7qn84]: Consuming argument `g`
+[01Jan2025 17:45:58.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sgig0byggrkq]: started parsing
+[01Jan2025 17:45:58.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sgig0byggrkq]: Consuming argument `gl`
+[01Jan2025 17:45:58.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dd502yrj88l5]: started parsing
+[01Jan2025 17:45:58.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dd502yrj88l5]: Consuming argument `glass`
+[01Jan2025 17:45:58.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dd502yrj88l5]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:46:12.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 17:46:22.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bceol3vjucor]: started parsing
+[01Jan2025 17:46:22.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bceol3vjucor]: Consuming argument ``
+[01Jan2025 17:46:22.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15f750b3p4wk8]: started parsing
+[01Jan2025 17:46:22.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15f750b3p4wk8]: Consuming argument `0`
+[01Jan2025 17:46:22.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15f750b3p4wk8]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:46:23.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143de9lqpn1il]: started parsing
+[01Jan2025 17:46:23.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143de9lqpn1il]: Consuming argument `0`
+[01Jan2025 17:46:23.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143de9lqpn1il]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:46:46.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mj5j6zst901i]: started parsing
+[01Jan2025 17:46:46.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mj5j6zst901i]: Consuming argument ``
+[01Jan2025 17:46:46.434] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9z185h64ary]: started parsing
+[01Jan2025 17:46:46.434] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9z185h64ary]: Consuming argument `0`
+[01Jan2025 17:46:46.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9z185h64ary]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:46:46.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjx0enys1xr1]: started parsing
+[01Jan2025 17:46:46.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjx0enys1xr1]: Consuming argument `0`
+[01Jan2025 17:46:46.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjx0enys1xr1]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:46:55.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17h76w5oh1em4]: started parsing
+[01Jan2025 17:46:55.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17h76w5oh1em4]: Consuming argument ``
+[01Jan2025 17:46:55.785] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ikvhj5brcyp3]: started parsing
+[01Jan2025 17:46:55.785] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ikvhj5brcyp3]: Consuming argument `0`
+[01Jan2025 17:46:55.785] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ikvhj5brcyp3]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:46:56.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08l94pg66vm0d]: started parsing
+[01Jan2025 17:46:56.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08l94pg66vm0d]: Consuming argument `0`
+[01Jan2025 17:46:56.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08l94pg66vm0d]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:47:11.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hj18b5qalmvg]: started parsing
+[01Jan2025 17:47:11.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hj18b5qalmvg]: Consuming argument ``
+[01Jan2025 17:47:12.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qfqf67jrskfy]: started parsing
+[01Jan2025 17:47:12.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qfqf67jrskfy]: Consuming argument `0`
+[01Jan2025 17:47:12.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qfqf67jrskfy]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:47:12.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bycvk5ipxd9f]: started parsing
+[01Jan2025 17:47:12.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bycvk5ipxd9f]: Consuming argument `0`
+[01Jan2025 17:47:12.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bycvk5ipxd9f]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:47:24.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgjabrjwaeas]: started parsing
+[01Jan2025 17:47:24.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgjabrjwaeas]: Consuming argument ``
+[01Jan2025 17:47:24.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0coj9qvp3ogdk]: started parsing
+[01Jan2025 17:47:24.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0coj9qvp3ogdk]: Consuming argument `g`
+[01Jan2025 17:47:25.043] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tsflj0ht0ui]: started parsing
+[01Jan2025 17:47:25.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tsflj0ht0ui]: Consuming argument `gr`
+[01Jan2025 17:47:25.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ls3vle6idyb3]: started parsing
+[01Jan2025 17:47:25.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ls3vle6idyb3]: Consuming argument `gra`
+[01Jan2025 17:47:25.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddx398l5kji3]: started parsing
+[01Jan2025 17:47:25.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddx398l5kji3]: Consuming argument `gras`
+[01Jan2025 17:47:26.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cllfbq4h04sb]: started parsing
+[01Jan2025 17:47:26.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cllfbq4h04sb]: Consuming argument `grass_block`
+[01Jan2025 17:47:26.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cllfbq4h04sb]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:47:46.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ivq17ty9va7t]: started parsing
+[01Jan2025 17:47:46.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ivq17ty9va7t]: Consuming argument ``
+[01Jan2025 17:47:46.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ij4dp6bg934]: started parsing
+[01Jan2025 17:47:46.894] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ij4dp6bg934]: Consuming argument `g`
+[01Jan2025 17:47:47.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s9xxmonc9acl]: started parsing
+[01Jan2025 17:47:47.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s9xxmonc9acl]: Consuming argument `gr`
+[01Jan2025 17:47:47.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ymizhu8q2iz6]: started parsing
+[01Jan2025 17:47:47.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ymizhu8q2iz6]: Consuming argument `gra`
+[01Jan2025 17:47:47.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uw48cnxc4azm]: started parsing
+[01Jan2025 17:47:47.336] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uw48cnxc4azm]: Consuming argument `gras`
+[01Jan2025 17:47:47.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iavunl21vull]: started parsing
+[01Jan2025 17:47:47.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iavunl21vull]: Consuming argument `grass_block`
+[01Jan2025 17:47:47.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iavunl21vull]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:47:48.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 17:47:48.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 17:48:03.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iaxws07u3chh]: started parsing
+[01Jan2025 17:48:03.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iaxws07u3chh]: Consuming argument ``
+[01Jan2025 17:48:05.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tt732af2ws5k]: started parsing
+[01Jan2025 17:48:05.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tt732af2ws5k]: Consuming argument `g`
+[01Jan2025 17:48:05.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s71ucupyy43o]: started parsing
+[01Jan2025 17:48:05.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s71ucupyy43o]: Consuming argument `ge`
+[01Jan2025 17:48:05.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fjby0qv37mf]: started parsing
+[01Jan2025 17:48:05.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fjby0qv37mf]: Consuming argument `gea`
+[01Jan2025 17:48:05.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wzshy3r9lv6]: started parsing
+[01Jan2025 17:48:05.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12wzshy3r9lv6]: Consuming argument `geas`
+[01Jan2025 17:48:06.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03eyjnyks6mcy]: started parsing
+[01Jan2025 17:48:06.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03eyjnyks6mcy]: Consuming argument `gea`
+[01Jan2025 17:48:06.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k2uvlielw6do]: started parsing
+[01Jan2025 17:48:06.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k2uvlielw6do]: Consuming argument `ge`
+[01Jan2025 17:48:06.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r9mu0xn3d4hc]: started parsing
+[01Jan2025 17:48:06.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r9mu0xn3d4hc]: Consuming argument `g`
+[01Jan2025 17:48:07.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ze8oh65gccy]: started parsing
+[01Jan2025 17:48:07.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ze8oh65gccy]: Consuming argument `gr`
+[01Jan2025 17:48:07.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hoiy3k9q9q8i]: started parsing
+[01Jan2025 17:48:07.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hoiy3k9q9q8i]: Consuming argument `gra`
+[01Jan2025 17:48:07.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11sofcgpa2q9y]: started parsing
+[01Jan2025 17:48:07.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11sofcgpa2q9y]: Consuming argument `gras`
+[01Jan2025 17:48:08.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu2a6h5p9g82]: started parsing
+[01Jan2025 17:48:08.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu2a6h5p9g82]: Consuming argument `grass_block`
+[01Jan2025 17:48:08.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu2a6h5p9g82]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:48:16.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ebrm9erh2k2a]: started parsing
+[01Jan2025 17:48:16.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ebrm9erh2k2a]: Consuming argument ``
+[01Jan2025 17:48:17.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yc70x8sw15mo]: started parsing
+[01Jan2025 17:48:17.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yc70x8sw15mo]: Consuming argument `g`
+[01Jan2025 17:48:17.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1klnw2jon88hr]: started parsing
+[01Jan2025 17:48:17.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1klnw2jon88hr]: Consuming argument `gl`
+[01Jan2025 17:48:17.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c3d34ucw3wq7]: started parsing
+[01Jan2025 17:48:17.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c3d34ucw3wq7]: Consuming argument `gla`
+[01Jan2025 17:48:18.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c87upmdg9816]: started parsing
+[01Jan2025 17:48:18.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c87upmdg9816]: Consuming argument `glas`
+[01Jan2025 17:48:18.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g3yra2kbeq8l]: started parsing
+[01Jan2025 17:48:18.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g3yra2kbeq8l]: Consuming argument `glass`
+[01Jan2025 17:48:18.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g3yra2kbeq8l]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:48:33.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wv8y7h4dalgs]: started parsing
+[01Jan2025 17:48:33.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wv8y7h4dalgs]: Consuming argument ``
+[01Jan2025 17:48:33.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18o26fnna3pbj]: started parsing
+[01Jan2025 17:48:33.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18o26fnna3pbj]: Consuming argument `g`
+[01Jan2025 17:48:33.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0105xf5xv3hje]: started parsing
+[01Jan2025 17:48:33.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0105xf5xv3hje]: Consuming argument `gl`
+[01Jan2025 17:48:33.589] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgy86axu3aaz]: started parsing
+[01Jan2025 17:48:33.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgy86axu3aaz]: Consuming argument `gla`
+[01Jan2025 17:48:33.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0maz0wxi636uy]: started parsing
+[01Jan2025 17:48:33.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0maz0wxi636uy]: Consuming argument `glas`
+[01Jan2025 17:48:34.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3rbbozuf9bx]: started parsing
+[01Jan2025 17:48:34.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3rbbozuf9bx]: Consuming argument `glass`
+[01Jan2025 17:48:34.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3rbbozuf9bx]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:48:51.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tldawroihi2i]: started parsing
+[01Jan2025 17:48:51.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tldawroihi2i]: Consuming argument ``
+[01Jan2025 17:48:51.285] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nx2xciyex641]: started parsing
+[01Jan2025 17:48:51.285] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nx2xciyex641]: Consuming argument `g`
+[01Jan2025 17:48:51.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02g1txrbswomg]: started parsing
+[01Jan2025 17:48:51.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02g1txrbswomg]: Consuming argument ``
+[01Jan2025 17:48:52.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gxy59p71jl8]: started parsing
+[01Jan2025 17:48:52.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gxy59p71jl8]: Consuming argument `0`
+[01Jan2025 17:48:52.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gxy59p71jl8]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:48:52.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03slik485uqga]: started parsing
+[01Jan2025 17:48:52.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03slik485uqga]: Consuming argument `0`
+[01Jan2025 17:48:52.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03slik485uqga]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:49:07.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dj96etvx3r6o]: started parsing
+[01Jan2025 17:49:07.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dj96etvx3r6o]: Consuming argument ``
+[01Jan2025 17:49:07.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qxqwit4gw2ma]: started parsing
+[01Jan2025 17:49:07.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qxqwit4gw2ma]: Consuming argument `g`
+[01Jan2025 17:49:08.863] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ioo89kcdav1]: started parsing
+[01Jan2025 17:49:08.863] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ioo89kcdav1]: Consuming argument `gr`
+[01Jan2025 17:49:09.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j9pv5bi0jsgn]: started parsing
+[01Jan2025 17:49:09.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j9pv5bi0jsgn]: Consuming argument `gra`
+[01Jan2025 17:49:09.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ao42cdfbspwh]: started parsing
+[01Jan2025 17:49:09.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ao42cdfbspwh]: Consuming argument `gras`
+[01Jan2025 17:49:09.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ptn23dp5t4t]: started parsing
+[01Jan2025 17:49:09.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ptn23dp5t4t]: Consuming argument `grass_block`
+[01Jan2025 17:49:09.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09ptn23dp5t4t]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:49:25.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bsdcg8y11qax]: started parsing
+[01Jan2025 17:49:25.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bsdcg8y11qax]: Consuming argument ``
+[01Jan2025 17:49:25.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0odo2zfig3rq6]: started parsing
+[01Jan2025 17:49:25.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0odo2zfig3rq6]: Consuming argument `g`
+[01Jan2025 17:49:25.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gw8jsv6zkhzh]: started parsing
+[01Jan2025 17:49:25.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gw8jsv6zkhzh]: Consuming argument `gr`
+[01Jan2025 17:49:25.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzoian0zi52w]: started parsing
+[01Jan2025 17:49:25.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzoian0zi52w]: Consuming argument `gra`
+[01Jan2025 17:49:25.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvxmint2ocq1]: started parsing
+[01Jan2025 17:49:25.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvxmint2ocq1]: Consuming argument `gras`
+[01Jan2025 17:49:26.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14bvgp9c27lv4]: started parsing
+[01Jan2025 17:49:26.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14bvgp9c27lv4]: Consuming argument `grass_block`
+[01Jan2025 17:49:26.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14bvgp9c27lv4]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:49:48.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06o49dtffihyv]: started parsing
+[01Jan2025 17:49:48.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06o49dtffihyv]: Consuming argument ``
+[01Jan2025 17:49:48.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ebitca8x2uqj]: started parsing
+[01Jan2025 17:49:48.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ebitca8x2uqj]: Consuming argument `g`
+[01Jan2025 17:49:48.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mck3b9u0lzeu]: started parsing
+[01Jan2025 17:49:48.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mck3b9u0lzeu]: Consuming argument `gr`
+[01Jan2025 17:49:49.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kouybcrmez1]: started parsing
+[01Jan2025 17:49:49.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03kouybcrmez1]: Consuming argument `gra`
+[01Jan2025 17:49:49.193] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tjfc6f57qbz4]: started parsing
+[01Jan2025 17:49:49.193] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tjfc6f57qbz4]: Consuming argument `gras`
+[01Jan2025 17:49:49.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxefusqw81uv]: started parsing
+[01Jan2025 17:49:49.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxefusqw81uv]: Consuming argument `grass_block`
+[01Jan2025 17:49:49.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxefusqw81uv]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:50:00.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r0arrxdiy8eq]: started parsing
+[01Jan2025 17:50:00.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r0arrxdiy8eq]: Consuming argument ``
+[01Jan2025 17:50:01.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxjnp62l8c3s]: started parsing
+[01Jan2025 17:50:01.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxjnp62l8c3s]: Consuming argument `g`
+[01Jan2025 17:50:01.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p649d5mlszc5]: started parsing
+[01Jan2025 17:50:01.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p649d5mlszc5]: Consuming argument `gr`
+[01Jan2025 17:50:01.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eipdqax7fmt6]: started parsing
+[01Jan2025 17:50:01.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eipdqax7fmt6]: Consuming argument `gra`
+[01Jan2025 17:50:01.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15izbuq0gntar]: started parsing
+[01Jan2025 17:50:01.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15izbuq0gntar]: Consuming argument `gras`
+[01Jan2025 17:50:02.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjmx6s5pp78a]: started parsing
+[01Jan2025 17:50:02.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjmx6s5pp78a]: Consuming argument `grass_block`
+[01Jan2025 17:50:02.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjmx6s5pp78a]: Finished looking at arguments. Finalizing command.
+[01Jan2025 17:50:32.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 17:51:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
