@@ -10128,3 +10128,61 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 02:53:17.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 02:53:18.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 02:53:24.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 02:58:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 02:58:17.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 02:58:17.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 03:00:03.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Jan2025 03:00:28.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[01Jan2025 03:00:48.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/InputType
+[01Jan2025 03:00:48.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/HandSide
+[01Jan2025 03:01:24.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/Interaction
+[01Jan2025 03:01:26.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[01Jan2025 03:01:31.724] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jan2025 03:03:17.004] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/EquipmentSet
+[01Jan2025 03:03:17.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[01Jan2025 03:03:17.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 03:03:18.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 03:03:34.995] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[01Jan2025 03:03:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[01Jan2025 03:03:36.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 03:03:37.526] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[01Jan2025 03:03:37.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[01Jan2025 03:03:37.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=71, z=-1115} BlockPos{x=-150, y=70, z=-1115}
+[01Jan2025 03:03:37.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=71, z=-1115} BlockPos{x=-150, y=70, z=-1115}
+[01Jan2025 03:04:11.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[01Jan2025 03:04:24.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[01Jan2025 03:04:24.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[01Jan2025 03:04:56.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[01Jan2025 03:04:56.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqap3qkz6tv2]: started parsing
+[01Jan2025 03:04:56.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqap3qkz6tv2]: Consuming argument ``
+[01Jan2025 03:04:56.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07n3dxmc3mvf7]: started parsing
+[01Jan2025 03:04:56.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07n3dxmc3mvf7]: Consuming argument `0`
+[01Jan2025 03:04:56.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07n3dxmc3mvf7]: Finished looking at arguments. Finalizing command.
+[01Jan2025 03:04:57.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j58nd5rxwocm]: started parsing
+[01Jan2025 03:04:57.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j58nd5rxwocm]: Consuming argument `0`
+[01Jan2025 03:04:57.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j58nd5rxwocm]: Finished looking at arguments. Finalizing command.
+[01Jan2025 03:04:57.160] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[01Jan2025 03:04:57.163] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[01Jan2025 03:04:57.441] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/NiggLand/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23241!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[01Jan2025 03:05:13.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [015oom4kptmmd]: started parsing
+[01Jan2025 03:05:13.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [015oom4kptmmd]: Consuming argument ``
+[01Jan2025 03:05:13.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y0wpr1frpy3c]: started parsing
+[01Jan2025 03:05:13.195] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y0wpr1frpy3c]: Consuming argument `g`
+[01Jan2025 03:05:13.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pnwlrccfty3g]: started parsing
+[01Jan2025 03:05:13.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pnwlrccfty3g]: Consuming argument `gr`
+[01Jan2025 03:05:13.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15e2wpldswg80]: started parsing
+[01Jan2025 03:05:13.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15e2wpldswg80]: Consuming argument `gra`
+[01Jan2025 03:05:13.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ltdmg3j47fr]: started parsing
+[01Jan2025 03:05:13.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ltdmg3j47fr]: Consuming argument `gras`
+[01Jan2025 03:05:14.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gy0nuegh6kvn]: started parsing
+[01Jan2025 03:05:14.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gy0nuegh6kvn]: Consuming argument `grass_block`
+[01Jan2025 03:05:14.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gy0nuegh6kvn]: Finished looking at arguments. Finalizing command.
+[01Jan2025 03:05:57.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=65, z=-1075} BlockPos{x=-146, y=66, z=-1075}
+[01Jan2025 03:05:57.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=65, z=-1075} BlockPos{x=-146, y=66, z=-1075}
+[01Jan2025 03:05:57.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=65, z=-1075} BlockPos{x=-146, y=66, z=-1075}
+[01Jan2025 03:06:15.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=65, z=-1063} BlockPos{x=-163, y=66, z=-1063}
+[01Jan2025 03:06:15.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=65, z=-1063} BlockPos{x=-163, y=66, z=-1063}
+[01Jan2025 03:06:15.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=65, z=-1063} BlockPos{x=-163, y=66, z=-1063}
+[01Jan2025 03:06:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=65, z=-1063} BlockPos{x=-163, y=66, z=-1063}
+[01Jan2025 03:06:15.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=64, z=-1063} BlockPos{x=-163, y=66, z=-1063}
+[01Jan2025 03:06:15.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=64, z=-1063} BlockPos{x=-163, y=66, z=-1063}
