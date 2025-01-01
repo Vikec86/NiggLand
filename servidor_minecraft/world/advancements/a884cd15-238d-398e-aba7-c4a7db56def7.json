@@ -510,6 +510,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 18:49:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-12-23 17:36:19 +0000"
@@ -669,6 +675,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-25 01:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-01-01 18:49:17 +0000"
     },
     "done": true
   },
@@ -1203,6 +1215,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-23 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-01-01 18:49:17 +0000"
     },
     "done": true
   },
@@ -6209,6 +6227,12 @@
   "cfm:recipes/cfm/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-24 21:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-01-01 18:49:17 +0000"
     },
     "done": true
   },
