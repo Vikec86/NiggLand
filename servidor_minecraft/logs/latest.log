@@ -1075,3 +1075,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 19:54:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the time to 1000]
 [01Jan2025 19:55:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
 [01Jan2025 20:00:26.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 20:04:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 20:05:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the time to 1000]
+[01Jan2025 20:09:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

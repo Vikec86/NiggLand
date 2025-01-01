@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:33:04 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:33:04 +0000"
@@ -269,9 +281,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-01-01 20:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-24 16:45:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -443,6 +467,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-23 18:26:44 +0000"
@@ -476,6 +506,12 @@
   "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-24 17:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -785,6 +821,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-23 17:39:24 +0000",
@@ -1080,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 17:02:28 +0000"
@@ -1167,6 +1215,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-24 17:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -1404,6 +1458,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-23 17:19:08 +0000"
@@ -1437,6 +1497,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -1627,6 +1693,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-23 17:24:52 +0000"
@@ -1729,6 +1801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-23 17:03:19 +0000"
@@ -1744,6 +1822,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2024-12-23 17:24:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_cooler": {
+    "criteria": {
+      "has_terracotta": "2025-01-01 20:07:14 +0000"
     },
     "done": true
   },
@@ -1813,6 +1897,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_top": "2025-01-01 20:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 17:02:37 +0000"
@@ -1846,6 +1936,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -1978,6 +2074,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-23 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -2292,6 +2394,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
     "criteria": {
       "has_treated_sticks": "2024-12-24 18:10:54 +0000"
@@ -2319,6 +2427,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-24 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -2469,6 +2583,12 @@
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2024-12-23 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -2673,6 +2793,12 @@
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-12-23 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
@@ -3188,6 +3314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-23 17:19:21 +0000"
@@ -3332,6 +3464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2024-12-23 18:20:37 +0000"
@@ -3410,6 +3548,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-23 17:38:54 +0000"
@@ -3483,6 +3627,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2024-12-23 18:18:19 +0000"
@@ -3522,6 +3672,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-23 17:26:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:06:20 +0000"
     },
     "done": true
   },
