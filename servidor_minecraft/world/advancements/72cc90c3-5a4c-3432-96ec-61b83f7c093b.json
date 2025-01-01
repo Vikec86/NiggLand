@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-01 19:40:05 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-24 18:12:12 +0000"
@@ -1245,6 +1251,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_sticks": "2024-12-24 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-01 19:40:05 +0000"
     },
     "done": true
   },
@@ -2604,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-01 19:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 17:02:37 +0000"
@@ -3314,6 +3332,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-01 19:40:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "grassland": "2024-12-23 17:03:19 +0000"
@@ -3408,6 +3432,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-24 16:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-01 19:40:05 +0000"
     },
     "done": true
   },

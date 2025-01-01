@@ -1067,3 +1067,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 19:37:55.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [01Jan2025 19:40:05.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Ice Bucket Challenge]
 [01Jan2025 19:40:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the time to 1000]
+[01Jan2025 19:43:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[01Jan2025 19:47:21.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD moved too quickly! -7.982783284404206,0.0,-6.291563889711824
+[01Jan2025 19:52:02.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Fly]

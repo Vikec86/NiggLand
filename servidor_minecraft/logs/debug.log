@@ -13065,3 +13065,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 19:41:11.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iksekmr5lxnx]: started parsing
 [01Jan2025 19:41:11.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iksekmr5lxnx]: Consuming argument `glass`
 [01Jan2025 19:41:11.970] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iksekmr5lxnx]: Finished looking at arguments. Finalizing command.
+[01Jan2025 19:42:48.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:42:48.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:43:49.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:43:49.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:43:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
+[01Jan2025 19:45:15.940] [Server thread/DEBUG] [com.infamous.dungeons_libraries.DungeonsLibraries/]: CrossbowItem#performShooting was canceled by Dungeons Libraries and replaced with its CrossbowGear#fireCrossbowProjectiles
+[01Jan2025 19:45:21.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[01Jan2025 19:45:43.448] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Jan2025 19:45:43.453] [Server thread/DEBUG] [mixin/]: Mixing CooldownAccessor from dungeons_libraries.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Jan2025 19:47:21.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIK_N_DA_HOOD moved too quickly! -7.982783284404206,0.0,-6.291563889711824
+[01Jan2025 19:47:48.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:47:48.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:52:02.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Summoned new Fly]
+[01Jan2025 19:52:48.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:52:48.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
