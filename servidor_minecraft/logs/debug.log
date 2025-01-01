@@ -13036,3 +13036,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 19:31:11.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
 [01Jan2025 19:31:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
 [01Jan2025 19:32:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 19:32:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 19:32:48.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:32:48.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:34:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Adventure Mode]
+[01Jan2025 19:34:42.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 19:34:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 19:34:58.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 19:35:25.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 19:36:00.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 19:36:32.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[01Jan2025 19:36:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[01Jan2025 19:37:48.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:37:48.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:37:55.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[01Jan2025 19:40:05.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Ice Bucket Challenge]
+[01Jan2025 19:40:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set the time to 1000]
+[01Jan2025 19:41:10.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pn5fy06fjyuh]: started parsing
+[01Jan2025 19:41:10.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pn5fy06fjyuh]: Consuming argument ``
+[01Jan2025 19:41:10.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5xge8uaono8]: started parsing
+[01Jan2025 19:41:10.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5xge8uaono8]: Consuming argument `g`
+[01Jan2025 19:41:10.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv4wyymmxhwq]: started parsing
+[01Jan2025 19:41:10.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv4wyymmxhwq]: Consuming argument `gl`
+[01Jan2025 19:41:10.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00f1uh2belph3]: started parsing
+[01Jan2025 19:41:10.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00f1uh2belph3]: Consuming argument `gla`
+[01Jan2025 19:41:10.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [181szet8tvq89]: started parsing
+[01Jan2025 19:41:10.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [181szet8tvq89]: Consuming argument `glas`
+[01Jan2025 19:41:11.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iksekmr5lxnx]: started parsing
+[01Jan2025 19:41:11.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iksekmr5lxnx]: Consuming argument `glass`
+[01Jan2025 19:41:11.970] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iksekmr5lxnx]: Finished looking at arguments. Finalizing command.
