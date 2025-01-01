@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-01 18:24:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-23 19:50:01 +0000"
@@ -471,6 +477,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-23 18:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-01 18:24:58 +0000"
     },
     "done": true
   },
@@ -975,6 +987,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-01 18:24:58 +0000"
     },
     "done": true
   },
@@ -7277,6 +7295,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-23 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 18:24:58 +0000"
     },
     "done": true
   },
