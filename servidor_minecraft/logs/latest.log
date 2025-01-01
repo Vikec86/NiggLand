@@ -965,3 +965,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 18:05:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
 [01Jan2025 18:05:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
 [01Jan2025 18:10:14.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 18:14:41.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[01Jan2025 18:15:25.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[01Jan2025 18:19:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

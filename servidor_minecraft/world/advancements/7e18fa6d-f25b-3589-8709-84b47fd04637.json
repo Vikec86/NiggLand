@@ -1026,6 +1026,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-01 18:12:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-23 18:29:14 +0000"
@@ -5615,6 +5621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-01 18:12:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/food/smoking/bread": {
     "criteria": {
       "has_item": "2024-12-23 20:03:37 +0000"
@@ -8144,6 +8156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-01 18:12:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
     "criteria": {
       "has_ingot_aluminum": "2024-12-24 17:39:56 +0000"
@@ -8396,6 +8414,12 @@
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-01 18:12:20 +0000"
     },
     "done": true
   },
