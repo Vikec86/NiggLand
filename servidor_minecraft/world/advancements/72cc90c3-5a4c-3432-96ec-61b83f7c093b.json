@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-12-23 18:02:54 +0000"
@@ -303,6 +309,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 17:02:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -735,6 +747,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
     },
     "done": true
   },
@@ -1408,6 +1426,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-01-03 02:56:13 +0000"
@@ -1606,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 17:25:59 +0000"
@@ -1690,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-23 17:19:08 +0000"
@@ -1741,6 +1777,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-23 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -1831,6 +1873,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-23 17:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
     },
     "done": true
   },
@@ -2117,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-03 02:56:31 +0000"
@@ -2175,6 +2229,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-23 18:26:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -2370,6 +2430,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-23 17:19:10 +0000"
@@ -2460,6 +2532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-24 17:02:28 +0000"
@@ -2469,6 +2547,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 17:02:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -2493,6 +2577,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-24 16:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
     },
     "done": true
   },
@@ -3044,6 +3134,7 @@
       "minecraft:spider": "2024-12-23 17:44:08 +0000",
       "minecraft:creeper": "2024-12-24 17:59:16 +0000",
       "minecraft:stray": "2024-12-23 17:46:52 +0000",
+      "minecraft:enderman": "2025-01-03 03:08:57 +0000",
       "minecraft:zombie": "2024-12-23 17:39:56 +0000",
       "minecraft:drowned": "2024-12-24 17:57:52 +0000"
     },
@@ -3064,6 +3155,12 @@
   "create:recipes/create.base/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2024-12-23 17:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -3208,6 +3305,12 @@
   "paraglider:all_vessels": {
     "criteria": {
       "code_triggered": "2025-01-01 20:28:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -3466,6 +3569,12 @@
   "cfm:recipes/cfm/orange_picket_fence": {
     "criteria": {
       "has_concrete": "2025-01-01 20:16:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-03 03:11:19 +0000"
     },
     "done": true
   },
@@ -3965,6 +4074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-24 17:04:56 +0000"
@@ -4052,6 +4167,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-24 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -4158,6 +4279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-23 17:47:14 +0000"
@@ -4215,6 +4342,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-23 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
     },
     "done": true
   },
@@ -4482,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:11:19 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
     "criteria": {
       "has_metal_rod": "2024-12-24 18:10:08 +0000"
@@ -4575,6 +4714,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_lead_from_blasting3": {
     "criteria": {
       "has_raw_lead": "2024-12-24 16:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
     },
     "done": true
   },
@@ -4728,6 +4873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-23 18:26:44 +0000"
@@ -4737,6 +4888,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-23 17:47:14 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-01-03 03:10:43 +0000"
     },
     "done": true
   },
