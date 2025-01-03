@@ -318,6 +318,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 03:30:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 02:56:31 +0000"
@@ -390,6 +396,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2024-12-24 16:45:26 +0000"
@@ -399,6 +411,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-01-03 03:29:33 +0000"
     },
     "done": true
   },
@@ -690,6 +708,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2024-12-23 17:39:37 +0000"
@@ -723,6 +747,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },
@@ -2520,6 +2550,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-23 17:24:38 +0000"
@@ -2730,6 +2766,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-23 17:24:53 +0000"
@@ -2739,6 +2781,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-23 17:24:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },
@@ -2775,6 +2823,12 @@
   "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-24 17:04:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },
@@ -2985,6 +3039,12 @@
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-12-23 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },
@@ -3488,6 +3548,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_nether": {
+    "criteria": {
+      "gobber2_boots_nether": "2025-01-03 03:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-23 17:33:14 +0000"
@@ -3647,6 +3713,7 @@
       "minecraft:grove": "2024-12-23 17:20:49 +0000",
       "minecraft:forest": "2024-12-23 18:12:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 18:05:44 +0000",
+      "minecraft:deep_dark": "2025-01-03 03:19:37 +0000",
       "minecraft:meadow": "2024-12-23 18:14:53 +0000",
       "minecraft:plains": "2024-12-23 18:18:35 +0000"
     },
@@ -3796,6 +3863,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_top": "2025-01-01 20:07:14 +0000"
@@ -3871,6 +3944,12 @@
   "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-24 17:05:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },
@@ -4003,6 +4082,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-23 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },
@@ -4197,6 +4282,12 @@
   "cfm:recipes/cfm/orange_kitchen_sink": {
     "criteria": {
       "has_top": "2025-01-01 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:30:59 +0000"
     },
     "done": true
   },
@@ -4420,6 +4511,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:00 +0000"
     },
     "done": true
   },

@@ -10919,3 +10919,154 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 03:18:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
 [03Jan2025 03:18:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
 [03Jan2025 03:18:15.460] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[03Jan2025 03:19:29.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[03Jan2025 03:19:29.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:19:29.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:19:47.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[03Jan2025 03:20:13.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[03Jan2025 03:20:13.999] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:sky_island_1
+[03Jan2025 03:20:14.013] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:crabspawn
+[03Jan2025 03:20:14.021] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of laendli_transport:ufo_3
+[03Jan2025 03:20:18.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=-56, z=-1466} BlockPos{x=253, y=-56, z=-1465}
+[03Jan2025 03:20:19.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1467} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1467} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1467} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1467} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1467} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1467} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=255, y=-56, z=-1469} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1470} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1470} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=250, y=-56, z=-1472} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=250, y=-56, z=-1472} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=250, y=-56, z=-1472} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=255, y=-56, z=-1470} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1471} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:19.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1471} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1471} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=252, y=-56, z=-1474} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=252, y=-56, z=-1474} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=252, y=-56, z=-1474} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=-56, z=-1472} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1473} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1473} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1473} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1473} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=-56, z=-1473} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:20.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=255, y=-56, z=-1473} BlockPos{x=252, y=-56, z=-1466}
+[03Jan2025 03:20:23.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=-56, z=-1486} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:23.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=-56, z=-1486} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:23.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=259, y=-56, z=-1486} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:23.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=259, y=-56, z=-1486} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:23.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=260, y=-56, z=-1485} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:23.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=260, y=-56, z=-1485} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:23.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=260, y=-56, z=-1485} BlockPos{x=260, y=-56, z=-1484}
+[03Jan2025 03:20:25.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=259, y=-56, z=-1500} BlockPos{x=261, y=-56, z=-1499}
+[03Jan2025 03:20:46.481] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[03Jan2025 03:20:47.832] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[03Jan2025 03:20:50.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=291, y=-56, z=-1540} BlockPos{x=292, y=-56, z=-1540}
+[03Jan2025 03:20:50.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=-56, z=-1543} BlockPos{x=292, y=-55, z=-1541}
+[03Jan2025 03:21:29.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=317, y=-54, z=-1537} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:29.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=317, y=-53, z=-1536} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:29.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=317, y=-54, z=-1536} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:29.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=317, y=-54, z=-1536} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:29.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=-54, z=-1537} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:29.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=-54, z=-1537} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:29.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=319, y=-54, z=-1536} BlockPos{x=315, y=-53, z=-1537}
+[03Jan2025 03:21:30.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=-55, z=-1533} BlockPos{x=318, y=-54, z=-1535}
+[03Jan2025 03:21:30.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=-55, z=-1533} BlockPos{x=318, y=-54, z=-1535}
+[03Jan2025 03:21:30.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=319, y=-54, z=-1535} BlockPos{x=318, y=-54, z=-1535}
+[03Jan2025 03:21:30.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=319, y=-55, z=-1534} BlockPos{x=319, y=-54, z=-1533}
+[03Jan2025 03:21:30.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=319, y=-55, z=-1534} BlockPos{x=319, y=-54, z=-1533}
+[03Jan2025 03:22:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 1112 entities]
+[03Jan2025 03:22:46.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=-47, z=-1526} BlockPos{x=316, y=-49, z=-1526}
+[03Jan2025 03:23:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:24:04.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[03Jan2025 03:24:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[03Jan2025 03:24:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[03Jan2025 03:24:15.329] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[03Jan2025 03:24:29.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:24:29.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:24:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to VIK_N_DA_HOOD]
+[03Jan2025 03:25:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 99 entities]
+[03Jan2025 03:25:19.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:25:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[03Jan2025 03:25:31.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[03Jan2025 03:25:33.290] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[03Jan2025 03:25:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:25:35.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Jan2025 03:25:54.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was slain by Sanguchito666 using [Pene de perro]
+[03Jan2025 03:25:56.233] [Server thread/DEBUG] [twilightforest/]: Player L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b) respawned and received items held in storage
+[03Jan2025 03:26:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to VIK_N_DA_HOOD]
+[03Jan2025 03:26:31.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 7.850386680700197,3.7113403536609724,13.266800309241262
+[03Jan2025 03:26:36.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 6 entities]
+[03Jan2025 03:26:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[03Jan2025 03:27:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Banana Slug Slime]
+[03Jan2025 03:27:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[03Jan2025 03:28:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 03:28:18.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:28:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[03Jan2025 03:28:50.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Killed Sanguchito666]
+[03Jan2025 03:28:52.409] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[03Jan2025 03:28:53.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 117 entities]
+[03Jan2025 03:29:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to L00m4]
+[03Jan2025 03:29:29.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:29:29.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:29:45.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 was killed by magic whilst trying to escape Sanguchito666
+[03Jan2025 03:29:46.852] [Server thread/DEBUG] [twilightforest/]: Player L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b) respawned and received items held in storage
+[03Jan2025 03:30:43.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 03:30:45.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:31:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Weather the Worst the Nether can Muster]
+[03Jan2025 03:31:06.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[03Jan2025 03:31:06.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[03Jan2025 03:31:14.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[03Jan2025 03:31:14.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ssz7x0rceg6l]: started parsing
+[03Jan2025 03:31:14.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ssz7x0rceg6l]: Consuming argument ``
+[03Jan2025 03:31:14.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shosrilbdvyf]: started parsing
+[03Jan2025 03:31:14.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shosrilbdvyf]: Consuming argument `g`
+[03Jan2025 03:31:14.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [000mz41q3xuv7]: started parsing
+[03Jan2025 03:31:14.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [000mz41q3xuv7]: Consuming argument `gr`
+[03Jan2025 03:31:14.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tbmsxsffj94z]: started parsing
+[03Jan2025 03:31:14.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tbmsxsffj94z]: Consuming argument `gra`
+[03Jan2025 03:31:14.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmivkj6nujvh]: started parsing
+[03Jan2025 03:31:14.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmivkj6nujvh]: Consuming argument `gras`
+[03Jan2025 03:31:15.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5dyyobl5xuf]: started parsing
+[03Jan2025 03:31:15.635] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5dyyobl5xuf]: Consuming argument `grass_block`
+[03Jan2025 03:31:15.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5dyyobl5xuf]: Finished looking at arguments. Finalizing command.
+[03Jan2025 03:31:15.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[03Jan2025 03:31:15.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[03Jan2025 03:31:15.708] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/NiggLand/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23241!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[03Jan2025 03:32:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:32:21.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 19 entities]
+[03Jan2025 03:32:39.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[03Jan2025 03:32:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:34:21.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfc54y5jqfgx]: started parsing
+[03Jan2025 03:34:21.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mfc54y5jqfgx]: Consuming argument ``
+[03Jan2025 03:34:21.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ohmq2kzgdv9n]: started parsing
+[03Jan2025 03:34:21.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ohmq2kzgdv9n]: Consuming argument `g`
+[03Jan2025 03:34:21.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00rwaugl9julf]: started parsing
+[03Jan2025 03:34:21.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00rwaugl9julf]: Consuming argument `gr`
+[03Jan2025 03:34:21.593] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6gyqy8vlb6h]: started parsing
+[03Jan2025 03:34:21.593] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6gyqy8vlb6h]: Consuming argument `gra`
+[03Jan2025 03:34:21.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nem2qeklnlw9]: started parsing
+[03Jan2025 03:34:21.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nem2qeklnlw9]: Consuming argument `gras`
+[03Jan2025 03:34:22.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e8k31m2f3r3c]: started parsing
+[03Jan2025 03:34:22.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e8k31m2f3r3c]: Consuming argument `grass_block`
+[03Jan2025 03:34:22.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e8k31m2f3r3c]: Finished looking at arguments. Finalizing command.
+[03Jan2025 03:34:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:34:29.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:34:29.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:34:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:35:11.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[03Jan2025 03:35:12.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:35:24.397] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[03Jan2025 03:35:58.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Dirt]
+[03Jan2025 03:36:34.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[03Jan2025 03:36:53.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved wrongly!
+[03Jan2025 03:37:02.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:37:14.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[03Jan2025 03:37:31.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[03Jan2025 03:38:02.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:38:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Enchanter]
+[03Jan2025 03:38:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
+[03Jan2025 03:39:24.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
