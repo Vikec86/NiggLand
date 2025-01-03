@@ -2593,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-03 04:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-24 00:24:54 +0000"
@@ -5107,6 +5113,12 @@
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-23 23:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-03 04:06:20 +0000"
     },
     "done": true
   },
