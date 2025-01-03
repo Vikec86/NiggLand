@@ -1145,3 +1145,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 03:49:38.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
 [03Jan2025 03:49:39.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=2, z=-957} BlockPos{x=-488, y=3, z=-959}
 [03Jan2025 03:49:39.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=2, z=-956} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:50:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:50:28.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L00m4 lost connection: Disconnected
+[03Jan2025 03:50:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 left the game
+[03Jan2025 03:50:37.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 18 entities]
+[03Jan2025 03:51:04.778] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1453259b
+[03Jan2025 03:51:04.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naeceran[/127.69.122.125:41461] logged in with entity id 41989 at (-111.53440258902053, 70.0, -1194.300000011921)
+[03Jan2025 03:51:04.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran joined the game
+[03Jan2025 03:51:04.895] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03Jan2025 03:51:04.896] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03Jan2025 03:51:04.896] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03Jan2025 03:51:04.897] [Server thread/INFO] [Jade/]: Syncing config to Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69)
+[03Jan2025 03:51:48.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[03Jan2025 03:52:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:53:51.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Set own game mode to Creative Mode]
+[03Jan2025 03:56:43.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 45 entities]
+[03Jan2025 03:56:51.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[03Jan2025 03:56:55.912] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@720e3ed7
+[03Jan2025 03:56:55.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L00m4[/127.20.139.105:58799] logged in with entity id 44035 at (-74.66394673277182, 111.0, -934.0392187802901)
+[03Jan2025 03:56:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 joined the game
+[03Jan2025 03:56:56.110] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03Jan2025 03:56:56.118] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03Jan2025 03:56:56.119] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03Jan2025 03:56:56.119] [Server thread/INFO] [Jade/]: Syncing config to L00m4 (72cc90c3-5a4c-3432-96ec-61b83f7c093b)
+[03Jan2025 03:57:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 9 entities]
+[03Jan2025 03:57:30.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Naeceran]
+[03Jan2025 03:57:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[03Jan2025 03:57:44.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[03Jan2025 03:57:46.720] [Worker-Main-42/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[03Jan2025 03:58:11.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:58:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[03Jan2025 03:58:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 409 entities]
+[03Jan2025 03:58:44.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 has made the advancement [Nightmare Fuel]
+[03Jan2025 03:59:21.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=35, z=-108} BlockPos{x=-29, y=34, z=-107}
+[03Jan2025 03:59:21.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=35, z=-107} BlockPos{x=-28, y=34, z=-107}
+[03Jan2025 03:59:21.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=35, z=-107} BlockPos{x=-28, y=34, z=-107}
+[03Jan2025 03:59:21.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=35, z=-106} BlockPos{x=-28, y=34, z=-107}
+[03Jan2025 03:59:21.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=34, z=-106} BlockPos{x=-28, y=34, z=-107}
+[03Jan2025 03:59:21.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=34, z=-106} BlockPos{x=-28, y=34, z=-107}
+[03Jan2025 03:59:24.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=38, z=-101} BlockPos{x=-26, y=38, z=-101}
+[03Jan2025 03:59:24.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=38, z=-101} BlockPos{x=-26, y=38, z=-101}
+[03Jan2025 03:59:24.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=37, z=-101} BlockPos{x=-26, y=38, z=-101}
+[03Jan2025 03:59:24.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=37, z=-100} BlockPos{x=-26, y=38, z=-101}
+[03Jan2025 03:59:24.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=37, z=-100} BlockPos{x=-26, y=38, z=-101}
+[03Jan2025 03:59:24.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=38, z=-100} BlockPos{x=-27, y=37, z=-99}
+[03Jan2025 03:59:25.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=38, z=-100} BlockPos{x=-27, y=37, z=-99}
+[03Jan2025 03:59:25.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=39, z=-99} BlockPos{x=-28, y=38, z=-99}
+[03Jan2025 03:59:26.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=38, z=-148} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:26.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=38, z=-148} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:26.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=38, z=-148} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:26.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=38, z=-148} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:26.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=38, z=-147} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:26.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=38, z=-147} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:26.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=38, z=-147} BlockPos{x=-1, y=39, z=-153}
+[03Jan2025 03:59:41.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=38, z=-139} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:41.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=38, z=-139} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:41.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=38, z=-139} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:41.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=38, z=-139} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:41.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=38, z=-142} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:41.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=37, z=-142} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:41.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=37, z=-142} BlockPos{x=5, y=38, z=-138}
+[03Jan2025 03:59:55.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=80, z=-66} BlockPos{x=9, y=80, z=-65}
+[03Jan2025 03:59:55.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-65} BlockPos{x=9, y=80, z=-65}
+[03Jan2025 03:59:55.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-65} BlockPos{x=9, y=80, z=-65}
+[03Jan2025 03:59:55.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-65} BlockPos{x=9, y=80, z=-65}
