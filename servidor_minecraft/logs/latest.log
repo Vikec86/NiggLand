@@ -1107,3 +1107,41 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 03:38:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Enchanter]
 [03Jan2025 03:38:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
 [03Jan2025 03:39:24.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
+[03Jan2025 03:40:59.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[03Jan2025 03:41:00.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has reached the goal [Your first recycle]
+[03Jan2025 03:41:01.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:41:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:42:15.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:42:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[03Jan2025 03:42:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[03Jan2025 03:42:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:43:04.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:44:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[03Jan2025 03:44:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:44:15.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:44:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 03:44:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:44:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:45:11.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported Sanguchito666 to L00m4]
+[03Jan2025 03:45:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 03:45:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:45:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:46:38.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:46:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:47:08.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 didn't want to live in the same world as Wither
+[03Jan2025 03:47:08.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[03Jan2025 03:47:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to L00m4]
+[03Jan2025 03:48:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:48:22.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=37, z=-970} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:23.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=37, z=-971} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:49:38.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-959} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:38.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:38.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:38.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:39.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=2, z=-957} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:39.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=2, z=-956} BlockPos{x=-488, y=3, z=-959}

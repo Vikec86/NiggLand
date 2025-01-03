@@ -11070,3 +11070,64 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 03:38:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has made the advancement [Enchanter]
 [03Jan2025 03:38:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
 [03Jan2025 03:39:24.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
+[03Jan2025 03:39:29.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:39:29.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:40:59.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[03Jan2025 03:41:00.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L00m4 has reached the goal [Your first recycle]
+[03Jan2025 03:41:01.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:41:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:42:15.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:42:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[03Jan2025 03:42:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[03Jan2025 03:42:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:43:04.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:44:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[03Jan2025 03:44:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 03:44:15.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:44:29.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:44:29.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:44:34.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[03Jan2025 03:44:34.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[03Jan2025 03:44:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 03:44:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:44:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:45:11.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported Sanguchito666 to L00m4]
+[03Jan2025 03:45:28.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u26durrrbun5]: started parsing
+[03Jan2025 03:45:28.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u26durrrbun5]: Consuming argument ``
+[03Jan2025 03:45:28.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [088g3m9jvpaa3]: started parsing
+[03Jan2025 03:45:28.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [088g3m9jvpaa3]: Consuming argument `g`
+[03Jan2025 03:45:28.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxvumg5te8w]: started parsing
+[03Jan2025 03:45:28.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxvumg5te8w]: Consuming argument `gr`
+[03Jan2025 03:45:28.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032nl0xnh9x4w]: started parsing
+[03Jan2025 03:45:28.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032nl0xnh9x4w]: Consuming argument `gra`
+[03Jan2025 03:45:28.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r3ykzogbmbq]: started parsing
+[03Jan2025 03:45:28.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r3ykzogbmbq]: Consuming argument `gras`
+[03Jan2025 03:45:29.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0jdt9uo05b5]: started parsing
+[03Jan2025 03:45:29.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0jdt9uo05b5]: Consuming argument `grass_block`
+[03Jan2025 03:45:29.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n0jdt9uo05b5]: Finished looking at arguments. Finalizing command.
+[03Jan2025 03:45:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 03:45:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 03:45:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:46:05.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[03Jan2025 03:46:38.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 03:46:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:47:08.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 didn't want to live in the same world as Wither
+[03Jan2025 03:47:08.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[03Jan2025 03:47:10.490] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[03Jan2025 03:47:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to L00m4]
+[03Jan2025 03:48:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:48:22.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-417, y=37, z=-972} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:22.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=37, z=-970} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:23.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=37, z=-971} BlockPos{x=-418, y=37, z=-971}
+[03Jan2025 03:48:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Teleported L00m4 to Sanguchito666]
+[03Jan2025 03:49:29.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:49:29.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:49:38.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-959} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:38.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:38.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:38.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=3, z=-958} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:39.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=2, z=-957} BlockPos{x=-488, y=3, z=-959}
+[03Jan2025 03:49:39.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=2, z=-956} BlockPos{x=-488, y=3, z=-959}
