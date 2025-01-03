@@ -881,3 +881,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 02:45:27.054] [FastSuite Recipe Lookup Thread: 1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
 [03Jan2025 02:45:29.458] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [03Jan2025 02:46:40.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Gave 4 [String] to L00m4]
+[03Jan2025 02:50:44.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[03Jan2025 02:50:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to L00m4]
+[03Jan2025 02:51:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 02:51:50.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 38 entities]
+[03Jan2025 02:51:57.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[03Jan2025 02:52:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[03Jan2025 02:52:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[03Jan2025 02:52:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD got cut in half by a Mechanical Saw
+[03Jan2025 02:52:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Egg]
+[03Jan2025 02:52:52.566] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76505278
+[03Jan2025 02:52:52.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:48435] logged in with entity id 3631 at (-177.8995949896723, 77.5483323364984, -1107.6354581154546)
+[03Jan2025 02:52:52.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[03Jan2025 02:52:52.793] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03Jan2025 02:52:52.795] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03Jan2025 02:52:52.796] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03Jan2025 02:52:52.797] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[03Jan2025 02:53:06.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Survival Mode]
+[03Jan2025 02:53:15.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 7 entities]
+[03Jan2025 02:54:15.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Disconnected
+[03Jan2025 02:54:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
+[03Jan2025 02:56:59.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
