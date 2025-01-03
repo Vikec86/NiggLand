@@ -12801,3 +12801,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 04:10:06.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 04:10:06.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 04:10:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 04:10:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <L00m4> pene come el q tiene sombrilla
+[03Jan2025 04:10:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 04:10:36.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 15 entities]
+[03Jan2025 04:11:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 04:11:15.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[03Jan2025 04:11:18.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 04:11:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported 4 entities to VIK_N_DA_HOOD]
+[03Jan2025 04:12:17.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 6 entities]
+[03Jan2025 04:12:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [L00m4: Set Naeceran's game mode to Survival Mode]
+[03Jan2025 04:12:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naeceran was slain by L00m4
+[03Jan2025 04:12:32.561] [Server thread/DEBUG] [twilightforest/]: Player Naeceran (856eb462-1cb1-3ace-b232-7b9178c57e69) respawned and received items held in storage
+[03Jan2025 04:12:44.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 04:13:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naeceran: Set own game mode to Creative Mode]
+[03Jan2025 04:13:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 04:13:11.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 04:13:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 04:13:50.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to 1945.500000, 111.000000, 912.500000]
+[03Jan2025 04:14:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[03Jan2025 04:14:10.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[03Jan2025 04:14:36.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:rito_village_goddess_statue
+[03Jan2025 04:14:36.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:savanna_village_horned_statue
+[03Jan2025 04:14:36.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[03Jan2025 04:14:36.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[03Jan2025 04:15:06.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:15:06.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:15:52.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[03Jan2025 04:15:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to L00m4]
+[03Jan2025 04:16:00.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 04:16:13.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[03Jan2025 04:16:32.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[03Jan2025 04:16:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has made the advancement [Mariachi?]
+[03Jan2025 04:16:47.048] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03Jan2025 04:16:47.049] [Server thread/DEBUG] [mixin/]: Mixing CooldownAccessor from dungeons_libraries.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03Jan2025 04:17:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to Naeceran]
+[03Jan2025 04:18:00.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to VIK_N_DA_HOOD]
+[03Jan2025 04:19:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 04:19:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set Naeceran's game mode to Spectator Mode]
+[03Jan2025 04:19:27.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 56 entities]
+[03Jan2025 04:19:32.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set Naeceran's game mode to Survival Mode]
+[03Jan2025 04:19:34.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set Naeceran's game mode to Creative Mode]
+[03Jan2025 04:19:41.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Glow Ink Sac]
+[03Jan2025 04:19:45.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[03Jan2025 04:20:06.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:20:06.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:20:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[03Jan2025 04:20:18.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Set own game mode to Creative Mode]
+[03Jan2025 04:20:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set Naeceran's game mode to Survival Mode]
+[03Jan2025 04:20:32.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]

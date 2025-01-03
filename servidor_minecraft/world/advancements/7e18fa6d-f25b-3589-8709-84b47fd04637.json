@@ -2954,6 +2954,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-01-03 04:16:45 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-23 19:26:51 +0000"

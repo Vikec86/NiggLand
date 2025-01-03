@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_cabinet": {
     "criteria": {
       "has_planks": "2025-01-01 20:06:20 +0000"
@@ -378,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:33:04 +0000"
@@ -441,6 +453,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-23 18:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
@@ -1324,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2024-12-23 17:33:04 +0000"
@@ -1834,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_picket_fence": {
     "criteria": {
       "has_concrete": "2025-01-01 19:55:28 +0000"
@@ -1891,6 +1921,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-23 17:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
@@ -2171,6 +2207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 17:33:04 +0000"
@@ -2343,6 +2385,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-23 17:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
@@ -2562,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-23 17:34:59 +0000"
@@ -2571,6 +2625,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-23 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
@@ -3404,6 +3464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2024-12-23 17:27:04 +0000"
@@ -3677,6 +3743,12 @@
   "usefulbackpacks:recipes/filter_configurator": {
     "criteria": {
       "has_leather": "2024-12-23 18:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
@@ -4187,6 +4259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/combat/blindsight_tongue_whip": {
     "criteria": {
       "has_molten_gold_cluster": "2024-12-23 17:03:18 +0000"
@@ -4396,6 +4474,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-03 02:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
@@ -5153,6 +5237,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-03 03:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-03 04:19:50 +0000"
     },
     "done": true
   },
