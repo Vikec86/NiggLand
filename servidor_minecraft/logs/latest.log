@@ -902,3 +902,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Jan2025 02:54:15.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 lost connection: Disconnected
 [03Jan2025 02:54:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 left the game
 [03Jan2025 02:56:59.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:01:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[03Jan2025 03:02:04.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 10 entities]
+[03Jan2025 03:02:58.906] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b7338cd
+[03Jan2025 03:02:58.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanguchito666[/127.126.103.189:39813] logged in with entity id 6217 at (-67.5431230276901, 64.0, -1134.7233228151333)
+[03Jan2025 03:02:59.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 joined the game
+[03Jan2025 03:02:59.239] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03Jan2025 03:02:59.239] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03Jan2025 03:02:59.240] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03Jan2025 03:02:59.240] [Server thread/INFO] [Jade/]: Syncing config to Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7)
+[03Jan2025 03:03:09.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell from a high place
+[03Jan2025 03:06:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[03Jan2025 03:06:33.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[03Jan2025 03:07:15.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[03Jan2025 03:08:16.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[03Jan2025 03:08:35.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 5.659088012435319,2.567171016233786,-13.659960782895723
+[03Jan2025 03:08:44.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 19 entities]
+[03Jan2025 03:08:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[03Jan2025 03:08:51.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Teleported Sanguchito666 to L00m4]
