@@ -1,5 +1,14 @@
 [
   {
+    "inputItem": "gobber2:gobber2_paxel_nether:1",
+    "outputItems": [
+      "gobber2:gobber2_axe_nether:1",
+      "gobber2:gobber2_shovel_nether:1",
+      "gobber2:gobber2_pickaxe_nether:1",
+      "gobber2:gobber2_rod_nether:2"
+    ]
+  },
+  {
     "inputItem": "gobber2:gobber2_helmet:1",
     "outputItems": [
       "gobber2:gobber2_ingot:4",
@@ -11,6 +20,12 @@
     "outputItems": [
       "gobber2:gobber2_ingot:2",
       "gobber2:gobber2_rod:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_rod_nether:2",
+    "outputItems": [
+      "gobber2:gobber2_ingot_nether:2"
     ]
   },
   {
@@ -35,10 +50,33 @@
     ]
   },
   {
+    "inputItem": "gobber2:gobber2_paxel_end:1",
+    "outputItems": [
+      "gobber2:gobber2_axe_end:1",
+      "gobber2:gobber2_shovel_end:1",
+      "gobber2:gobber2_pickaxe_end:1",
+      "gobber2:gobber2_rod_end:2"
+    ]
+  },
+  {
     "inputItem": "gobber2:gobber2_chestplate:1",
     "outputItems": [
       "gobber2:gobber2_ingot:7",
       "minecraft:emerald:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_helmet_nether:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot_nether:4",
+      "minecraft:nether_star:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_chestplate_nether:1",
+    "outputItems": [
+      "gobber2:gobber2_ingot_nether:7",
+      "minecraft:nether_star:1"
     ]
   }
 ]
