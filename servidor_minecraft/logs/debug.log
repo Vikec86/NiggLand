@@ -10157,3 +10157,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [04Jan2025 04:19:06.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:nether_dungeon
 [04Jan2025 04:19:44.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
 [04Jan2025 04:19:44.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[04Jan2025 04:20:16.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[04Jan2025 04:20:16.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gcsu0glnqug]: started parsing
+[04Jan2025 04:20:16.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gcsu0glnqug]: Consuming argument ``
+[04Jan2025 04:20:16.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dlk2y5ptikef]: started parsing
+[04Jan2025 04:20:16.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dlk2y5ptikef]: Consuming argument `0`
+[04Jan2025 04:20:16.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dlk2y5ptikef]: Finished looking at arguments. Finalizing command.
+[04Jan2025 04:20:17.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h7xeyloexzvp]: started parsing
+[04Jan2025 04:20:17.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h7xeyloexzvp]: Consuming argument `0`
+[04Jan2025 04:20:17.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h7xeyloexzvp]: Finished looking at arguments. Finalizing command.
+[04Jan2025 04:20:17.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[04Jan2025 04:20:17.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[04Jan2025 04:20:17.533] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/NiggLand/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23241!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[04Jan2025 04:20:18.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:20:18.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 04:21:20.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[04Jan2025 04:21:23.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[04Jan2025 04:21:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[04Jan2025 04:21:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to -383.500000, 66.000000, -79.500000]
+[04Jan2025 04:21:26.437] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[04Jan2025 04:21:26.509] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[04Jan2025 04:21:29.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[04Jan2025 04:21:31.700] [Worker-Main-28/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[04Jan2025 04:21:31.810] [Worker-Main-28/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jan2025 04:21:32.716] [Worker-Main-28/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[04Jan2025 04:21:34.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:soul_sand_valley/soul_brazier_2
+[04Jan2025 04:21:59.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-390, y=35, z=-86} BlockPos{x=-389, y=35, z=-88}
+[04Jan2025 04:21:59.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-390, y=35, z=-86} BlockPos{x=-389, y=35, z=-88}
+[04Jan2025 04:21:59.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-391, y=35, z=-86} BlockPos{x=-389, y=35, z=-88}
+[04Jan2025 04:22:21.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=35, z=-83} BlockPos{x=-416, y=35, z=-80}
+[04Jan2025 04:22:21.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=35, z=-83} BlockPos{x=-416, y=35, z=-80}
+[04Jan2025 04:22:21.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=35, z=-83} BlockPos{x=-416, y=35, z=-80}
+[04Jan2025 04:22:21.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-416, y=35, z=-84} BlockPos{x=-416, y=35, z=-80}
+[04Jan2025 04:22:26.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[04Jan2025 04:22:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[04Jan2025 04:22:32.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[04Jan2025 04:22:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[04Jan2025 04:23:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[04Jan2025 04:24:16.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[04Jan2025 04:25:10.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD didn't want to live in the same world as Wither Skeleton
+[04Jan2025 04:25:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[04Jan2025 04:25:12.611] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[04Jan2025 04:25:17.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:25:17.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 04:26:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[04Jan2025 04:26:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[04Jan2025 04:27:12.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[04Jan2025 04:28:02.685] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:underground_dungeon
+[04Jan2025 04:28:06.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[04Jan2025 04:28:15.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-324, y=46, z=-710} BlockPos{x=-323, y=46, z=-708}
+[04Jan2025 04:28:15.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-324, y=46, z=-710} BlockPos{x=-323, y=46, z=-708}
+[04Jan2025 04:28:15.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-324, y=46, z=-710} BlockPos{x=-323, y=46, z=-708}
+[04Jan2025 04:28:15.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-324, y=46, z=-710} BlockPos{x=-323, y=46, z=-708}
+[04Jan2025 04:28:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=46, z=-710} BlockPos{x=-323, y=46, z=-708}
+[04Jan2025 04:28:23.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[04Jan2025 04:28:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[04Jan2025 04:28:24.196] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:space_dungeon
+[04Jan2025 04:28:25.311] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
+[04Jan2025 04:28:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[04Jan2025 04:28:40.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sky_dungeon
+[04Jan2025 04:28:41.474] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[04Jan2025 04:28:41.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
+[04Jan2025 04:30:10.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-569, y=74, z=-1082} BlockPos{x=-570, y=72, z=-1082}
+[04Jan2025 04:30:10.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-569, y=74, z=-1082} BlockPos{x=-570, y=72, z=-1082}
+[04Jan2025 04:30:17.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:30:17.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
