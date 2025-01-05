@@ -1464,6 +1464,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_paxel_end": {
+    "criteria": {
+      "gobber2_paxel_end": "2025-01-05 19:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-23 23:38:45 +0000"
@@ -3028,6 +3034,12 @@
   "inventorypets:christmastree": {
     "criteria": {
       "crafting_table": "2024-12-25 00:59:14 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe_end": {
+    "criteria": {
+      "gobber2_pickaxe_end": "2025-01-05 19:14:25 +0000"
     },
     "done": true
   },
