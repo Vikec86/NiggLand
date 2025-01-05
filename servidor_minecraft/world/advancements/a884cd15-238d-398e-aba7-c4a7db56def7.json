@@ -4426,6 +4426,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_staff_stars": {
+    "criteria": {
+      "gobber2_staff_stars": "2025-01-05 19:17:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 17:15:12 +0000"
@@ -5518,6 +5524,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-03 04:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 19:16:54 +0000"
     },
     "done": true
   },
@@ -6674,6 +6686,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_paxel_stars": {
+    "criteria": {
+      "gobber2_paxel_stars": "2025-01-05 19:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-25 19:10:57 +0000"
@@ -6894,6 +6912,12 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-25 18:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 19:16:54 +0000"
     },
     "done": true
   },
@@ -7844,6 +7868,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-23 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-01-05 19:16:54 +0000"
     },
     "done": true
   },
