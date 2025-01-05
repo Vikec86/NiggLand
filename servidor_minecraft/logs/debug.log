@@ -10514,3 +10514,38 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [05Jan2025 20:20:40.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jan2025 20:20:40.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jan2025 20:23:42.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Teleported VIK_N_DA_HOOD to Sanguchito666]
+[05Jan2025 20:24:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[05Jan2025 20:25:40.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 20:25:40.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 20:26:54.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[05Jan2025 20:26:54.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[05Jan2025 20:26:58.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[05Jan2025 20:26:58.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ardwp275pui2]: started parsing
+[05Jan2025 20:26:58.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ardwp275pui2]: Consuming argument ``
+[05Jan2025 20:26:58.614] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5kveznfw0wj]: started parsing
+[05Jan2025 20:26:58.614] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5kveznfw0wj]: Consuming argument `g`
+[05Jan2025 20:26:58.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cln1kl56lhxx]: started parsing
+[05Jan2025 20:26:58.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cln1kl56lhxx]: Consuming argument `gr`
+[05Jan2025 20:26:58.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12rb4d9h63452]: started parsing
+[05Jan2025 20:26:58.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12rb4d9h63452]: Consuming argument `gra`
+[05Jan2025 20:26:58.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fngkerc6whks]: started parsing
+[05Jan2025 20:26:58.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fngkerc6whks]: Consuming argument `gras`
+[05Jan2025 20:26:59.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cl5a12wqa432]: started parsing
+[05Jan2025 20:26:59.535] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cl5a12wqa432]: Consuming argument `grass_block`
+[05Jan2025 20:26:59.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cl5a12wqa432]: Finished looking at arguments. Finalizing command.
+[05Jan2025 20:26:59.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[05Jan2025 20:26:59.584] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[05Jan2025 20:29:29.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[05Jan2025 20:30:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanguchito666 fell out of the world
+[05Jan2025 20:30:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanguchito666: Killed Sanguchito666]
+[05Jan2025 20:30:11.045] [Server thread/DEBUG] [twilightforest/]: Player Sanguchito666 (a884cd15-238d-398e-aba7-c4a7db56def7) respawned and received items held in storage
+[05Jan2025 20:30:32.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanguchito666 moved too quickly! 2.720754555263639,4.329858218112875,8.655593918364275
+[05Jan2025 20:30:40.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 20:30:40.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 20:30:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[05Jan2025 20:31:10.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[05Jan2025 20:31:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Spectator Mode]
+[05Jan2025 20:31:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Survival Mode]
+[05Jan2025 20:33:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD fell out of the world
+[05Jan2025 20:33:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Killed VIK_N_DA_HOOD]
+[05Jan2025 20:33:30.363] [Server thread/DEBUG] [twilightforest/]: Player VIK_N_DA_HOOD (7e18fa6d-f25b-3589-8709-84b47fd04637) respawned and received items held in storage
