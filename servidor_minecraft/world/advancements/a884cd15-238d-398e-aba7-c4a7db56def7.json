@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-05 20:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-23 17:24:51 +0000"
@@ -2839,6 +2845,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-05 20:32:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 22:44:36 +0000"
@@ -4622,6 +4634,12 @@
   "cfm:recipes/cfm/dark_oak_crate": {
     "criteria": {
       "has_log": "2024-12-24 21:49:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-05 20:32:36 +0000"
     },
     "done": true
   },
