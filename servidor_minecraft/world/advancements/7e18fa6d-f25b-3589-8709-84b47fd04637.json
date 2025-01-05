@@ -3115,6 +3115,7 @@
       "crystalline_chasm": "2024-12-24 16:27:56 +0000",
       "withered_abyss": "2024-12-24 16:13:50 +0000",
       "field": "2024-12-24 16:39:31 +0000",
+      "orchard": "2025-01-05 19:38:31 +0000",
       "coniferous_forest": "2024-12-23 19:01:10 +0000",
       "spider_nest": "2024-12-23 18:30:52 +0000",
       "dryland": "2024-12-23 18:17:53 +0000",
@@ -4715,6 +4716,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-01-05 19:42:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-23 18:28:21 +0000"
@@ -6034,6 +6041,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-12-24 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-01-05 19:42:10 +0000"
     },
     "done": true
   },
@@ -7786,6 +7799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-01-05 19:42:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 18:24:58 +0000"
@@ -8461,6 +8480,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-01-03 04:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2025-01-05 19:42:10 +0000"
     },
     "done": true
   },
