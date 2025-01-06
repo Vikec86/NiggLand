@@ -10655,3 +10655,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Jan2025 04:02:33.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 24 entities]
 [06Jan2025 04:03:08.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 04:03:09.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 04:04:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[06Jan2025 04:06:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 10 entities]
+[06Jan2025 04:08:08.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:08:08.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 04:09:07.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[06Jan2025 04:11:31.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:tree_top
+[06Jan2025 04:12:36.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 10 entities]
+[06Jan2025 04:13:08.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:13:08.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
