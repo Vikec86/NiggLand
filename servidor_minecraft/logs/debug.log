@@ -10097,3 +10097,83 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Jan2025 02:39:40.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/item/attachment/IAttachment$Type
 [06Jan2025 02:40:17.101] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
 [06Jan2025 02:41:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 11 entities]
+[06Jan2025 02:42:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[06Jan2025 02:42:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[06Jan2025 02:42:29.494] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[06Jan2025 02:42:57.669] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.670] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.670] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.671] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.671] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.672] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.672] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.675] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[06Jan2025 02:42:57.675] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.676] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.676] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.676] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.677] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.677] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.678] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.678] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.679] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.679] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.680] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.680] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[06Jan2025 02:42:57.681] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.682] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.683] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[06Jan2025 02:42:57.683] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.683] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[06Jan2025 02:42:57.684] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[06Jan2025 02:42:57.687] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.687] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.688] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.689] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.689] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.689] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.690] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.690] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.691] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.691] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.691] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[06Jan2025 02:42:57.726] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipState
+[06Jan2025 02:43:09.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 02:43:09.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 02:45:10.342] [FastSuite Recipe Lookup Thread: 4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
+[06Jan2025 02:46:18.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 19 entities]
+[06Jan2025 02:47:15.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[06Jan2025 02:48:09.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 02:48:09.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 02:48:23.693] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[06Jan2025 02:51:25.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set own game mode to Creative Mode]
+[06Jan2025 02:51:27.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[06Jan2025 02:51:30.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[06Jan2025 02:51:30.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[06Jan2025 02:51:53.700] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[06Jan2025 02:51:53.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f7qztuhipe4x]: started parsing
+[06Jan2025 02:51:53.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f7qztuhipe4x]: Consuming argument ``
+[06Jan2025 02:51:53.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h2rwgsqqcwbg]: started parsing
+[06Jan2025 02:51:53.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h2rwgsqqcwbg]: Consuming argument `w`
+[06Jan2025 02:51:53.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lci1tkch9uae]: started parsing
+[06Jan2025 02:51:53.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lci1tkch9uae]: Consuming argument `wa`
+[06Jan2025 02:51:54.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12jdccpxxn2ia]: started parsing
+[06Jan2025 02:51:54.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12jdccpxxn2ia]: Consuming argument `wat`
+[06Jan2025 02:51:55.354] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0festyfybuv8h]: started parsing
+[06Jan2025 02:51:55.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0festyfybuv8h]: Consuming argument `water`
+[06Jan2025 02:51:55.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0festyfybuv8h]: Finished looking at arguments. Finalizing command.
+[06Jan2025 02:51:55.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[06Jan2025 02:51:55.416] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[06Jan2025 02:52:04.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oxtxsboo0jwt]: started parsing
+[06Jan2025 02:52:04.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oxtxsboo0jwt]: Consuming argument ``
+[06Jan2025 02:52:05.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ovhjq58tiwj]: started parsing
+[06Jan2025 02:52:05.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ovhjq58tiwj]: Consuming argument `w`
+[06Jan2025 02:52:05.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fmfine85antx]: started parsing
+[06Jan2025 02:52:05.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fmfine85antx]: Consuming argument `wa`
+[06Jan2025 02:52:06.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cugysf6wpfuj]: started parsing
+[06Jan2025 02:52:06.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cugysf6wpfuj]: Consuming argument `wat`
+[06Jan2025 02:52:07.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rwycdk5zu2rp]: started parsing
+[06Jan2025 02:52:07.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rwycdk5zu2rp]: Consuming argument `water`
+[06Jan2025 02:52:07.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rwycdk5zu2rp]: Finished looking at arguments. Finalizing command.
+[06Jan2025 02:52:07.104] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/NiggLand/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23241!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[06Jan2025 02:52:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
