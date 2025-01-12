@@ -893,3 +893,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jan2025 04:06:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
 [12Jan2025 04:08:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Saved the game]
 [12Jan2025 04:08:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 188 entities]
+[12Jan2025 04:11:11.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the time to 1000]
+[12Jan2025 04:11:15.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIK_N_DA_HOOD: Set the weather to clear]
+[12Jan2025 04:13:51.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[12Jan2025 04:13:51.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[12Jan2025 04:14:00.432] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[12Jan2025 04:14:04.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/EditSession$Stage
+[12Jan2025 04:14:04.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/extent/reorder/MultiStageReorder$PlacementPriority
+[12Jan2025 04:14:17.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/function/operation/ChangeSetExecutor$Type
+[12Jan2025 04:15:21.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[12Jan2025 04:15:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIK_N_DA_HOOD has completed the challenge [Serious Dedication]
+[12Jan2025 04:15:38.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 8 entities]
+[12Jan2025 04:16:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]
+[12Jan2025 04:20:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set the weather to clear]

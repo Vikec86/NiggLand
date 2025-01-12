@@ -8873,6 +8873,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-01-12 04:15:21 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
     "criteria": {
       "has_ingot_aluminum": "2024-12-24 17:39:56 +0000"
